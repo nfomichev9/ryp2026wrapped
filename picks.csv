@@ -1,0 +1,3486 @@
+week,player,game,spread,pick,confidence
+4,ADon,SEA @ ARI,-0.5,SEA,1
+4,ADon,MIN @ PIT,2.5,MIN,2
+4,ADon,NO @ BUF,-16.5,NO,1
+4,ADon,TEN @ HOU,-7.5,TEN,1
+4,ADon,CLE @ DET,-9.5,DET,1
+4,ADon,WAS @ ATL,2.5,ATL,1
+4,ADon,PHI @ TB,3.5,PHI,1
+4,ADon,CAR @ NE,-5.5,NE,1
+4,ADon,LAC @ NYG,5.5,LAC,1
+4,ADon,JAX @ SF,-3.5,SF,1
+4,ADon,IND @ LAR,-3.5,LAR,1
+4,ADon,CHI @ LV,-0.5,CHI,1
+4,ADon,BAL @ KC,2.5,BAL,1
+4,ADon,GB @ DAL,6.5,GB,1
+4,ADon,NYJ @ MIA,-2.5,NYJ,1
+4,ADon,CIN @ DEN,-7.5,DEN,1
+4,b_hop,SEA @ ARI,-0.5,SEA,1
+4,b_hop,MIN @ PIT,2.5,MIN,1
+4,b_hop,NO @ BUF,-16.5,NO,1
+4,b_hop,TEN @ HOU,-7.5,TEN,1
+4,b_hop,CLE @ DET,-9.5,DET,1
+4,b_hop,WAS @ ATL,2.5,ATL,1
+4,b_hop,PHI @ TB,3.5,PHI,1
+4,b_hop,CAR @ NE,-5.5,NE,1
+4,b_hop,LAC @ NYG,5.5,LAC,2
+4,b_hop,JAX @ SF,-3.5,SF,1
+4,b_hop,IND @ LAR,-3.5,LAR,1
+4,b_hop,CHI @ LV,-0.5,CHI,1
+4,b_hop,BAL @ KC,2.5,BAL,1
+4,b_hop,GB @ DAL,6.5,GB,1
+4,b_hop,NYJ @ MIA,-2.5,MIA,1
+4,b_hop,CIN @ DEN,-7.5,DEN,1
+4,derelicious,SEA @ ARI,-0.5,SEA,1
+4,derelicious,MIN @ PIT,2.5,PIT,1
+4,derelicious,NO @ BUF,-16.5,BUF,1
+4,derelicious,TEN @ HOU,-7.5,TEN,1
+4,derelicious,CLE @ DET,-9.5,CLE,1
+4,derelicious,WAS @ ATL,2.5,WAS,1
+4,derelicious,PHI @ TB,3.5,TB,1
+4,derelicious,CAR @ NE,-5.5,NE,1
+4,derelicious,LAC @ NYG,5.5,LAC,1
+4,derelicious,JAX @ SF,-3.5,JAX,1
+4,derelicious,IND @ LAR,-3.5,IND,2
+4,derelicious,CHI @ LV,-0.5,CHI,1
+4,derelicious,BAL @ KC,2.5,BAL,1
+4,derelicious,GB @ DAL,6.5,DAL,1
+4,derelicious,NYJ @ MIA,-2.5,MIA,1
+4,derelicious,CIN @ DEN,-7.5,CIN,1
+4,Exciting Whites,SEA @ ARI,-0.5,ARI,1
+4,Exciting Whites,MIN @ PIT,2.5,PIT,1
+4,Exciting Whites,NO @ BUF,-16.5,BUF,1
+4,Exciting Whites,TEN @ HOU,-7.5,HOU,1
+4,Exciting Whites,CLE @ DET,-9.5,DET,1
+4,Exciting Whites,WAS @ ATL,2.5,ATL,1
+4,Exciting Whites,PHI @ TB,3.5,TB,1
+4,Exciting Whites,CAR @ NE,-5.5,CAR,1
+4,Exciting Whites,LAC @ NYG,5.5,LAC,2
+4,Exciting Whites,JAX @ SF,-3.5,SF,1
+4,Exciting Whites,IND @ LAR,-3.5,LAR,1
+4,Exciting Whites,CHI @ LV,-0.5,CHI,1
+4,Exciting Whites,BAL @ KC,2.5,BAL,1
+4,Exciting Whites,GB @ DAL,6.5,DAL,1
+4,Exciting Whites,NYJ @ MIA,-2.5,NYJ,1
+4,Exciting Whites,CIN @ DEN,-7.5,DEN,1
+4,Kevin,SEA @ ARI,-0.5,SEA,1
+4,Kevin,MIN @ PIT,2.5,PIT,2
+4,Kevin,NO @ BUF,-16.5,NO,1
+4,Kevin,TEN @ HOU,-7.5,TEN,1
+4,Kevin,CLE @ DET,-9.5,DET,1
+4,Kevin,WAS @ ATL,2.5,ATL,1
+4,Kevin,PHI @ TB,3.5,PHI,1
+4,Kevin,CAR @ NE,-5.5,NE,1
+4,Kevin,LAC @ NYG,5.5,LAC,1
+4,Kevin,JAX @ SF,-3.5,SF,1
+4,Kevin,IND @ LAR,-3.5,LAR,1
+4,Kevin,CHI @ LV,-0.5,CHI,1
+4,Kevin,BAL @ KC,2.5,BAL,1
+4,Kevin,GB @ DAL,6.5,GB,1
+4,Kevin,NYJ @ MIA,-2.5,NYJ,1
+4,Kevin,CIN @ DEN,-7.5,DEN,1
+4,Maye Magic,SEA @ ARI,-0.5,SEA,1
+4,Maye Magic,MIN @ PIT,2.5,PIT,1
+4,Maye Magic,NO @ BUF,-16.5,BUF,1
+4,Maye Magic,TEN @ HOU,-7.5,TEN,1
+4,Maye Magic,CLE @ DET,-9.5,CLE,1
+4,Maye Magic,WAS @ ATL,2.5,WAS,1
+4,Maye Magic,PHI @ TB,3.5,TB,1
+4,Maye Magic,CAR @ NE,-5.5,NE,1
+4,Maye Magic,LAC @ NYG,5.5,LAC,1
+4,Maye Magic,JAX @ SF,-3.5,SF,1
+4,Maye Magic,IND @ LAR,-3.5,LAR,1
+4,Maye Magic,CHI @ LV,-0.5,CHI,2
+4,Maye Magic,BAL @ KC,2.5,BAL,1
+4,Maye Magic,GB @ DAL,6.5,GB,1
+4,Maye Magic,NYJ @ MIA,-2.5,MIA,1
+4,Maye Magic,CIN @ DEN,-7.5,CIN,1
+4,MC$,SEA @ ARI,-0.5,SEA,1
+4,MC$,MIN @ PIT,2.5,MIN,1
+4,MC$,NO @ BUF,-16.5,NO,2
+4,MC$,TEN @ HOU,-7.5,TEN,1
+4,MC$,CLE @ DET,-9.5,DET,1
+4,MC$,WAS @ ATL,2.5,WAS,1
+4,MC$,PHI @ TB,3.5,TB,1
+4,MC$,CAR @ NE,-5.5,NE,1
+4,MC$,LAC @ NYG,5.5,LAC,1
+4,MC$,JAX @ SF,-3.5,SF,1
+4,MC$,IND @ LAR,-3.5,IND,1
+4,MC$,CHI @ LV,-0.5,CHI,1
+4,MC$,BAL @ KC,2.5,KC,1
+4,MC$,GB @ DAL,6.5,GB,1
+4,MC$,NYJ @ MIA,-2.5,NYJ,1
+4,MC$,CIN @ DEN,-7.5,DEN,1
+4,mrmcwinnerson,SEA @ ARI,-0.5,SEA,1
+4,mrmcwinnerson,MIN @ PIT,2.5,PIT,1
+4,mrmcwinnerson,NO @ BUF,-16.5,NO,1
+4,mrmcwinnerson,TEN @ HOU,-7.5,TEN,1
+4,mrmcwinnerson,CLE @ DET,-9.5,DET,1
+4,mrmcwinnerson,WAS @ ATL,2.5,WAS,1
+4,mrmcwinnerson,PHI @ TB,3.5,PHI,1
+4,mrmcwinnerson,CAR @ NE,-5.5,CAR,1
+4,mrmcwinnerson,LAC @ NYG,5.5,LAC,2
+4,mrmcwinnerson,JAX @ SF,-3.5,SF,1
+4,mrmcwinnerson,IND @ LAR,-3.5,IND,1
+4,mrmcwinnerson,CHI @ LV,-0.5,CHI,1
+4,mrmcwinnerson,BAL @ KC,2.5,BAL,1
+4,mrmcwinnerson,GB @ DAL,6.5,GB,1
+4,mrmcwinnerson,NYJ @ MIA,-2.5,NYJ,1
+4,mrmcwinnerson,CIN @ DEN,-7.5,CIN,1
+4,P-Otys,SEA @ ARI,-0.5,SEA,1
+4,P-Otys,MIN @ PIT,2.5,MIN,1
+4,P-Otys,NO @ BUF,-16.5,NO,1
+4,P-Otys,TEN @ HOU,-7.5,TEN,1
+4,P-Otys,CLE @ DET,-9.5,CLE,1
+4,P-Otys,WAS @ ATL,2.5,WAS,1
+4,P-Otys,PHI @ TB,3.5,TB,1
+4,P-Otys,CAR @ NE,-5.5,CAR,1
+4,P-Otys,LAC @ NYG,5.5,NYG,1
+4,P-Otys,JAX @ SF,-3.5,SF,1
+4,P-Otys,IND @ LAR,-3.5,IND,1
+4,P-Otys,CHI @ LV,-0.5,CHI,1
+4,P-Otys,BAL @ KC,2.5,KC,2
+4,P-Otys,GB @ DAL,6.5,GB,1
+4,P-Otys,NYJ @ MIA,-2.5,NYJ,1
+4,P-Otys,CIN @ DEN,-7.5,CIN,1
+4,Ripw1124,SEA @ ARI,-0.5,ARI,1
+4,Ripw1124,MIN @ PIT,2.5,PIT,1
+4,Ripw1124,NO @ BUF,-16.5,NO,1
+4,Ripw1124,TEN @ HOU,-7.5,HOU,1
+4,Ripw1124,CLE @ DET,-9.5,DET,1
+4,Ripw1124,WAS @ ATL,2.5,WAS,1
+4,Ripw1124,PHI @ TB,3.5,PHI,1
+4,Ripw1124,CAR @ NE,-5.5,NE,1
+4,Ripw1124,LAC @ NYG,5.5,LAC,2
+4,Ripw1124,JAX @ SF,-3.5,SF,1
+4,Ripw1124,IND @ LAR,-3.5,IND,1
+4,Ripw1124,CHI @ LV,-0.5,CHI,1
+4,Ripw1124,BAL @ KC,2.5,KC,1
+4,Ripw1124,GB @ DAL,6.5,GB,1
+4,Ripw1124,NYJ @ MIA,-2.5,MIA,1
+4,Ripw1124,CIN @ DEN,-7.5,CIN,1
+4,Vegas,SEA @ ARI,-0.5,ARI,1
+4,Vegas,MIN @ PIT,2.5,MIN,1
+4,Vegas,NO @ BUF,-16.5,BUF,2
+4,Vegas,TEN @ HOU,-7.5,HOU,1
+4,Vegas,CLE @ DET,-9.5,DET,1
+4,Vegas,WAS @ ATL,2.5,WAS,1
+4,Vegas,PHI @ TB,3.5,PHI,1
+4,Vegas,CAR @ NE,-5.5,NE,1
+4,Vegas,LAC @ NYG,5.5,LAC,1
+4,Vegas,JAX @ SF,-3.5,SF,1
+4,Vegas,IND @ LAR,-3.5,LAR,1
+4,Vegas,CHI @ LV,-0.5,LV,1
+4,Vegas,BAL @ KC,2.5,BAL,1
+4,Vegas,GB @ DAL,6.5,GB,1
+4,Vegas,NYJ @ MIA,-2.5,MIA,1
+4,Vegas,CIN @ DEN,-7.5,DEN,1
+4,Willheser,SEA @ ARI,-0.5,SEA,1
+4,Willheser,MIN @ PIT,2.5,PIT,1
+4,Willheser,NO @ BUF,-16.5,BUF,1
+4,Willheser,TEN @ HOU,-7.5,HOU,1
+4,Willheser,CLE @ DET,-9.5,CLE,1
+4,Willheser,WAS @ ATL,2.5,WAS,1
+4,Willheser,PHI @ TB,3.5,TB,1
+4,Willheser,CAR @ NE,-5.5,CAR,1
+4,Willheser,LAC @ NYG,5.5,LAC,2
+4,Willheser,JAX @ SF,-3.5,JAX,1
+4,Willheser,IND @ LAR,-3.5,IND,1
+4,Willheser,CHI @ LV,-0.5,LV,1
+4,Willheser,BAL @ KC,2.5,BAL,1
+4,Willheser,GB @ DAL,6.5,GB,1
+4,Willheser,NYJ @ MIA,-2.5,MIA,1
+4,Willheser,CIN @ DEN,-7.5,DEN,1
+4,Yianni,SEA @ ARI,-0.5,SEA,2
+4,Yianni,MIN @ PIT,2.5,PIT,1
+4,Yianni,NO @ BUF,-16.5,NO,1
+4,Yianni,TEN @ HOU,-7.5,TEN,1
+4,Yianni,CLE @ DET,-9.5,DET,1
+4,Yianni,WAS @ ATL,2.5,WAS,1
+4,Yianni,PHI @ TB,3.5,TB,1
+4,Yianni,CAR @ NE,-5.5,NE,1
+4,Yianni,LAC @ NYG,5.5,LAC,1
+4,Yianni,JAX @ SF,-3.5,SF,1
+4,Yianni,IND @ LAR,-3.5,LAR,1
+4,Yianni,CHI @ LV,-0.5,CHI,1
+4,Yianni,BAL @ KC,2.5,BAL,1
+4,Yianni,GB @ DAL,6.5,GB,1
+4,Yianni,NYJ @ MIA,-2.5,MIA,1
+4,Yianni,CIN @ DEN,-7.5,CIN,1
+2,ADon,WAS @ GB,-3.5,GB,1
+2,ADon,LAR @ TEN,5.5,TEN,1
+2,ADon,SEA @ PIT,-2.5,PIT,1
+2,ADon,BUF @ NYJ,6.5,BUF,1
+2,ADon,CHI @ DET,-5.5,DET,1
+2,ADon,NYG @ DAL,-5.5,DAL,1
+2,ADon,CLE @ BAL,-10.5,BAL,1
+2,ADon,SF @ NO,4.5,SF,1
+2,ADon,NE @ MIA,-1.5,NE,2
+2,ADon,JAX @ CIN,-3.5,CIN,1
+2,ADon,CAR @ ARI,-6.5,ARI,1
+2,ADon,DEN @ IND,2.5,DEN,1
+2,ADon,PHI @ KC,0.5,PHI,1
+2,ADon,ATL @ MIN,-4.5,MIN,1
+2,ADon,TB @ HOU,-2.5,TB,1
+2,ADon,LAC @ LV,3.5,LAC,1
+2,b_hop,WAS @ GB,-3.5,GB,1
+2,b_hop,LAR @ TEN,5.5,LAR,1
+2,b_hop,SEA @ PIT,-2.5,PIT,1
+2,b_hop,BUF @ NYJ,6.5,NYJ,1
+2,b_hop,CHI @ DET,-5.5,DET,1
+2,b_hop,NYG @ DAL,-5.5,DAL,1
+2,b_hop,CLE @ BAL,-10.5,CLE,1
+2,b_hop,SF @ NO,4.5,NO,1
+2,b_hop,NE @ MIA,-1.5,MIA,1
+2,b_hop,JAX @ CIN,-3.5,JAX,1
+2,b_hop,CAR @ ARI,-6.5,CAR,1
+2,b_hop,DEN @ IND,2.5,DEN,1
+2,b_hop,PHI @ KC,0.5,PHI,2
+2,b_hop,ATL @ MIN,-4.5,ATL,1
+2,b_hop,TB @ HOU,-2.5,TB,1
+2,b_hop,LAC @ LV,3.5,LV,1
+2,derelicious,WAS @ GB,-3.5,WAS,1
+2,derelicious,LAR @ TEN,5.5,LAR,1
+2,derelicious,SEA @ PIT,-2.5,SEA,1
+2,derelicious,BUF @ NYJ,6.5,BUF,1
+2,derelicious,CHI @ DET,-5.5,DET,1
+2,derelicious,NYG @ DAL,-5.5,DAL,1
+2,derelicious,CLE @ BAL,-10.5,CLE,1
+2,derelicious,SF @ NO,4.5,SF,1
+2,derelicious,NE @ MIA,-1.5,NE,2
+2,derelicious,JAX @ CIN,-3.5,JAX,1
+2,derelicious,CAR @ ARI,-6.5,ARI,1
+2,derelicious,DEN @ IND,2.5,IND,1
+2,derelicious,PHI @ KC,0.5,PHI,1
+2,derelicious,ATL @ MIN,-4.5,MIN,1
+2,derelicious,TB @ HOU,-2.5,TB,1
+2,derelicious,LAC @ LV,3.5,LAC,1
+2,Exciting Whites,WAS @ GB,-3.5,GB,1
+2,Exciting Whites,LAR @ TEN,5.5,LAR,1
+2,Exciting Whites,SEA @ PIT,-2.5,SEA,1
+2,Exciting Whites,BUF @ NYJ,6.5,BUF,1
+2,Exciting Whites,CHI @ DET,-5.5,DET,1
+2,Exciting Whites,NYG @ DAL,-5.5,NYG,1
+2,Exciting Whites,CLE @ BAL,-10.5,CLE,1
+2,Exciting Whites,SF @ NO,4.5,SF,1
+2,Exciting Whites,NE @ MIA,-1.5,NE,1
+2,Exciting Whites,JAX @ CIN,-3.5,CIN,2
+2,Exciting Whites,CAR @ ARI,-6.5,ARI,1
+2,Exciting Whites,DEN @ IND,2.5,IND,1
+2,Exciting Whites,PHI @ KC,0.5,PHI,1
+2,Exciting Whites,ATL @ MIN,-4.5,ATL,1
+2,Exciting Whites,TB @ HOU,-2.5,TB,1
+2,Exciting Whites,LAC @ LV,3.5,LAC,1
+2,Kevin,WAS @ GB,-3.5,GB,2
+2,Kevin,LAR @ TEN,5.5,LAR,1
+2,Kevin,SEA @ PIT,-2.5,PIT,1
+2,Kevin,BUF @ NYJ,6.5,BUF,1
+2,Kevin,CHI @ DET,-5.5,CHI,1
+2,Kevin,NYG @ DAL,-5.5,NYG,1
+2,Kevin,CLE @ BAL,-10.5,BAL,1
+2,Kevin,SF @ NO,4.5,SF,1
+2,Kevin,NE @ MIA,-1.5,NE,1
+2,Kevin,JAX @ CIN,-3.5,CIN,1
+2,Kevin,CAR @ ARI,-6.5,ARI,1
+2,Kevin,DEN @ IND,2.5,IND,1
+2,Kevin,PHI @ KC,0.5,PHI,1
+2,Kevin,ATL @ MIN,-4.5,ATL,1
+2,Kevin,TB @ HOU,-2.5,HOU,1
+2,Kevin,LAC @ LV,3.5,LAC,1
+2,Maye Magic,WAS @ GB,-3.5,GB,1
+2,Maye Magic,LAR @ TEN,5.5,TEN,1
+2,Maye Magic,SEA @ PIT,-2.5,PIT,1
+2,Maye Magic,BUF @ NYJ,6.5,BUF,1
+2,Maye Magic,CHI @ DET,-5.5,DET,1
+2,Maye Magic,NYG @ DAL,-5.5,DAL,1
+2,Maye Magic,CLE @ BAL,-10.5,CLE,1
+2,Maye Magic,SF @ NO,4.5,SF,1
+2,Maye Magic,NE @ MIA,-1.5,NE,1
+2,Maye Magic,JAX @ CIN,-3.5,CIN,1
+2,Maye Magic,CAR @ ARI,-6.5,ARI,1
+2,Maye Magic,DEN @ IND,2.5,IND,1
+2,Maye Magic,PHI @ KC,0.5,PHI,1
+2,Maye Magic,ATL @ MIN,-4.5,MIN,1
+2,Maye Magic,TB @ HOU,-2.5,TB,1
+2,Maye Magic,LAC @ LV,3.5,LAC,2
+2,MC$,WAS @ GB,-3.5,GB,1
+2,MC$,LAR @ TEN,5.5,TEN,1
+2,MC$,SEA @ PIT,-2.5,PIT,1
+2,MC$,BUF @ NYJ,6.5,BUF,1
+2,MC$,CHI @ DET,-5.5,CHI,1
+2,MC$,NYG @ DAL,-5.5,NYG,1
+2,MC$,CLE @ BAL,-10.5,CLE,1
+2,MC$,SF @ NO,4.5,SF,2
+2,MC$,NE @ MIA,-1.5,MIA,1
+2,MC$,JAX @ CIN,-3.5,CIN,1
+2,MC$,CAR @ ARI,-6.5,CAR,1
+2,MC$,DEN @ IND,2.5,DEN,1
+2,MC$,PHI @ KC,0.5,KC,1
+2,MC$,ATL @ MIN,-4.5,MIN,1
+2,MC$,TB @ HOU,-2.5,TB,1
+2,MC$,LAC @ LV,3.5,LAC,1
+2,mrmcwinnerson,WAS @ GB,-3.5,GB,1
+2,mrmcwinnerson,LAR @ TEN,5.5,LAR,1
+2,mrmcwinnerson,SEA @ PIT,-2.5,PIT,1
+2,mrmcwinnerson,BUF @ NYJ,6.5,BUF,2
+2,mrmcwinnerson,CHI @ DET,-5.5,DET,1
+2,mrmcwinnerson,NYG @ DAL,-5.5,DAL,1
+2,mrmcwinnerson,CLE @ BAL,-10.5,CLE,1
+2,mrmcwinnerson,SF @ NO,4.5,SF,1
+2,mrmcwinnerson,NE @ MIA,-1.5,NE,1
+2,mrmcwinnerson,JAX @ CIN,-3.5,JAX,1
+2,mrmcwinnerson,CAR @ ARI,-6.5,ARI,1
+2,mrmcwinnerson,DEN @ IND,2.5,DEN,1
+2,mrmcwinnerson,PHI @ KC,0.5,PHI,1
+2,mrmcwinnerson,ATL @ MIN,-4.5,MIN,1
+2,mrmcwinnerson,TB @ HOU,-2.5,TB,1
+2,mrmcwinnerson,LAC @ LV,3.5,LV,1
+2,P-Otys,WAS @ GB,-3.5,GB,1
+2,P-Otys,LAR @ TEN,5.5,TEN,1
+2,P-Otys,SEA @ PIT,-2.5,SEA,1
+2,P-Otys,BUF @ NYJ,6.5,NYJ,1
+2,P-Otys,CHI @ DET,-5.5,DET,2
+2,P-Otys,NYG @ DAL,-5.5,NYG,1
+2,P-Otys,CLE @ BAL,-10.5,CLE,1
+2,P-Otys,SF @ NO,4.5,SF,1
+2,P-Otys,NE @ MIA,-1.5,NE,1
+2,P-Otys,JAX @ CIN,-3.5,JAX,1
+2,P-Otys,CAR @ ARI,-6.5,ARI,1
+2,P-Otys,DEN @ IND,2.5,IND,1
+2,P-Otys,PHI @ KC,0.5,KC,1
+2,P-Otys,ATL @ MIN,-4.5,ATL,1
+2,P-Otys,TB @ HOU,-2.5,TB,1
+2,P-Otys,LAC @ LV,3.5,LAC,1
+2,Ripw1124,WAS @ GB,-3.5,GB,1
+2,Ripw1124,LAR @ TEN,5.5,LAR,1
+2,Ripw1124,SEA @ PIT,-2.5,PIT,1
+2,Ripw1124,BUF @ NYJ,6.5,BUF,2
+2,Ripw1124,CHI @ DET,-5.5,CHI,1
+2,Ripw1124,NYG @ DAL,-5.5,DAL,1
+2,Ripw1124,CLE @ BAL,-10.5,CLE,1
+2,Ripw1124,SF @ NO,4.5,NO,1
+2,Ripw1124,NE @ MIA,-1.5,NE,1
+2,Ripw1124,JAX @ CIN,-3.5,CIN,1
+2,Ripw1124,CAR @ ARI,-6.5,ARI,1
+2,Ripw1124,DEN @ IND,2.5,IND,1
+2,Ripw1124,PHI @ KC,0.5,PHI,1
+2,Ripw1124,ATL @ MIN,-4.5,MIN,1
+2,Ripw1124,TB @ HOU,-2.5,TB,1
+2,Ripw1124,LAC @ LV,3.5,LV,1
+2,Vegas,WAS @ GB,-3.5,GB,1
+2,Vegas,LAR @ TEN,5.5,LAR,1
+2,Vegas,SEA @ PIT,-2.5,PIT,1
+2,Vegas,BUF @ NYJ,6.5,BUF,1
+2,Vegas,CHI @ DET,-5.5,DET,1
+2,Vegas,NYG @ DAL,-5.5,DAL,1
+2,Vegas,CLE @ BAL,-10.5,BAL,2
+2,Vegas,SF @ NO,4.5,SF,1
+2,Vegas,NE @ MIA,-1.5,MIA,1
+2,Vegas,JAX @ CIN,-3.5,CIN,1
+2,Vegas,CAR @ ARI,-6.5,ARI,1
+2,Vegas,DEN @ IND,2.5,DEN,1
+2,Vegas,PHI @ KC,0.5,PHI,1
+2,Vegas,ATL @ MIN,-4.5,MIN,1
+2,Vegas,TB @ HOU,-2.5,HOU,1
+2,Vegas,LAC @ LV,3.5,LAC,1
+2,Willheser,WAS @ GB,-3.5,GB,1
+2,Willheser,LAR @ TEN,5.5,LAR,1
+2,Willheser,SEA @ PIT,-2.5,SEA,1
+2,Willheser,BUF @ NYJ,6.5,BUF,1
+2,Willheser,CHI @ DET,-5.5,DET,1
+2,Willheser,NYG @ DAL,-5.5,DAL,1
+2,Willheser,CLE @ BAL,-10.5,BAL,1
+2,Willheser,SF @ NO,4.5,SF,1
+2,Willheser,NE @ MIA,-1.5,NE,1
+2,Willheser,JAX @ CIN,-3.5,JAX,1
+2,Willheser,CAR @ ARI,-6.5,ARI,1
+2,Willheser,DEN @ IND,2.5,DEN,1
+2,Willheser,PHI @ KC,0.5,PHI,2
+2,Willheser,ATL @ MIN,-4.5,MIN,1
+2,Willheser,TB @ HOU,-2.5,TB,1
+2,Willheser,LAC @ LV,3.5,LAC,1
+2,Yianni,WAS @ GB,-3.5,WAS,1
+2,Yianni,LAR @ TEN,5.5,LAR,1
+2,Yianni,SEA @ PIT,-2.5,SEA,1
+2,Yianni,BUF @ NYJ,6.5,BUF,1
+2,Yianni,CHI @ DET,-5.5,DET,1
+2,Yianni,NYG @ DAL,-5.5,NYG,1
+2,Yianni,CLE @ BAL,-10.5,BAL,1
+2,Yianni,SF @ NO,4.5,SF,1
+2,Yianni,NE @ MIA,-1.5,NE,1
+2,Yianni,JAX @ CIN,-3.5,CIN,2
+2,Yianni,CAR @ ARI,-6.5,ARI,1
+2,Yianni,DEN @ IND,2.5,DEN,1
+2,Yianni,PHI @ KC,0.5,PHI,1
+2,Yianni,ATL @ MIN,-4.5,MIN,1
+2,Yianni,TB @ HOU,-2.5,TB,1
+2,Yianni,LAC @ LV,3.5,LAC,1
+6,ADon,PHI @ NYG,7.5,NYG,1
+6,ADon,DEN @ NYJ,7.5,DEN,1
+6,ADon,ARI @ IND,-6.5,IND,1
+6,ADon,LAR @ BAL,7.5,LAR,1
+6,ADon,CLE @ PIT,-5.5,CLE,1
+6,ADon,SEA @ JAX,-1.5,SEA,1
+6,ADon,LAC @ MIA,4.5,LAC,1
+6,ADon,DAL @ CAR,3.5,DAL,2
+6,ADon,NE @ NO,3.5,NE,1
+6,ADon,TEN @ LV,-4.5,LV,1
+6,ADon,SF @ TB,-2.5,SF,1
+6,ADon,CIN @ GB,-14.5,GB,1
+6,ADon,DET @ KC,-2.5,DET,1
+6,ADon,BUF @ ATL,3.5,BUF,1
+6,ADon,CHI @ WAS,-4.5,WAS,1
+6,b_hop,PHI @ NYG,7.5,NYG,1
+6,b_hop,DEN @ NYJ,7.5,DEN,1
+6,b_hop,ARI @ IND,-6.5,IND,1
+6,b_hop,LAR @ BAL,7.5,LAR,1
+6,b_hop,CLE @ PIT,-5.5,PIT,1
+6,b_hop,SEA @ JAX,-1.5,SEA,1
+6,b_hop,LAC @ MIA,4.5,MIA,1
+6,b_hop,DAL @ CAR,3.5,DAL,1
+6,b_hop,NE @ NO,3.5,NE,1
+6,b_hop,TEN @ LV,-4.5,LV,1
+6,b_hop,SF @ TB,-2.5,TB,1
+6,b_hop,CIN @ GB,-14.5,CIN,1
+6,b_hop,DET @ KC,-2.5,DET,1
+6,b_hop,BUF @ ATL,3.5,BUF,2
+6,b_hop,CHI @ WAS,-4.5,WAS,1
+6,derelicious,PHI @ NYG,7.5,NYG,1
+6,derelicious,DEN @ NYJ,7.5,DEN,1
+6,derelicious,ARI @ IND,-6.5,IND,2
+6,derelicious,LAR @ BAL,7.5,BAL,1
+6,derelicious,CLE @ PIT,-5.5,PIT,1
+6,derelicious,SEA @ JAX,-1.5,SEA,1
+6,derelicious,LAC @ MIA,4.5,LAC,1
+6,derelicious,DAL @ CAR,3.5,DAL,1
+6,derelicious,NE @ NO,3.5,NE,1
+6,derelicious,TEN @ LV,-4.5,TEN,1
+6,derelicious,SF @ TB,-2.5,SF,1
+6,derelicious,CIN @ GB,-14.5,GB,1
+6,derelicious,DET @ KC,-2.5,DET,1
+6,derelicious,BUF @ ATL,3.5,BUF,1
+6,derelicious,CHI @ WAS,-4.5,CHI,1
+6,Exciting Whites,PHI @ NYG,7.5,NYG,1
+6,Exciting Whites,DEN @ NYJ,7.5,NYJ,1
+6,Exciting Whites,ARI @ IND,-6.5,IND,1
+6,Exciting Whites,LAR @ BAL,7.5,BAL,1
+6,Exciting Whites,CLE @ PIT,-5.5,CLE,1
+6,Exciting Whites,SEA @ JAX,-1.5,JAX,1
+6,Exciting Whites,LAC @ MIA,4.5,LAC,1
+6,Exciting Whites,DAL @ CAR,3.5,CAR,1
+6,Exciting Whites,NE @ NO,3.5,NE,1
+6,Exciting Whites,TEN @ LV,-4.5,TEN,1
+6,Exciting Whites,SF @ TB,-2.5,TB,1
+6,Exciting Whites,CIN @ GB,-14.5,GB,1
+6,Exciting Whites,DET @ KC,-2.5,DET,1
+6,Exciting Whites,BUF @ ATL,3.5,BUF,2
+6,Exciting Whites,CHI @ WAS,-4.5,WAS,1
+6,Kevin,PHI @ NYG,7.5,PHI,1
+6,Kevin,DEN @ NYJ,7.5,DEN,1
+6,Kevin,ARI @ IND,-6.5,IND,1
+6,Kevin,LAR @ BAL,7.5,LAR,1
+6,Kevin,CLE @ PIT,-5.5,PIT,1
+6,Kevin,SEA @ JAX,-1.5,JAX,1
+6,Kevin,LAC @ MIA,4.5,LAC,1
+6,Kevin,DAL @ CAR,3.5,DAL,1
+6,Kevin,NE @ NO,3.5,NE,1
+6,Kevin,TEN @ LV,-4.5,TEN,1
+6,Kevin,SF @ TB,-2.5,SF,1
+6,Kevin,CIN @ GB,-14.5,GB,1
+6,Kevin,DET @ KC,-2.5,DET,1
+6,Kevin,BUF @ ATL,3.5,BUF,2
+6,Kevin,CHI @ WAS,-4.5,CHI,1
+6,Maye Magic,PHI @ NYG,7.5,NYG,1
+6,Maye Magic,DEN @ NYJ,7.5,NYJ,1
+6,Maye Magic,ARI @ IND,-6.5,IND,1
+6,Maye Magic,LAR @ BAL,7.5,BAL,1
+6,Maye Magic,CLE @ PIT,-5.5,PIT,1
+6,Maye Magic,SEA @ JAX,-1.5,JAX,1
+6,Maye Magic,LAC @ MIA,4.5,LAC,1
+6,Maye Magic,DAL @ CAR,3.5,DAL,1
+6,Maye Magic,NE @ NO,3.5,NE,2
+6,Maye Magic,TEN @ LV,-4.5,TEN,1
+6,Maye Magic,SF @ TB,-2.5,TB,1
+6,Maye Magic,CIN @ GB,-14.5,CIN,1
+6,Maye Magic,DET @ KC,-2.5,KC,1
+6,Maye Magic,BUF @ ATL,3.5,BUF,1
+6,Maye Magic,CHI @ WAS,-4.5,WAS,1
+6,MC$,PHI @ NYG,7.5,PHI,1
+6,MC$,DEN @ NYJ,7.5,DEN,1
+6,MC$,ARI @ IND,-6.5,IND,1
+6,MC$,LAR @ BAL,7.5,LAR,1
+6,MC$,CLE @ PIT,-5.5,PIT,1
+6,MC$,SEA @ JAX,-1.5,JAX,1
+6,MC$,LAC @ MIA,4.5,LAC,1
+6,MC$,DAL @ CAR,3.5,CAR,1
+6,MC$,NE @ NO,3.5,NE,1
+6,MC$,TEN @ LV,-4.5,TEN,1
+6,MC$,SF @ TB,-2.5,TB,1
+6,MC$,CIN @ GB,-14.5,CIN,2
+6,MC$,DET @ KC,-2.5,DET,1
+6,MC$,BUF @ ATL,3.5,BUF,1
+6,MC$,CHI @ WAS,-4.5,WAS,1
+6,mrmcwinnerson,PHI @ NYG,7.5,PHI,2
+6,mrmcwinnerson,DEN @ NYJ,7.5,NYJ,1
+6,mrmcwinnerson,ARI @ IND,-6.5,IND,1
+6,mrmcwinnerson,LAR @ BAL,7.5,BAL,1
+6,mrmcwinnerson,CLE @ PIT,-5.5,PIT,1
+6,mrmcwinnerson,SEA @ JAX,-1.5,JAX,1
+6,mrmcwinnerson,LAC @ MIA,4.5,MIA,1
+6,mrmcwinnerson,DAL @ CAR,3.5,CAR,1
+6,mrmcwinnerson,NE @ NO,3.5,NO,1
+6,mrmcwinnerson,TEN @ LV,-4.5,LV,1
+6,mrmcwinnerson,SF @ TB,-2.5,TB,1
+6,mrmcwinnerson,CIN @ GB,-14.5,GB,1
+6,mrmcwinnerson,DET @ KC,-2.5,DET,1
+6,mrmcwinnerson,BUF @ ATL,3.5,BUF,1
+6,mrmcwinnerson,CHI @ WAS,-4.5,WAS,1
+6,P-Otys,PHI @ NYG,7.5,NYG,1
+6,P-Otys,DEN @ NYJ,7.5,DEN,1
+6,P-Otys,ARI @ IND,-6.5,IND,1
+6,P-Otys,LAR @ BAL,7.5,LAR,1
+6,P-Otys,CLE @ PIT,-5.5,PIT,1
+6,P-Otys,SEA @ JAX,-1.5,SEA,1
+6,P-Otys,LAC @ MIA,4.5,LAC,1
+6,P-Otys,DAL @ CAR,3.5,CAR,1
+6,P-Otys,NE @ NO,3.5,NE,2
+6,P-Otys,TEN @ LV,-4.5,TEN,1
+6,P-Otys,SF @ TB,-2.5,TB,1
+6,P-Otys,CIN @ GB,-14.5,CIN,1
+6,P-Otys,DET @ KC,-2.5,KC,1
+6,P-Otys,BUF @ ATL,3.5,BUF,1
+6,P-Otys,CHI @ WAS,-4.5,WAS,1
+6,Ripw1124,PHI @ NYG,7.5,PHI,1
+6,Ripw1124,DEN @ NYJ,7.5,DEN,1
+6,Ripw1124,ARI @ IND,-6.5,IND,1
+6,Ripw1124,LAR @ BAL,7.5,BAL,1
+6,Ripw1124,CLE @ PIT,-5.5,PIT,1
+6,Ripw1124,SEA @ JAX,-1.5,JAX,1
+6,Ripw1124,LAC @ MIA,4.5,LAC,1
+6,Ripw1124,DAL @ CAR,3.5,DAL,1
+6,Ripw1124,NE @ NO,3.5,NE,2
+6,Ripw1124,TEN @ LV,-4.5,LV,1
+6,Ripw1124,SF @ TB,-2.5,TB,1
+6,Ripw1124,CIN @ GB,-14.5,CIN,1
+6,Ripw1124,DET @ KC,-2.5,KC,1
+6,Ripw1124,BUF @ ATL,3.5,BUF,1
+6,Ripw1124,CHI @ WAS,-4.5,WAS,1
+6,Vegas,PHI @ NYG,7.5,PHI,1
+6,Vegas,DEN @ NYJ,7.5,DEN,1
+6,Vegas,ARI @ IND,-6.5,IND,1
+6,Vegas,LAR @ BAL,7.5,LAR,1
+6,Vegas,CLE @ PIT,-5.5,PIT,1
+6,Vegas,SEA @ JAX,-1.5,JAX,1
+6,Vegas,LAC @ MIA,4.5,LAC,1
+6,Vegas,DAL @ CAR,3.5,DAL,1
+6,Vegas,NE @ NO,3.5,NE,1
+6,Vegas,TEN @ LV,-4.5,LV,1
+6,Vegas,SF @ TB,-2.5,TB,1
+6,Vegas,CIN @ GB,-14.5,GB,2
+6,Vegas,DET @ KC,-2.5,KC,1
+6,Vegas,BUF @ ATL,3.5,BUF,1
+6,Vegas,CHI @ WAS,-4.5,WAS,1
+6,Willheser,PHI @ NYG,7.5,NYG,1
+6,Willheser,DEN @ NYJ,7.5,DEN,1
+6,Willheser,ARI @ IND,-6.5,ARI,1
+6,Willheser,LAR @ BAL,7.5,LAR,1
+6,Willheser,CLE @ PIT,-5.5,CLE,1
+6,Willheser,SEA @ JAX,-1.5,JAX,1
+6,Willheser,LAC @ MIA,4.5,LAC,1
+6,Willheser,DAL @ CAR,3.5,DAL,1
+6,Willheser,NE @ NO,3.5,NO,1
+6,Willheser,TEN @ LV,-4.5,LV,1
+6,Willheser,SF @ TB,-2.5,SF,1
+6,Willheser,CIN @ GB,-14.5,GB,1
+6,Willheser,DET @ KC,-2.5,DET,2
+6,Willheser,BUF @ ATL,3.5,BUF,1
+6,Willheser,CHI @ WAS,-4.5,WAS,1
+6,Yianni,PHI @ NYG,7.5,PHI,1
+6,Yianni,DEN @ NYJ,7.5,NYJ,1
+6,Yianni,ARI @ IND,-6.5,IND,1
+6,Yianni,LAR @ BAL,7.5,BAL,2
+6,Yianni,CLE @ PIT,-5.5,PIT,1
+6,Yianni,SEA @ JAX,-1.5,SEA,1
+6,Yianni,LAC @ MIA,4.5,MIA,1
+6,Yianni,DAL @ CAR,3.5,DAL,1
+6,Yianni,NE @ NO,3.5,NE,1
+6,Yianni,TEN @ LV,-4.5,LV,1
+6,Yianni,SF @ TB,-2.5,TB,1
+6,Yianni,CIN @ GB,-14.5,CIN,1
+6,Yianni,DET @ KC,-2.5,KC,1
+6,Yianni,BUF @ ATL,3.5,BUF,1
+6,Yianni,CHI @ WAS,-4.5,WAS,1
+8,ADon,MIN @ LAC,-3.5,MIN,1
+8,ADon,NYJ @ CIN,-6.5,NYJ,1
+8,ADon,BUF @ CAR,7.5,CAR,1
+8,ADon,SF @ HOU,-0.5,HOU,1
+8,ADon,NYG @ PHI,-7.5,PHI,1
+8,ADon,CLE @ NE,-6.5,NE,1
+8,ADon,CHI @ BAL,-6.5,CHI,2
+8,ADon,MIA @ ATL,-7.5,MIA,1
+8,ADon,TB @ NO,4.5,TB,1
+8,ADon,DAL @ DEN,-3.5,DEN,1
+8,ADon,TEN @ IND,-14.5,TEN,1
+8,ADon,GB @ PIT,3.5,GB,1
+8,ADon,WAS @ KC,-10.5,KC,1
+8,b_hop,MIN @ LAC,-3.5,LAC,1
+8,b_hop,NYJ @ CIN,-6.5,NYJ,1
+8,b_hop,BUF @ CAR,7.5,BUF,1
+8,b_hop,SF @ HOU,-0.5,SF,2
+8,b_hop,NYG @ PHI,-7.5,NYG,1
+8,b_hop,CLE @ NE,-6.5,NE,1
+8,b_hop,CHI @ BAL,-6.5,CHI,1
+8,b_hop,MIA @ ATL,-7.5,MIA,1
+8,b_hop,TB @ NO,4.5,TB,1
+8,b_hop,DAL @ DEN,-3.5,DEN,1
+8,b_hop,TEN @ IND,-14.5,TEN,1
+8,b_hop,GB @ PIT,3.5,GB,1
+8,b_hop,WAS @ KC,-10.5,KC,1
+8,derelicious,MIN @ LAC,-3.5,MIN,1
+8,derelicious,NYJ @ CIN,-6.5,CIN,1
+8,derelicious,BUF @ CAR,7.5,BUF,1
+8,derelicious,SF @ HOU,-0.5,SF,2
+8,derelicious,NYG @ PHI,-7.5,NYG,1
+8,derelicious,CLE @ NE,-6.5,NE,1
+8,derelicious,CHI @ BAL,-6.5,CHI,1
+8,derelicious,MIA @ ATL,-7.5,ATL,1
+8,derelicious,TB @ NO,4.5,TB,1
+8,derelicious,DAL @ DEN,-3.5,DAL,1
+8,derelicious,TEN @ IND,-14.5,IND,1
+8,derelicious,GB @ PIT,3.5,PIT,1
+8,derelicious,WAS @ KC,-10.5,KC,1
+8,Exciting Whites,MIN @ LAC,-3.5,LAC,1
+8,Exciting Whites,NYJ @ CIN,-6.5,NYJ,1
+8,Exciting Whites,BUF @ CAR,7.5,BUF,1
+8,Exciting Whites,SF @ HOU,-0.5,SF,1
+8,Exciting Whites,NYG @ PHI,-7.5,PHI,1
+8,Exciting Whites,CLE @ NE,-6.5,NE,1
+8,Exciting Whites,CHI @ BAL,-6.5,CHI,1
+8,Exciting Whites,MIA @ ATL,-7.5,ATL,1
+8,Exciting Whites,TB @ NO,4.5,TB,2
+8,Exciting Whites,DAL @ DEN,-3.5,DAL,1
+8,Exciting Whites,TEN @ IND,-14.5,IND,1
+8,Exciting Whites,GB @ PIT,3.5,PIT,1
+8,Exciting Whites,WAS @ KC,-10.5,KC,1
+8,Kevin,MIN @ LAC,-3.5,LAC,1
+8,Kevin,NYJ @ CIN,-6.5,CIN,1
+8,Kevin,BUF @ CAR,7.5,BUF,1
+8,Kevin,SF @ HOU,-0.5,SF,1
+8,Kevin,NYG @ PHI,-7.5,PHI,1
+8,Kevin,CLE @ NE,-6.5,NE,1
+8,Kevin,CHI @ BAL,-6.5,CHI,2
+8,Kevin,MIA @ ATL,-7.5,ATL,1
+8,Kevin,TB @ NO,4.5,TB,1
+8,Kevin,DAL @ DEN,-3.5,DAL,1
+8,Kevin,TEN @ IND,-14.5,IND,1
+8,Kevin,GB @ PIT,3.5,GB,1
+8,Kevin,WAS @ KC,-10.5,KC,1
+8,Maye Magic,MIN @ LAC,-3.5,LAC,1
+8,Maye Magic,NYJ @ CIN,-6.5,CIN,1
+8,Maye Magic,BUF @ CAR,7.5,BUF,1
+8,Maye Magic,SF @ HOU,-0.5,SF,1
+8,Maye Magic,NYG @ PHI,-7.5,NYG,1
+8,Maye Magic,CLE @ NE,-6.5,NE,1
+8,Maye Magic,CHI @ BAL,-6.5,CHI,1
+8,Maye Magic,MIA @ ATL,-7.5,ATL,1
+8,Maye Magic,TB @ NO,4.5,TB,1
+8,Maye Magic,DAL @ DEN,-3.5,DEN,1
+8,Maye Magic,TEN @ IND,-14.5,TEN,1
+8,Maye Magic,GB @ PIT,3.5,GB,1
+8,Maye Magic,WAS @ KC,-10.5,KC,2
+8,MC$,MIN @ LAC,-3.5,LAC,1
+8,MC$,NYJ @ CIN,-6.5,NYJ,1
+8,MC$,BUF @ CAR,7.5,CAR,1
+8,MC$,SF @ HOU,-0.5,SF,1
+8,MC$,NYG @ PHI,-7.5,NYG,1
+8,MC$,CLE @ NE,-6.5,NE,2
+8,MC$,CHI @ BAL,-6.5,CHI,1
+8,MC$,MIA @ ATL,-7.5,ATL,1
+8,MC$,TB @ NO,4.5,TB,1
+8,MC$,DAL @ DEN,-3.5,DEN,1
+8,MC$,TEN @ IND,-14.5,TEN,1
+8,MC$,GB @ PIT,3.5,GB,1
+8,MC$,WAS @ KC,-10.5,WAS,1
+8,mrmcwinnerson,MIN @ LAC,-3.5,LAC,1
+8,mrmcwinnerson,NYJ @ CIN,-6.5,CIN,1
+8,mrmcwinnerson,BUF @ CAR,7.5,BUF,1
+8,mrmcwinnerson,SF @ HOU,-0.5,SF,1
+8,mrmcwinnerson,NYG @ PHI,-7.5,PHI,1
+8,mrmcwinnerson,CLE @ NE,-6.5,CLE,1
+8,mrmcwinnerson,CHI @ BAL,-6.5,BAL,1
+8,mrmcwinnerson,MIA @ ATL,-7.5,ATL,1
+8,mrmcwinnerson,TB @ NO,4.5,TB,1
+8,mrmcwinnerson,DAL @ DEN,-3.5,DEN,1
+8,mrmcwinnerson,TEN @ IND,-14.5,IND,1
+8,mrmcwinnerson,GB @ PIT,3.5,PIT,1
+8,mrmcwinnerson,WAS @ KC,-10.5,KC,2
+8,P-Otys,MIN @ LAC,-3.5,LAC,1
+8,P-Otys,NYJ @ CIN,-6.5,CIN,2
+8,P-Otys,BUF @ CAR,7.5,CAR,1
+8,P-Otys,SF @ HOU,-0.5,HOU,1
+8,P-Otys,NYG @ PHI,-7.5,NYG,1
+8,P-Otys,CLE @ NE,-6.5,CLE,1
+8,P-Otys,CHI @ BAL,-6.5,CHI,1
+8,P-Otys,MIA @ ATL,-7.5,ATL,1
+8,P-Otys,TB @ NO,4.5,TB,1
+8,P-Otys,DAL @ DEN,-3.5,DAL,1
+8,P-Otys,TEN @ IND,-14.5,TEN,1
+8,P-Otys,GB @ PIT,3.5,PIT,1
+8,P-Otys,WAS @ KC,-10.5,KC,1
+8,Ripw1124,MIN @ LAC,-3.5,LAC,1
+8,Ripw1124,NYJ @ CIN,-6.5,CIN,1
+8,Ripw1124,BUF @ CAR,7.5,CAR,1
+8,Ripw1124,SF @ HOU,-0.5,SF,2
+8,Ripw1124,NYG @ PHI,-7.5,PHI,1
+8,Ripw1124,CLE @ NE,-6.5,NE,1
+8,Ripw1124,CHI @ BAL,-6.5,CHI,1
+8,Ripw1124,MIA @ ATL,-7.5,ATL,1
+8,Ripw1124,TB @ NO,4.5,TB,1
+8,Ripw1124,DAL @ DEN,-3.5,DEN,1
+8,Ripw1124,TEN @ IND,-14.5,TEN,1
+8,Ripw1124,GB @ PIT,3.5,PIT,1
+8,Ripw1124,WAS @ KC,-10.5,WAS,1
+8,Vegas,MIN @ LAC,-3.5,LAC,1
+8,Vegas,NYJ @ CIN,-6.5,CIN,1
+8,Vegas,BUF @ CAR,7.5,BUF,1
+8,Vegas,SF @ HOU,-0.5,HOU,1
+8,Vegas,NYG @ PHI,-7.5,PHI,1
+8,Vegas,CLE @ NE,-6.5,NE,1
+8,Vegas,CHI @ BAL,-6.5,BAL,1
+8,Vegas,MIA @ ATL,-7.5,ATL,1
+8,Vegas,TB @ NO,4.5,TB,1
+8,Vegas,DAL @ DEN,-3.5,DEN,1
+8,Vegas,TEN @ IND,-14.5,IND,2
+8,Vegas,GB @ PIT,3.5,GB,1
+8,Vegas,WAS @ KC,-10.5,KC,1
+8,Willheser,MIN @ LAC,-3.5,LAC,1
+8,Willheser,NYJ @ CIN,-6.5,CIN,1
+8,Willheser,BUF @ CAR,7.5,CAR,1
+8,Willheser,SF @ HOU,-0.5,SF,2
+8,Willheser,NYG @ PHI,-7.5,NYG,1
+8,Willheser,CLE @ NE,-6.5,NE,1
+8,Willheser,CHI @ BAL,-6.5,CHI,1
+8,Willheser,MIA @ ATL,-7.5,ATL,1
+8,Willheser,TB @ NO,4.5,TB,1
+8,Willheser,DAL @ DEN,-3.5,DEN,1
+8,Willheser,TEN @ IND,-14.5,IND,1
+8,Willheser,GB @ PIT,3.5,GB,1
+8,Willheser,WAS @ KC,-10.5,WAS,1
+8,Yianni,MIN @ LAC,-3.5,LAC,1
+8,Yianni,NYJ @ CIN,-6.5,CIN,1
+8,Yianni,BUF @ CAR,7.5,BUF,1
+8,Yianni,SF @ HOU,-0.5,HOU,1
+8,Yianni,NYG @ PHI,-7.5,PHI,1
+8,Yianni,CLE @ NE,-6.5,NE,1
+8,Yianni,CHI @ BAL,-6.5,BAL,1
+8,Yianni,MIA @ ATL,-7.5,ATL,1
+8,Yianni,TB @ NO,4.5,TB,1
+8,Yianni,DAL @ DEN,-3.5,DEN,1
+8,Yianni,TEN @ IND,-14.5,IND,1
+8,Yianni,GB @ PIT,3.5,GB,1
+8,Yianni,WAS @ KC,-10.5,KC,2
+3,ADon,MIA @ BUF,-12.5,MIA,1
+3,ADon,IND @ TEN,3.5,IND,2
+3,ADon,PIT @ NE,1.5,PIT,1
+3,ADon,NYJ @ TB,-7.5,NYJ,1
+3,ADon,LV @ WAS,-3.5,WAS,1
+3,ADon,LAR @ PHI,-3.5,PHI,1
+3,ADon,ATL @ CAR,5.5,CAR,1
+3,ADon,CIN @ MIN,-2.5,MIN,1
+3,ADon,HOU @ JAX,-0.5,JAX,1
+3,ADon,GB @ CLE,8.5,CLE,1
+3,ADon,DEN @ LAC,-2.5,LAC,1
+3,ADon,NO @ SEA,-7.5,SEA,1
+3,ADon,ARI @ SF,-1.5,SF,1
+3,ADon,DAL @ CHI,0.5,DAL,1
+3,ADon,KC @ NYG,6.5,KC,1
+3,ADon,DET @ BAL,-5.5,BAL,1
+3,b_hop,MIA @ BUF,-12.5,BUF,1
+3,b_hop,IND @ TEN,3.5,IND,1
+3,b_hop,PIT @ NE,1.5,NE,1
+3,b_hop,NYJ @ TB,-7.5,TB,1
+3,b_hop,LV @ WAS,-3.5,LV,1
+3,b_hop,LAR @ PHI,-3.5,PHI,1
+3,b_hop,ATL @ CAR,5.5,CAR,1
+3,b_hop,CIN @ MIN,-2.5,MIN,1
+3,b_hop,HOU @ JAX,-0.5,JAX,1
+3,b_hop,GB @ CLE,8.5,GB,1
+3,b_hop,DEN @ LAC,-2.5,LAC,1
+3,b_hop,NO @ SEA,-7.5,SEA,1
+3,b_hop,ARI @ SF,-1.5,SF,1
+3,b_hop,DAL @ CHI,0.5,CHI,1
+3,b_hop,KC @ NYG,6.5,NYG,1
+3,b_hop,DET @ BAL,-5.5,DET,2
+3,derelicious,MIA @ BUF,-12.5,BUF,1
+3,derelicious,IND @ TEN,3.5,IND,2
+3,derelicious,PIT @ NE,1.5,NE,1
+3,derelicious,NYJ @ TB,-7.5,NYJ,1
+3,derelicious,LV @ WAS,-3.5,WAS,1
+3,derelicious,LAR @ PHI,-3.5,PHI,1
+3,derelicious,ATL @ CAR,5.5,ATL,1
+3,derelicious,CIN @ MIN,-2.5,MIN,1
+3,derelicious,HOU @ JAX,-0.5,HOU,1
+3,derelicious,GB @ CLE,8.5,GB,1
+3,derelicious,DEN @ LAC,-2.5,LAC,1
+3,derelicious,NO @ SEA,-7.5,SEA,1
+3,derelicious,ARI @ SF,-1.5,SF,1
+3,derelicious,DAL @ CHI,0.5,DAL,1
+3,derelicious,KC @ NYG,6.5,KC,1
+3,derelicious,DET @ BAL,-5.5,DET,1
+3,Exciting Whites,MIA @ BUF,-12.5,MIA,1
+3,Exciting Whites,IND @ TEN,3.5,IND,1
+3,Exciting Whites,PIT @ NE,1.5,NE,1
+3,Exciting Whites,NYJ @ TB,-7.5,TB,1
+3,Exciting Whites,LV @ WAS,-3.5,WAS,1
+3,Exciting Whites,LAR @ PHI,-3.5,PHI,1
+3,Exciting Whites,ATL @ CAR,5.5,CAR,1
+3,Exciting Whites,CIN @ MIN,-2.5,MIN,1
+3,Exciting Whites,HOU @ JAX,-0.5,HOU,2
+3,Exciting Whites,GB @ CLE,8.5,CLE,1
+3,Exciting Whites,DEN @ LAC,-2.5,LAC,1
+3,Exciting Whites,NO @ SEA,-7.5,SEA,1
+3,Exciting Whites,ARI @ SF,-1.5,SF,1
+3,Exciting Whites,DAL @ CHI,0.5,DAL,1
+3,Exciting Whites,KC @ NYG,6.5,NYG,1
+3,Exciting Whites,DET @ BAL,-5.5,DET,1
+3,Kevin,MIA @ BUF,-12.5,BUF,1
+3,Kevin,IND @ TEN,3.5,IND,1
+3,Kevin,PIT @ NE,1.5,NE,1
+3,Kevin,NYJ @ TB,-7.5,TB,1
+3,Kevin,LV @ WAS,-3.5,WAS,1
+3,Kevin,LAR @ PHI,-3.5,PHI,1
+3,Kevin,ATL @ CAR,5.5,ATL,1
+3,Kevin,CIN @ MIN,-2.5,MIN,2
+3,Kevin,HOU @ JAX,-0.5,HOU,1
+3,Kevin,GB @ CLE,8.5,GB,1
+3,Kevin,DEN @ LAC,-2.5,LAC,1
+3,Kevin,NO @ SEA,-7.5,SEA,1
+3,Kevin,ARI @ SF,-1.5,SF,1
+3,Kevin,DAL @ CHI,0.5,CHI,1
+3,Kevin,KC @ NYG,6.5,KC,1
+3,Kevin,DET @ BAL,-5.5,BAL,1
+3,Maye Magic,MIA @ BUF,-12.5,BUF,1
+3,Maye Magic,IND @ TEN,3.5,IND,1
+3,Maye Magic,PIT @ NE,1.5,NE,1
+3,Maye Magic,NYJ @ TB,-7.5,TB,1
+3,Maye Magic,LV @ WAS,-3.5,WAS,1
+3,Maye Magic,LAR @ PHI,-3.5,PHI,1
+3,Maye Magic,ATL @ CAR,5.5,ATL,1
+3,Maye Magic,CIN @ MIN,-2.5,MIN,1
+3,Maye Magic,HOU @ JAX,-0.5,HOU,1
+3,Maye Magic,GB @ CLE,8.5,GB,1
+3,Maye Magic,DEN @ LAC,-2.5,LAC,1
+3,Maye Magic,NO @ SEA,-7.5,SEA,1
+3,Maye Magic,ARI @ SF,-1.5,SF,1
+3,Maye Magic,DAL @ CHI,0.5,DAL,2
+3,Maye Magic,KC @ NYG,6.5,KC,1
+3,Maye Magic,DET @ BAL,-5.5,BAL,1
+3,MC$,MIA @ BUF,-12.5,BUF,1
+3,MC$,IND @ TEN,3.5,IND,1
+3,MC$,PIT @ NE,1.5,PIT,1
+3,MC$,NYJ @ TB,-7.5,TB,2
+3,MC$,LV @ WAS,-3.5,LV,1
+3,MC$,LAR @ PHI,-3.5,PHI,1
+3,MC$,ATL @ CAR,5.5,ATL,1
+3,MC$,CIN @ MIN,-2.5,MIN,1
+3,MC$,HOU @ JAX,-0.5,JAX,1
+3,MC$,GB @ CLE,8.5,GB,1
+3,MC$,DEN @ LAC,-2.5,DEN,1
+3,MC$,NO @ SEA,-7.5,NO,1
+3,MC$,ARI @ SF,-1.5,ARI,1
+3,MC$,DAL @ CHI,0.5,CHI,1
+3,MC$,KC @ NYG,6.5,KC,1
+3,MC$,DET @ BAL,-5.5,BAL,1
+3,mrmcwinnerson,MIA @ BUF,-12.5,BUF,2
+3,mrmcwinnerson,IND @ TEN,3.5,IND,1
+3,mrmcwinnerson,PIT @ NE,1.5,PIT,1
+3,mrmcwinnerson,NYJ @ TB,-7.5,TB,1
+3,mrmcwinnerson,LV @ WAS,-3.5,WAS,1
+3,mrmcwinnerson,LAR @ PHI,-3.5,LAR,1
+3,mrmcwinnerson,ATL @ CAR,5.5,CAR,1
+3,mrmcwinnerson,CIN @ MIN,-2.5,CIN,1
+3,mrmcwinnerson,HOU @ JAX,-0.5,JAX,1
+3,mrmcwinnerson,GB @ CLE,8.5,GB,1
+3,mrmcwinnerson,DEN @ LAC,-2.5,LAC,1
+3,mrmcwinnerson,NO @ SEA,-7.5,NO,1
+3,mrmcwinnerson,ARI @ SF,-1.5,SF,1
+3,mrmcwinnerson,DAL @ CHI,0.5,DAL,1
+3,mrmcwinnerson,KC @ NYG,6.5,KC,1
+3,mrmcwinnerson,DET @ BAL,-5.5,DET,1
+3,P-Otys,MIA @ BUF,-12.5,BUF,1
+3,P-Otys,IND @ TEN,3.5,IND,1
+3,P-Otys,PIT @ NE,1.5,NE,1
+3,P-Otys,NYJ @ TB,-7.5,TB,1
+3,P-Otys,LV @ WAS,-3.5,LV,1
+3,P-Otys,LAR @ PHI,-3.5,PHI,1
+3,P-Otys,ATL @ CAR,5.5,ATL,1
+3,P-Otys,CIN @ MIN,-2.5,CIN,1
+3,P-Otys,HOU @ JAX,-0.5,JAX,1
+3,P-Otys,GB @ CLE,8.5,GB,1
+3,P-Otys,DEN @ LAC,-2.5,DEN,1
+3,P-Otys,NO @ SEA,-7.5,SEA,1
+3,P-Otys,ARI @ SF,-1.5,SF,1
+3,P-Otys,DAL @ CHI,0.5,DAL,1
+3,P-Otys,KC @ NYG,6.5,KC,2
+3,P-Otys,DET @ BAL,-5.5,DET,1
+3,Ripw1124,MIA @ BUF,-12.5,MIA,1
+3,Ripw1124,IND @ TEN,3.5,IND,2
+3,Ripw1124,PIT @ NE,1.5,NE,1
+3,Ripw1124,NYJ @ TB,-7.5,TB,1
+3,Ripw1124,LV @ WAS,-3.5,LV,1
+3,Ripw1124,LAR @ PHI,-3.5,PHI,1
+3,Ripw1124,ATL @ CAR,5.5,ATL,1
+3,Ripw1124,CIN @ MIN,-2.5,MIN,1
+3,Ripw1124,HOU @ JAX,-0.5,HOU,1
+3,Ripw1124,GB @ CLE,8.5,GB,1
+3,Ripw1124,DEN @ LAC,-2.5,LAC,1
+3,Ripw1124,NO @ SEA,-7.5,NO,1
+3,Ripw1124,ARI @ SF,-1.5,ARI,1
+3,Ripw1124,DAL @ CHI,0.5,DAL,1
+3,Ripw1124,KC @ NYG,6.5,KC,1
+3,Ripw1124,DET @ BAL,-5.5,BAL,1
+3,Vegas,MIA @ BUF,-12.5,BUF,2
+3,Vegas,IND @ TEN,3.5,IND,1
+3,Vegas,PIT @ NE,1.5,PIT,1
+3,Vegas,NYJ @ TB,-7.5,TB,1
+3,Vegas,LV @ WAS,-3.5,WAS,1
+3,Vegas,LAR @ PHI,-3.5,PHI,1
+3,Vegas,ATL @ CAR,5.5,ATL,1
+3,Vegas,CIN @ MIN,-2.5,MIN,1
+3,Vegas,HOU @ JAX,-0.5,JAX,1
+3,Vegas,GB @ CLE,8.5,GB,1
+3,Vegas,DEN @ LAC,-2.5,LAC,1
+3,Vegas,NO @ SEA,-7.5,SEA,1
+3,Vegas,ARI @ SF,-1.5,SF,1
+3,Vegas,DAL @ CHI,0.5,DAL,1
+3,Vegas,KC @ NYG,6.5,KC,1
+3,Vegas,DET @ BAL,-5.5,BAL,1
+3,Willheser,MIA @ BUF,-12.5,BUF,1
+3,Willheser,IND @ TEN,3.5,IND,1
+3,Willheser,PIT @ NE,1.5,PIT,1
+3,Willheser,NYJ @ TB,-7.5,TB,1
+3,Willheser,LV @ WAS,-3.5,WAS,1
+3,Willheser,LAR @ PHI,-3.5,PHI,1
+3,Willheser,ATL @ CAR,5.5,ATL,1
+3,Willheser,CIN @ MIN,-2.5,CIN,1
+3,Willheser,HOU @ JAX,-0.5,JAX,1
+3,Willheser,GB @ CLE,8.5,GB,2
+3,Willheser,DEN @ LAC,-2.5,LAC,1
+3,Willheser,NO @ SEA,-7.5,SEA,1
+3,Willheser,ARI @ SF,-1.5,ARI,1
+3,Willheser,DAL @ CHI,0.5,DAL,1
+3,Willheser,KC @ NYG,6.5,NYG,1
+3,Willheser,DET @ BAL,-5.5,DET,1
+3,Yianni,MIA @ BUF,-12.5,MIA,1
+3,Yianni,IND @ TEN,3.5,IND,1
+3,Yianni,PIT @ NE,1.5,NE,1
+3,Yianni,NYJ @ TB,-7.5,TB,2
+3,Yianni,LV @ WAS,-3.5,WAS,1
+3,Yianni,LAR @ PHI,-3.5,PHI,1
+3,Yianni,ATL @ CAR,5.5,ATL,1
+3,Yianni,CIN @ MIN,-2.5,CIN,1
+3,Yianni,HOU @ JAX,-0.5,HOU,1
+3,Yianni,GB @ CLE,8.5,GB,1
+3,Yianni,DEN @ LAC,-2.5,LAC,1
+3,Yianni,NO @ SEA,-7.5,NO,1
+3,Yianni,ARI @ SF,-1.5,SF,1
+3,Yianni,DAL @ CHI,0.5,DAL,1
+3,Yianni,KC @ NYG,6.5,KC,1
+3,Yianni,DET @ BAL,-5.5,DET,1
+7,ADon,PIT @ CIN,5.5,PIT,1
+7,ADon,LAR @ JAX,2.5,LAR,1
+7,ADon,NE @ TEN,7.5,TEN,1
+7,ADon,NO @ CHI,-5.5,NO,1
+7,ADon,MIA @ CLE,-2.5,MIA,1
+7,ADon,CAR @ NYJ,1.5,CAR,1
+7,ADon,PHI @ MIN,2.5,PHI,1
+7,ADon,LV @ KC,-11.5,LV,1
+7,ADon,NYG @ DEN,-6.5,NYG,1
+7,ADon,IND @ LAC,-1.5,IND,1
+7,ADon,WAS @ DAL,2.5,DAL,2
+7,ADon,GB @ ARI,6.5,GB,1
+7,ADon,ATL @ SF,-2.5,SF,1
+7,ADon,TB @ DET,-4.5,DET,1
+7,ADon,HOU @ SEA,-3.5,SEA,1
+7,b_hop,PIT @ CIN,5.5,CIN,1
+7,b_hop,LAR @ JAX,2.5,JAX,1
+7,b_hop,NE @ TEN,7.5,TEN,1
+7,b_hop,NO @ CHI,-5.5,CHI,1
+7,b_hop,MIA @ CLE,-2.5,CLE,1
+7,b_hop,CAR @ NYJ,1.5,CAR,1
+7,b_hop,PHI @ MIN,2.5,PHI,2
+7,b_hop,LV @ KC,-11.5,KC,1
+7,b_hop,NYG @ DEN,-6.5,DEN,1
+7,b_hop,IND @ LAC,-1.5,IND,1
+7,b_hop,WAS @ DAL,2.5,DAL,1
+7,b_hop,GB @ ARI,6.5,ARI,1
+7,b_hop,ATL @ SF,-2.5,SF,1
+7,b_hop,TB @ DET,-4.5,DET,1
+7,b_hop,HOU @ SEA,-3.5,SEA,1
+7,derelicious,PIT @ CIN,5.5,CIN,1
+7,derelicious,LAR @ JAX,2.5,JAX,1
+7,derelicious,NE @ TEN,7.5,NE,1
+7,derelicious,NO @ CHI,-5.5,CHI,1
+7,derelicious,MIA @ CLE,-2.5,CLE,1
+7,derelicious,CAR @ NYJ,1.5,NYJ,1
+7,derelicious,PHI @ MIN,2.5,MIN,1
+7,derelicious,LV @ KC,-11.5,KC,1
+7,derelicious,NYG @ DEN,-6.5,NYG,1
+7,derelicious,IND @ LAC,-1.5,IND,1
+7,derelicious,WAS @ DAL,2.5,WAS,1
+7,derelicious,GB @ ARI,6.5,GB,1
+7,derelicious,ATL @ SF,-2.5,SF,1
+7,derelicious,TB @ DET,-4.5,TB,2
+7,derelicious,HOU @ SEA,-3.5,SEA,1
+7,Exciting Whites,PIT @ CIN,5.5,PIT,1
+7,Exciting Whites,LAR @ JAX,2.5,LAR,1
+7,Exciting Whites,NE @ TEN,7.5,NE,1
+7,Exciting Whites,NO @ CHI,-5.5,CHI,1
+7,Exciting Whites,MIA @ CLE,-2.5,MIA,1
+7,Exciting Whites,CAR @ NYJ,1.5,NYJ,1
+7,Exciting Whites,PHI @ MIN,2.5,MIN,1
+7,Exciting Whites,LV @ KC,-11.5,KC,1
+7,Exciting Whites,NYG @ DEN,-6.5,DEN,1
+7,Exciting Whites,IND @ LAC,-1.5,LAC,1
+7,Exciting Whites,WAS @ DAL,2.5,DAL,1
+7,Exciting Whites,GB @ ARI,6.5,ARI,1
+7,Exciting Whites,ATL @ SF,-2.5,ATL,1
+7,Exciting Whites,TB @ DET,-4.5,DET,1
+7,Exciting Whites,HOU @ SEA,-3.5,SEA,2
+7,Kevin,PIT @ CIN,5.5,PIT,2
+7,Kevin,LAR @ JAX,2.5,JAX,1
+7,Kevin,NE @ TEN,7.5,NE,1
+7,Kevin,NO @ CHI,-5.5,CHI,1
+7,Kevin,MIA @ CLE,-2.5,CLE,1
+7,Kevin,CAR @ NYJ,1.5,CAR,1
+7,Kevin,PHI @ MIN,2.5,PHI,1
+7,Kevin,LV @ KC,-11.5,KC,1
+7,Kevin,NYG @ DEN,-6.5,NYG,1
+7,Kevin,IND @ LAC,-1.5,IND,1
+7,Kevin,WAS @ DAL,2.5,DAL,1
+7,Kevin,GB @ ARI,6.5,GB,1
+7,Kevin,ATL @ SF,-2.5,SF,1
+7,Kevin,TB @ DET,-4.5,DET,1
+7,Kevin,HOU @ SEA,-3.5,SEA,1
+7,Maye Magic,PIT @ CIN,5.5,CIN,1
+7,Maye Magic,LAR @ JAX,2.5,JAX,1
+7,Maye Magic,NE @ TEN,7.5,TEN,1
+7,Maye Magic,NO @ CHI,-5.5,NO,1
+7,Maye Magic,MIA @ CLE,-2.5,CLE,1
+7,Maye Magic,CAR @ NYJ,1.5,CAR,1
+7,Maye Magic,PHI @ MIN,2.5,PHI,1
+7,Maye Magic,LV @ KC,-11.5,LV,1
+7,Maye Magic,NYG @ DEN,-6.5,DEN,1
+7,Maye Magic,IND @ LAC,-1.5,IND,1
+7,Maye Magic,WAS @ DAL,2.5,WAS,1
+7,Maye Magic,GB @ ARI,6.5,GB,1
+7,Maye Magic,ATL @ SF,-2.5,ATL,1
+7,Maye Magic,TB @ DET,-4.5,TB,1
+7,Maye Magic,HOU @ SEA,-3.5,SEA,2
+7,MC$,PIT @ CIN,5.5,PIT,1
+7,MC$,LAR @ JAX,2.5,LAR,2
+7,MC$,NE @ TEN,7.5,NE,1
+7,MC$,NO @ CHI,-5.5,CHI,1
+7,MC$,MIA @ CLE,-2.5,CLE,1
+7,MC$,CAR @ NYJ,1.5,CAR,1
+7,MC$,PHI @ MIN,2.5,MIN,1
+7,MC$,LV @ KC,-11.5,LV,1
+7,MC$,NYG @ DEN,-6.5,DEN,1
+7,MC$,IND @ LAC,-1.5,IND,1
+7,MC$,WAS @ DAL,2.5,DAL,1
+7,MC$,GB @ ARI,6.5,GB,1
+7,MC$,ATL @ SF,-2.5,SF,1
+7,MC$,TB @ DET,-4.5,DET,1
+7,MC$,HOU @ SEA,-3.5,SEA,1
+7,mrmcwinnerson,PIT @ CIN,5.5,PIT,2
+7,mrmcwinnerson,LAR @ JAX,2.5,LAR,1
+7,mrmcwinnerson,NE @ TEN,7.5,NE,1
+7,mrmcwinnerson,NO @ CHI,-5.5,CHI,1
+7,mrmcwinnerson,MIA @ CLE,-2.5,CLE,1
+7,mrmcwinnerson,CAR @ NYJ,1.5,CAR,1
+7,mrmcwinnerson,PHI @ MIN,2.5,PHI,1
+7,mrmcwinnerson,LV @ KC,-11.5,KC,1
+7,mrmcwinnerson,NYG @ DEN,-6.5,DEN,1
+7,mrmcwinnerson,IND @ LAC,-1.5,IND,1
+7,mrmcwinnerson,WAS @ DAL,2.5,DAL,1
+7,mrmcwinnerson,GB @ ARI,6.5,GB,1
+7,mrmcwinnerson,ATL @ SF,-2.5,ATL,1
+7,mrmcwinnerson,TB @ DET,-4.5,DET,1
+7,mrmcwinnerson,HOU @ SEA,-3.5,SEA,1
+7,P-Otys,PIT @ CIN,5.5,CIN,1
+7,P-Otys,LAR @ JAX,2.5,LAR,1
+7,P-Otys,NE @ TEN,7.5,NE,1
+7,P-Otys,NO @ CHI,-5.5,NO,1
+7,P-Otys,MIA @ CLE,-2.5,MIA,1
+7,P-Otys,CAR @ NYJ,1.5,CAR,2
+7,P-Otys,PHI @ MIN,2.5,MIN,1
+7,P-Otys,LV @ KC,-11.5,KC,1
+7,P-Otys,NYG @ DEN,-6.5,NYG,1
+7,P-Otys,IND @ LAC,-1.5,IND,1
+7,P-Otys,WAS @ DAL,2.5,DAL,1
+7,P-Otys,GB @ ARI,6.5,ARI,1
+7,P-Otys,ATL @ SF,-2.5,ATL,1
+7,P-Otys,TB @ DET,-4.5,TB,1
+7,P-Otys,HOU @ SEA,-3.5,SEA,1
+7,Ripw1124,PIT @ CIN,5.5,PIT,2
+7,Ripw1124,LAR @ JAX,2.5,LAR,1
+7,Ripw1124,NE @ TEN,7.5,NE,1
+7,Ripw1124,NO @ CHI,-5.5,CHI,1
+7,Ripw1124,MIA @ CLE,-2.5,CLE,1
+7,Ripw1124,CAR @ NYJ,1.5,CAR,1
+7,Ripw1124,PHI @ MIN,2.5,PHI,1
+7,Ripw1124,LV @ KC,-11.5,LV,1
+7,Ripw1124,NYG @ DEN,-6.5,DEN,1
+7,Ripw1124,IND @ LAC,-1.5,IND,1
+7,Ripw1124,WAS @ DAL,2.5,WAS,1
+7,Ripw1124,GB @ ARI,6.5,GB,1
+7,Ripw1124,ATL @ SF,-2.5,ATL,1
+7,Ripw1124,TB @ DET,-4.5,TB,1
+7,Ripw1124,HOU @ SEA,-3.5,SEA,1
+7,Vegas,PIT @ CIN,5.5,PIT,1
+7,Vegas,LAR @ JAX,2.5,LAR,1
+7,Vegas,NE @ TEN,7.5,NE,1
+7,Vegas,NO @ CHI,-5.5,CHI,1
+7,Vegas,MIA @ CLE,-2.5,CLE,1
+7,Vegas,CAR @ NYJ,1.5,CAR,1
+7,Vegas,PHI @ MIN,2.5,PHI,1
+7,Vegas,LV @ KC,-11.5,KC,2
+7,Vegas,NYG @ DEN,-6.5,DEN,1
+7,Vegas,IND @ LAC,-1.5,LAC,1
+7,Vegas,WAS @ DAL,2.5,WAS,1
+7,Vegas,GB @ ARI,6.5,GB,1
+7,Vegas,ATL @ SF,-2.5,SF,1
+7,Vegas,TB @ DET,-4.5,DET,1
+7,Vegas,HOU @ SEA,-3.5,SEA,1
+7,Willheser,PIT @ CIN,5.5,CIN,1
+7,Willheser,LAR @ JAX,2.5,JAX,1
+7,Willheser,NE @ TEN,7.5,NE,1
+7,Willheser,NO @ CHI,-5.5,CHI,1
+7,Willheser,MIA @ CLE,-2.5,CLE,1
+7,Willheser,CAR @ NYJ,1.5,CAR,1
+7,Willheser,PHI @ MIN,2.5,MIN,1
+7,Willheser,LV @ KC,-11.5,LV,1
+7,Willheser,NYG @ DEN,-6.5,DEN,2
+7,Willheser,IND @ LAC,-1.5,IND,1
+7,Willheser,WAS @ DAL,2.5,WAS,1
+7,Willheser,GB @ ARI,6.5,GB,1
+7,Willheser,ATL @ SF,-2.5,ATL,1
+7,Willheser,TB @ DET,-4.5,TB,1
+7,Willheser,HOU @ SEA,-3.5,SEA,1
+7,Yianni,PIT @ CIN,5.5,PIT,1
+7,Yianni,LAR @ JAX,2.5,JAX,1
+7,Yianni,NE @ TEN,7.5,NE,1
+7,Yianni,NO @ CHI,-5.5,CHI,1
+7,Yianni,MIA @ CLE,-2.5,CLE,1
+7,Yianni,CAR @ NYJ,1.5,CAR,1
+7,Yianni,PHI @ MIN,2.5,PHI,1
+7,Yianni,LV @ KC,-11.5,KC,1
+7,Yianni,NYG @ DEN,-6.5,NYG,1
+7,Yianni,IND @ LAC,-1.5,IND,1
+7,Yianni,WAS @ DAL,2.5,WAS,1
+7,Yianni,GB @ ARI,6.5,GB,1
+7,Yianni,ATL @ SF,-2.5,SF,1
+7,Yianni,TB @ DET,-4.5,TB,1
+7,Yianni,HOU @ SEA,-3.5,SEA,2
+5,ADon,SF @ LAR,-5.5,LAR,1
+5,ADon,MIN @ CLE,3.5,MIN,1
+5,ADon,DAL @ NYJ,2.5,DAL,1
+5,ADon,DEN @ PHI,-3.5,PHI,2
+5,ADon,HOU @ BAL,-3.5,HOU,1
+5,ADon,NYG @ NO,-1.5,NYG,1
+5,ADon,LV @ IND,-6.5,IND,1
+5,ADon,MIA @ CAR,-0.5,MIA,1
+5,ADon,TB @ SEA,-3.5,SEA,1
+5,ADon,TEN @ ARI,-8.5,ARI,1
+5,ADon,WAS @ LAC,-2.5,LAC,1
+5,ADon,DET @ CIN,9.5,DET,1
+5,ADon,NE @ BUF,-7.5,BUF,1
+5,ADon,KC @ JAX,3.5,KC,1
+5,b_hop,SF @ LAR,-5.5,LAR,1
+5,b_hop,MIN @ CLE,3.5,MIN,1
+5,b_hop,DAL @ NYJ,2.5,DAL,1
+5,b_hop,DEN @ PHI,-3.5,DEN,1
+5,b_hop,HOU @ BAL,-3.5,HOU,1
+5,b_hop,NYG @ NO,-1.5,NYG,1
+5,b_hop,LV @ IND,-6.5,IND,1
+5,b_hop,MIA @ CAR,-0.5,MIA,1
+5,b_hop,TB @ SEA,-3.5,TB,1
+5,b_hop,TEN @ ARI,-8.5,TEN,1
+5,b_hop,WAS @ LAC,-2.5,LAC,1
+5,b_hop,DET @ CIN,9.5,DET,1
+5,b_hop,NE @ BUF,-7.5,BUF,1
+5,b_hop,KC @ JAX,3.5,KC,2
+5,derelicious,SF @ LAR,-5.5,SF,1
+5,derelicious,MIN @ CLE,3.5,CLE,1
+5,derelicious,DAL @ NYJ,2.5,DAL,1
+5,derelicious,DEN @ PHI,-3.5,DEN,1
+5,derelicious,HOU @ BAL,-3.5,BAL,2
+5,derelicious,NYG @ NO,-1.5,NYG,1
+5,derelicious,LV @ IND,-6.5,IND,1
+5,derelicious,MIA @ CAR,-0.5,MIA,1
+5,derelicious,TB @ SEA,-3.5,TB,1
+5,derelicious,TEN @ ARI,-8.5,ARI,1
+5,derelicious,WAS @ LAC,-2.5,LAC,1
+5,derelicious,DET @ CIN,9.5,DET,1
+5,derelicious,NE @ BUF,-7.5,NE,1
+5,derelicious,KC @ JAX,3.5,KC,1
+5,Exciting Whites,SF @ LAR,-5.5,LAR,1
+5,Exciting Whites,MIN @ CLE,3.5,MIN,1
+5,Exciting Whites,DAL @ NYJ,2.5,NYJ,1
+5,Exciting Whites,DEN @ PHI,-3.5,PHI,1
+5,Exciting Whites,HOU @ BAL,-3.5,BAL,1
+5,Exciting Whites,NYG @ NO,-1.5,NYG,1
+5,Exciting Whites,LV @ IND,-6.5,IND,1
+5,Exciting Whites,MIA @ CAR,-0.5,CAR,1
+5,Exciting Whites,TB @ SEA,-3.5,TB,1
+5,Exciting Whites,TEN @ ARI,-8.5,ARI,1
+5,Exciting Whites,WAS @ LAC,-2.5,LAC,1
+5,Exciting Whites,DET @ CIN,9.5,DET,1
+5,Exciting Whites,NE @ BUF,-7.5,BUF,2
+5,Exciting Whites,KC @ JAX,3.5,JAX,1
+5,Kevin,SF @ LAR,-5.5,LAR,1
+5,Kevin,MIN @ CLE,3.5,CLE,1
+5,Kevin,DAL @ NYJ,2.5,DAL,2
+5,Kevin,DEN @ PHI,-3.5,PHI,1
+5,Kevin,HOU @ BAL,-3.5,BAL,1
+5,Kevin,NYG @ NO,-1.5,NYG,1
+5,Kevin,LV @ IND,-6.5,IND,1
+5,Kevin,MIA @ CAR,-0.5,CAR,1
+5,Kevin,TB @ SEA,-3.5,TB,1
+5,Kevin,TEN @ ARI,-8.5,ARI,1
+5,Kevin,WAS @ LAC,-2.5,LAC,1
+5,Kevin,DET @ CIN,9.5,DET,1
+5,Kevin,NE @ BUF,-7.5,NE,1
+5,Kevin,KC @ JAX,3.5,KC,1
+5,Maye Magic,SF @ LAR,-5.5,LAR,1
+5,Maye Magic,MIN @ CLE,3.5,CLE,1
+5,Maye Magic,DAL @ NYJ,2.5,DAL,1
+5,Maye Magic,DEN @ PHI,-3.5,DEN,1
+5,Maye Magic,HOU @ BAL,-3.5,BAL,1
+5,Maye Magic,NYG @ NO,-1.5,NYG,1
+5,Maye Magic,LV @ IND,-6.5,IND,1
+5,Maye Magic,MIA @ CAR,-0.5,CAR,1
+5,Maye Magic,TB @ SEA,-3.5,TB,1
+5,Maye Magic,TEN @ ARI,-8.5,TEN,1
+5,Maye Magic,WAS @ LAC,-2.5,LAC,1
+5,Maye Magic,DET @ CIN,9.5,DET,1
+5,Maye Magic,NE @ BUF,-7.5,NE,2
+5,Maye Magic,KC @ JAX,3.5,KC,1
+5,MC$,SF @ LAR,-5.5,SF,1
+5,MC$,MIN @ CLE,3.5,MIN,1
+5,MC$,DAL @ NYJ,2.5,NYJ,1
+5,MC$,DEN @ PHI,-3.5,PHI,1
+5,MC$,HOU @ BAL,-3.5,BAL,2
+5,MC$,NYG @ NO,-1.5,NYG,1
+5,MC$,LV @ IND,-6.5,IND,1
+5,MC$,MIA @ CAR,-0.5,MIA,1
+5,MC$,TB @ SEA,-3.5,TB,1
+5,MC$,TEN @ ARI,-8.5,ARI,1
+5,MC$,WAS @ LAC,-2.5,LAC,1
+5,MC$,DET @ CIN,9.5,CIN,1
+5,MC$,NE @ BUF,-7.5,BUF,1
+5,MC$,KC @ JAX,3.5,JAX,1
+5,mrmcwinnerson,SF @ LAR,-5.5,LAR,1
+5,mrmcwinnerson,MIN @ CLE,3.5,MIN,1
+5,mrmcwinnerson,DAL @ NYJ,2.5,NYJ,1
+5,mrmcwinnerson,DEN @ PHI,-3.5,PHI,2
+5,mrmcwinnerson,HOU @ BAL,-3.5,BAL,1
+5,mrmcwinnerson,NYG @ NO,-1.5,NO,1
+5,mrmcwinnerson,LV @ IND,-6.5,IND,1
+5,mrmcwinnerson,MIA @ CAR,-0.5,MIA,1
+5,mrmcwinnerson,TB @ SEA,-3.5,SEA,1
+5,mrmcwinnerson,TEN @ ARI,-8.5,ARI,1
+5,mrmcwinnerson,WAS @ LAC,-2.5,WAS,1
+5,mrmcwinnerson,DET @ CIN,9.5,DET,1
+5,mrmcwinnerson,NE @ BUF,-7.5,BUF,1
+5,mrmcwinnerson,KC @ JAX,3.5,JAX,1
+5,P-Otys,SF @ LAR,-5.5,LAR,1
+5,P-Otys,MIN @ CLE,3.5,CLE,1
+5,P-Otys,DAL @ NYJ,2.5,DAL,1
+5,P-Otys,DEN @ PHI,-3.5,DEN,1
+5,P-Otys,HOU @ BAL,-3.5,HOU,1
+5,P-Otys,NYG @ NO,-1.5,NYG,1
+5,P-Otys,LV @ IND,-6.5,IND,1
+5,P-Otys,MIA @ CAR,-0.5,CAR,1
+5,P-Otys,TB @ SEA,-3.5,TB,1
+5,P-Otys,TEN @ ARI,-8.5,TEN,1
+5,P-Otys,WAS @ LAC,-2.5,LAC,1
+5,P-Otys,DET @ CIN,9.5,DET,1
+5,P-Otys,NE @ BUF,-7.5,BUF,1
+5,P-Otys,KC @ JAX,3.5,KC,2
+5,Ripw1124,SF @ LAR,-5.5,SF,1
+5,Ripw1124,MIN @ CLE,3.5,MIN,2
+5,Ripw1124,DAL @ NYJ,2.5,DAL,1
+5,Ripw1124,DEN @ PHI,-3.5,DEN,1
+5,Ripw1124,HOU @ BAL,-3.5,BAL,1
+5,Ripw1124,NYG @ NO,-1.5,NYG,1
+5,Ripw1124,LV @ IND,-6.5,IND,1
+5,Ripw1124,MIA @ CAR,-0.5,CAR,1
+5,Ripw1124,TB @ SEA,-3.5,TB,1
+5,Ripw1124,TEN @ ARI,-8.5,TEN,1
+5,Ripw1124,WAS @ LAC,-2.5,LAC,1
+5,Ripw1124,DET @ CIN,9.5,CIN,1
+5,Ripw1124,NE @ BUF,-7.5,BUF,1
+5,Ripw1124,KC @ JAX,3.5,KC,1
+5,Vegas,SF @ LAR,-5.5,LAR,1
+5,Vegas,MIN @ CLE,3.5,MIN,1
+5,Vegas,DAL @ NYJ,2.5,DAL,1
+5,Vegas,DEN @ PHI,-3.5,PHI,1
+5,Vegas,HOU @ BAL,-3.5,BAL,1
+5,Vegas,NYG @ NO,-1.5,NO,1
+5,Vegas,LV @ IND,-6.5,IND,1
+5,Vegas,MIA @ CAR,-0.5,CAR,1
+5,Vegas,TB @ SEA,-3.5,SEA,1
+5,Vegas,TEN @ ARI,-8.5,ARI,1
+5,Vegas,WAS @ LAC,-2.5,LAC,1
+5,Vegas,DET @ CIN,9.5,DET,2
+5,Vegas,NE @ BUF,-7.5,BUF,1
+5,Vegas,KC @ JAX,3.5,KC,1
+5,Willheser,SF @ LAR,-5.5,LAR,2
+5,Willheser,MIN @ CLE,3.5,CLE,1
+5,Willheser,DAL @ NYJ,2.5,DAL,1
+5,Willheser,DEN @ PHI,-3.5,PHI,1
+5,Willheser,HOU @ BAL,-3.5,HOU,1
+5,Willheser,NYG @ NO,-1.5,NYG,1
+5,Willheser,LV @ IND,-6.5,IND,1
+5,Willheser,MIA @ CAR,-0.5,MIA,1
+5,Willheser,TB @ SEA,-3.5,SEA,1
+5,Willheser,TEN @ ARI,-8.5,ARI,1
+5,Willheser,WAS @ LAC,-2.5,WAS,1
+5,Willheser,DET @ CIN,9.5,DET,1
+5,Willheser,NE @ BUF,-7.5,BUF,1
+5,Willheser,KC @ JAX,3.5,KC,1
+5,Yianni,SF @ LAR,-5.5,LAR,1
+5,Yianni,MIN @ CLE,3.5,MIN,1
+5,Yianni,DAL @ NYJ,2.5,DAL,1
+5,Yianni,DEN @ PHI,-3.5,PHI,1
+5,Yianni,HOU @ BAL,-3.5,BAL,1
+5,Yianni,NYG @ NO,-1.5,NO,1
+5,Yianni,LV @ IND,-6.5,IND,1
+5,Yianni,MIA @ CAR,-0.5,CAR,1
+5,Yianni,TB @ SEA,-3.5,SEA,1
+5,Yianni,TEN @ ARI,-8.5,ARI,1
+5,Yianni,WAS @ LAC,-2.5,LAC,1
+5,Yianni,DET @ CIN,9.5,DET,1
+5,Yianni,NE @ BUF,-7.5,BUF,1
+5,Yianni,KC @ JAX,3.5,KC,2
+13,ADon,GB @ DET,-2.5,GB,1
+13,ADon,KC @ DAL,3.5,KC,1
+13,ADon,CIN @ BAL,-6.5,BAL,1
+13,ADon,CHI @ PHI,-6.5,CHI,1
+13,ADon,JAX @ TEN,6.5,TEN,1
+13,ADon,ATL @ NYJ,2.5,NYJ,1
+13,ADon,LAR @ CAR,10.5,LAR,1
+13,ADon,NO @ MIA,-5.5,MIA,1
+13,ADon,ARI @ TB,-3.5,TB,1
+13,ADon,SF @ CLE,5.5,SF,1
+13,ADon,HOU @ IND,-4.5,HOU,1
+13,ADon,MIN @ SEA,-10.5,SEA,2
+13,ADon,BUF @ PIT,3.5,PIT,1
+13,ADon,LV @ LAC,-9.5,LAC,1
+13,ADon,DEN @ WAS,6.5,DEN,1
+13,ADon,NYG @ NE,-7.5,NYG,1
+13,b_hop,GB @ DET,-2.5,GB,1
+13,b_hop,KC @ DAL,3.5,KC,1
+13,b_hop,CIN @ BAL,-6.5,CIN,2
+13,b_hop,CHI @ PHI,-6.5,PHI,1
+13,b_hop,JAX @ TEN,6.5,JAX,1
+13,b_hop,ATL @ NYJ,2.5,NYJ,1
+13,b_hop,LAR @ CAR,10.5,CAR,1
+13,b_hop,NO @ MIA,-5.5,MIA,1
+13,b_hop,ARI @ TB,-3.5,ARI,1
+13,b_hop,SF @ CLE,5.5,SF,1
+13,b_hop,HOU @ IND,-4.5,HOU,1
+13,b_hop,MIN @ SEA,-10.5,SEA,1
+13,b_hop,BUF @ PIT,3.5,BUF,1
+13,b_hop,LV @ LAC,-9.5,LV,1
+13,b_hop,DEN @ WAS,6.5,DEN,1
+13,b_hop,NYG @ NE,-7.5,NYG,1
+13,derelicious,GB @ DET,-2.5,GB,1
+13,derelicious,KC @ DAL,3.5,DAL,1
+13,derelicious,CIN @ BAL,-6.5,BAL,1
+13,derelicious,CHI @ PHI,-6.5,CHI,1
+13,derelicious,JAX @ TEN,6.5,JAX,1
+13,derelicious,ATL @ NYJ,2.5,ATL,1
+13,derelicious,LAR @ CAR,10.5,CAR,1
+13,derelicious,NO @ MIA,-5.5,NO,1
+13,derelicious,ARI @ TB,-3.5,TB,1
+13,derelicious,SF @ CLE,5.5,SF,1
+13,derelicious,HOU @ IND,-4.5,IND,1
+13,derelicious,MIN @ SEA,-10.5,SEA,1
+13,derelicious,BUF @ PIT,3.5,PIT,1
+13,derelicious,LV @ LAC,-9.5,LAC,1
+13,derelicious,DEN @ WAS,6.5,DEN,1
+13,derelicious,NYG @ NE,-7.5,NE,2
+13,Exciting Whites,GB @ DET,-2.5,DET,1
+13,Exciting Whites,KC @ DAL,3.5,KC,2
+13,Exciting Whites,CIN @ BAL,-6.5,BAL,1
+13,Exciting Whites,CHI @ PHI,-6.5,CHI,1
+13,Exciting Whites,JAX @ TEN,6.5,JAX,1
+13,Exciting Whites,ATL @ NYJ,2.5,ATL,1
+13,Exciting Whites,LAR @ CAR,10.5,LAR,1
+13,Exciting Whites,NO @ MIA,-5.5,NO,1
+13,Exciting Whites,ARI @ TB,-3.5,TB,1
+13,Exciting Whites,SF @ CLE,5.5,SF,1
+13,Exciting Whites,HOU @ IND,-4.5,HOU,1
+13,Exciting Whites,MIN @ SEA,-10.5,SEA,1
+13,Exciting Whites,BUF @ PIT,3.5,BUF,1
+13,Exciting Whites,LV @ LAC,-9.5,LAC,1
+13,Exciting Whites,DEN @ WAS,6.5,DEN,1
+13,Exciting Whites,NYG @ NE,-7.5,NYG,1
+13,Kevin,GB @ DET,-2.5,DET,1
+13,Kevin,KC @ DAL,3.5,DAL,1
+13,Kevin,CIN @ BAL,-6.5,BAL,1
+13,Kevin,CHI @ PHI,-6.5,PHI,1
+13,Kevin,JAX @ TEN,6.5,JAX,1
+13,Kevin,ATL @ NYJ,2.5,NYJ,1
+13,Kevin,LAR @ CAR,10.5,CAR,1
+13,Kevin,NO @ MIA,-5.5,MIA,1
+13,Kevin,ARI @ TB,-3.5,TB,2
+13,Kevin,SF @ CLE,5.5,SF,1
+13,Kevin,HOU @ IND,-4.5,IND,1
+13,Kevin,MIN @ SEA,-10.5,SEA,1
+13,Kevin,BUF @ PIT,3.5,PIT,1
+13,Kevin,LV @ LAC,-9.5,LAC,1
+13,Kevin,DEN @ WAS,6.5,DEN,1
+13,Kevin,NYG @ NE,-7.5,NE,1
+13,Maye Magic,GB @ DET,-2.5,GB,1
+13,Maye Magic,KC @ DAL,3.5,KC,1
+13,Maye Magic,CIN @ BAL,-6.5,BAL,1
+13,Maye Magic,CHI @ PHI,-6.5,CHI,1
+13,Maye Magic,JAX @ TEN,6.5,TEN,1
+13,Maye Magic,ATL @ NYJ,2.5,ATL,1
+13,Maye Magic,LAR @ CAR,10.5,CAR,1
+13,Maye Magic,NO @ MIA,-5.5,NO,1
+13,Maye Magic,ARI @ TB,-3.5,TB,1
+13,Maye Magic,SF @ CLE,5.5,SF,1
+13,Maye Magic,HOU @ IND,-4.5,IND,1
+13,Maye Magic,MIN @ SEA,-10.5,MIN,1
+13,Maye Magic,BUF @ PIT,3.5,BUF,1
+13,Maye Magic,LV @ LAC,-9.5,LAC,1
+13,Maye Magic,DEN @ WAS,6.5,WAS,1
+13,Maye Magic,NYG @ NE,-7.5,NYG,2
+13,MC$,GB @ DET,-2.5,GB,1
+13,MC$,KC @ DAL,3.5,KC,1
+13,MC$,CIN @ BAL,-6.5,BAL,1
+13,MC$,CHI @ PHI,-6.5,CHI,1
+13,MC$,JAX @ TEN,6.5,JAX,1
+13,MC$,ATL @ NYJ,2.5,ATL,1
+13,MC$,LAR @ CAR,10.5,CAR,1
+13,MC$,NO @ MIA,-5.5,MIA,1
+13,MC$,ARI @ TB,-3.5,TB,1
+13,MC$,SF @ CLE,5.5,SF,1
+13,MC$,HOU @ IND,-4.5,IND,2
+13,MC$,MIN @ SEA,-10.5,MIN,1
+13,MC$,BUF @ PIT,3.5,PIT,1
+13,MC$,LV @ LAC,-9.5,LV,1
+13,MC$,DEN @ WAS,6.5,DEN,1
+13,MC$,NYG @ NE,-7.5,NE,1
+13,mrmcwinnerson,GB @ DET,-2.5,DET,1
+13,mrmcwinnerson,KC @ DAL,3.5,DAL,1
+13,mrmcwinnerson,CIN @ BAL,-6.5,BAL,1
+13,mrmcwinnerson,CHI @ PHI,-6.5,PHI,1
+13,mrmcwinnerson,JAX @ TEN,6.5,JAX,1
+13,mrmcwinnerson,ATL @ NYJ,2.5,ATL,1
+13,mrmcwinnerson,LAR @ CAR,10.5,CAR,1
+13,mrmcwinnerson,NO @ MIA,-5.5,MIA,1
+13,mrmcwinnerson,ARI @ TB,-3.5,ARI,1
+13,mrmcwinnerson,SF @ CLE,5.5,CLE,1
+13,mrmcwinnerson,HOU @ IND,-4.5,IND,1
+13,mrmcwinnerson,MIN @ SEA,-10.5,SEA,1
+13,mrmcwinnerson,BUF @ PIT,3.5,PIT,1
+13,mrmcwinnerson,LV @ LAC,-9.5,LAC,1
+13,mrmcwinnerson,DEN @ WAS,6.5,DEN,1
+13,mrmcwinnerson,NYG @ NE,-7.5,NE,2
+13,P-Otys,GB @ DET,-2.5,GB,1
+13,P-Otys,KC @ DAL,3.5,KC,1
+13,P-Otys,CIN @ BAL,-6.5,CIN,1
+13,P-Otys,CHI @ PHI,-6.5,CHI,1
+13,P-Otys,JAX @ TEN,6.5,JAX,1
+13,P-Otys,ATL @ NYJ,2.5,NYJ,1
+13,P-Otys,LAR @ CAR,10.5,CAR,1
+13,P-Otys,NO @ MIA,-5.5,MIA,1
+13,P-Otys,ARI @ TB,-3.5,TB,1
+13,P-Otys,SF @ CLE,5.5,CLE,1
+13,P-Otys,HOU @ IND,-4.5,IND,2
+13,P-Otys,MIN @ SEA,-10.5,SEA,1
+13,P-Otys,BUF @ PIT,3.5,BUF,1
+13,P-Otys,LV @ LAC,-9.5,LV,1
+13,P-Otys,DEN @ WAS,6.5,WAS,1
+13,P-Otys,NYG @ NE,-7.5,NYG,1
+13,Ripw1124,GB @ DET,-2.5,DET,1
+13,Ripw1124,KC @ DAL,3.5,KC,2
+13,Ripw1124,CIN @ BAL,-6.5,BAL,1
+13,Ripw1124,CHI @ PHI,-6.5,CHI,1
+13,Ripw1124,JAX @ TEN,6.5,JAX,1
+13,Ripw1124,ATL @ NYJ,2.5,ATL,1
+13,Ripw1124,LAR @ CAR,10.5,LAR,1
+13,Ripw1124,NO @ MIA,-5.5,MIA,1
+13,Ripw1124,ARI @ TB,-3.5,TB,1
+13,Ripw1124,SF @ CLE,5.5,SF,1
+13,Ripw1124,HOU @ IND,-4.5,IND,1
+13,Ripw1124,MIN @ SEA,-10.5,MIN,1
+13,Ripw1124,BUF @ PIT,3.5,BUF,1
+13,Ripw1124,LV @ LAC,-9.5,LV,1
+13,Ripw1124,DEN @ WAS,6.5,DEN,1
+13,Ripw1124,NYG @ NE,-7.5,NE,1
+13,Vegas,GB @ DET,-2.5,DET,1
+13,Vegas,KC @ DAL,3.5,KC,1
+13,Vegas,CIN @ BAL,-6.5,BAL,1
+13,Vegas,CHI @ PHI,-6.5,PHI,1
+13,Vegas,JAX @ TEN,6.5,JAX,1
+13,Vegas,ATL @ NYJ,2.5,ATL,1
+13,Vegas,LAR @ CAR,10.5,LAR,2
+13,Vegas,NO @ MIA,-5.5,MIA,1
+13,Vegas,ARI @ TB,-3.5,TB,1
+13,Vegas,SF @ CLE,5.5,SF,1
+13,Vegas,HOU @ IND,-4.5,IND,1
+13,Vegas,MIN @ SEA,-10.5,SEA,1
+13,Vegas,BUF @ PIT,3.5,BUF,1
+13,Vegas,LV @ LAC,-9.5,LAC,1
+13,Vegas,DEN @ WAS,6.5,DEN,1
+13,Vegas,NYG @ NE,-7.5,NE,1
+13,Willheser,GB @ DET,-2.5,GB,1
+13,Willheser,KC @ DAL,3.5,KC,1
+13,Willheser,CIN @ BAL,-6.5,CIN,1
+13,Willheser,CHI @ PHI,-6.5,PHI,1
+13,Willheser,JAX @ TEN,6.5,JAX,1
+13,Willheser,ATL @ NYJ,2.5,NYJ,1
+13,Willheser,LAR @ CAR,10.5,CAR,1
+13,Willheser,NO @ MIA,-5.5,MIA,1
+13,Willheser,ARI @ TB,-3.5,TB,1
+13,Willheser,SF @ CLE,5.5,SF,1
+13,Willheser,HOU @ IND,-4.5,IND,2
+13,Willheser,MIN @ SEA,-10.5,SEA,1
+13,Willheser,BUF @ PIT,3.5,BUF,1
+13,Willheser,LV @ LAC,-9.5,LV,1
+13,Willheser,DEN @ WAS,6.5,DEN,1
+13,Willheser,NYG @ NE,-7.5,NE,1
+13,Yianni,GB @ DET,-2.5,GB,1
+13,Yianni,KC @ DAL,3.5,KC,1
+13,Yianni,CIN @ BAL,-6.5,BAL,1
+13,Yianni,CHI @ PHI,-6.5,PHI,1
+13,Yianni,JAX @ TEN,6.5,JAX,1
+13,Yianni,ATL @ NYJ,2.5,ATL,1
+13,Yianni,LAR @ CAR,10.5,CAR,1
+13,Yianni,NO @ MIA,-5.5,MIA,1
+13,Yianni,ARI @ TB,-3.5,TB,2
+13,Yianni,SF @ CLE,5.5,SF,1
+13,Yianni,HOU @ IND,-4.5,IND,1
+13,Yianni,MIN @ SEA,-10.5,SEA,1
+13,Yianni,BUF @ PIT,3.5,BUF,1
+13,Yianni,LV @ LAC,-9.5,LV,1
+13,Yianni,DEN @ WAS,6.5,WAS,1
+13,Yianni,NYG @ NE,-7.5,NE,1
+9,ADon,BAL @ MIA,7.5,BAL,1
+9,ADon,DEN @ HOU,-1.5,DEN,1
+9,ADon,SF @ NYG,2.5,SF,1
+9,ADon,IND @ PIT,3.5,PIT,1
+9,ADon,CAR @ GB,-12.5,CAR,1
+9,ADon,MIN @ DET,-8.5,DET,1
+9,ADon,LAC @ TEN,10.5,LAC,2
+9,ADon,ATL @ NE,-5.5,NE,1
+9,ADon,CHI @ CIN,2.5,CIN,1
+9,ADon,JAX @ LV,3.5,JAX,1
+9,ADon,NO @ LAR,-13.5,LAR,1
+9,ADon,KC @ BUF,1.5,KC,1
+9,ADon,SEA @ WAS,3.5,SEA,1
+9,ADon,ARI @ DAL,-2.5,DAL,1
+9,b_hop,BAL @ MIA,7.5,BAL,1
+9,b_hop,DEN @ HOU,-1.5,DEN,1
+9,b_hop,SF @ NYG,2.5,SF,1
+9,b_hop,IND @ PIT,3.5,PIT,1
+9,b_hop,CAR @ GB,-12.5,CAR,1
+9,b_hop,MIN @ DET,-8.5,DET,1
+9,b_hop,LAC @ TEN,10.5,LAC,1
+9,b_hop,ATL @ NE,-5.5,NE,1
+9,b_hop,CHI @ CIN,2.5,CIN,1
+9,b_hop,JAX @ LV,3.5,JAX,1
+9,b_hop,NO @ LAR,-13.5,LAR,1
+9,b_hop,KC @ BUF,1.5,KC,2
+9,b_hop,SEA @ WAS,3.5,SEA,1
+9,b_hop,ARI @ DAL,-2.5,DAL,1
+9,derelicious,BAL @ MIA,7.5,BAL,1
+9,derelicious,DEN @ HOU,-1.5,DEN,2
+9,derelicious,SF @ NYG,2.5,SF,1
+9,derelicious,IND @ PIT,3.5,IND,1
+9,derelicious,CAR @ GB,-12.5,GB,1
+9,derelicious,MIN @ DET,-8.5,DET,1
+9,derelicious,LAC @ TEN,10.5,LAC,1
+9,derelicious,ATL @ NE,-5.5,NE,1
+9,derelicious,CHI @ CIN,2.5,CIN,1
+9,derelicious,JAX @ LV,3.5,LV,1
+9,derelicious,NO @ LAR,-13.5,NO,1
+9,derelicious,KC @ BUF,1.5,KC,1
+9,derelicious,SEA @ WAS,3.5,SEA,1
+9,derelicious,ARI @ DAL,-2.5,DAL,1
+9,Exciting Whites,BAL @ MIA,7.5,BAL,1
+9,Exciting Whites,DEN @ HOU,-1.5,DEN,1
+9,Exciting Whites,SF @ NYG,2.5,SF,1
+9,Exciting Whites,IND @ PIT,3.5,PIT,1
+9,Exciting Whites,CAR @ GB,-12.5,CAR,1
+9,Exciting Whites,MIN @ DET,-8.5,DET,1
+9,Exciting Whites,LAC @ TEN,10.5,LAC,1
+9,Exciting Whites,ATL @ NE,-5.5,ATL,1
+9,Exciting Whites,CHI @ CIN,2.5,CIN,1
+9,Exciting Whites,JAX @ LV,3.5,LV,1
+9,Exciting Whites,NO @ LAR,-13.5,LAR,1
+9,Exciting Whites,KC @ BUF,1.5,BUF,1
+9,Exciting Whites,SEA @ WAS,3.5,SEA,1
+9,Exciting Whites,ARI @ DAL,-2.5,DAL,2
+9,Kevin,BAL @ MIA,7.5,BAL,1
+9,Kevin,DEN @ HOU,-1.5,DEN,1
+9,Kevin,SF @ NYG,2.5,SF,1
+9,Kevin,IND @ PIT,3.5,IND,1
+9,Kevin,CAR @ GB,-12.5,GB,1
+9,Kevin,MIN @ DET,-8.5,DET,2
+9,Kevin,LAC @ TEN,10.5,TEN,1
+9,Kevin,ATL @ NE,-5.5,ATL,1
+9,Kevin,CHI @ CIN,2.5,CIN,1
+9,Kevin,JAX @ LV,3.5,JAX,1
+9,Kevin,NO @ LAR,-13.5,LAR,1
+9,Kevin,KC @ BUF,1.5,BUF,1
+9,Kevin,SEA @ WAS,3.5,SEA,1
+9,Kevin,ARI @ DAL,-2.5,DAL,1
+9,Maye Magic,BAL @ MIA,7.5,BAL,1
+9,Maye Magic,DEN @ HOU,-1.5,DEN,1
+9,Maye Magic,SF @ NYG,2.5,NYG,1
+9,Maye Magic,IND @ PIT,3.5,PIT,1
+9,Maye Magic,CAR @ GB,-12.5,CAR,1
+9,Maye Magic,MIN @ DET,-8.5,DET,1
+9,Maye Magic,LAC @ TEN,10.5,TEN,1
+9,Maye Magic,ATL @ NE,-5.5,NE,1
+9,Maye Magic,CHI @ CIN,2.5,CHI,1
+9,Maye Magic,JAX @ LV,3.5,JAX,1
+9,Maye Magic,NO @ LAR,-13.5,NO,1
+9,Maye Magic,KC @ BUF,1.5,KC,1
+9,Maye Magic,SEA @ WAS,3.5,SEA,1
+9,Maye Magic,ARI @ DAL,-2.5,DAL,2
+9,MC$,BAL @ MIA,7.5,BAL,1
+9,MC$,DEN @ HOU,-1.5,DEN,1
+9,MC$,SF @ NYG,2.5,SF,1
+9,MC$,IND @ PIT,3.5,IND,2
+9,MC$,CAR @ GB,-12.5,CAR,1
+9,MC$,MIN @ DET,-8.5,DET,1
+9,MC$,LAC @ TEN,10.5,LAC,1
+9,MC$,ATL @ NE,-5.5,NE,1
+9,MC$,CHI @ CIN,2.5,CIN,1
+9,MC$,JAX @ LV,3.5,JAX,1
+9,MC$,NO @ LAR,-13.5,LAR,1
+9,MC$,KC @ BUF,1.5,BUF,1
+9,MC$,SEA @ WAS,3.5,SEA,1
+9,MC$,ARI @ DAL,-2.5,DAL,1
+9,mrmcwinnerson,BAL @ MIA,7.5,BAL,1
+9,mrmcwinnerson,DEN @ HOU,-1.5,DEN,1
+9,mrmcwinnerson,SF @ NYG,2.5,SF,1
+9,mrmcwinnerson,IND @ PIT,3.5,IND,1
+9,mrmcwinnerson,CAR @ GB,-12.5,GB,1
+9,mrmcwinnerson,MIN @ DET,-8.5,DET,1
+9,mrmcwinnerson,LAC @ TEN,10.5,LAC,1
+9,mrmcwinnerson,ATL @ NE,-5.5,NE,2
+9,mrmcwinnerson,CHI @ CIN,2.5,CHI,1
+9,mrmcwinnerson,JAX @ LV,3.5,JAX,1
+9,mrmcwinnerson,NO @ LAR,-13.5,LAR,1
+9,mrmcwinnerson,KC @ BUF,1.5,KC,1
+9,mrmcwinnerson,SEA @ WAS,3.5,SEA,1
+9,mrmcwinnerson,ARI @ DAL,-2.5,DAL,1
+9,P-Otys,BAL @ MIA,7.5,BAL,1
+9,P-Otys,DEN @ HOU,-1.5,DEN,1
+9,P-Otys,SF @ NYG,2.5,SF,1
+9,P-Otys,IND @ PIT,3.5,IND,2
+9,P-Otys,CAR @ GB,-12.5,CAR,1
+9,P-Otys,MIN @ DET,-8.5,DET,1
+9,P-Otys,LAC @ TEN,10.5,TEN,1
+9,P-Otys,ATL @ NE,-5.5,NE,1
+9,P-Otys,CHI @ CIN,2.5,CHI,1
+9,P-Otys,JAX @ LV,3.5,JAX,1
+9,P-Otys,NO @ LAR,-13.5,LAR,1
+9,P-Otys,KC @ BUF,1.5,KC,1
+9,P-Otys,SEA @ WAS,3.5,SEA,1
+9,P-Otys,ARI @ DAL,-2.5,DAL,1
+9,Ripw1124,BAL @ MIA,7.5,BAL,2
+9,Ripw1124,DEN @ HOU,-1.5,DEN,1
+9,Ripw1124,SF @ NYG,2.5,SF,1
+9,Ripw1124,IND @ PIT,3.5,PIT,1
+9,Ripw1124,CAR @ GB,-12.5,CAR,1
+9,Ripw1124,MIN @ DET,-8.5,MIN,1
+9,Ripw1124,LAC @ TEN,10.5,LAC,1
+9,Ripw1124,ATL @ NE,-5.5,NE,1
+9,Ripw1124,CHI @ CIN,2.5,CHI,1
+9,Ripw1124,JAX @ LV,3.5,JAX,1
+9,Ripw1124,NO @ LAR,-13.5,NO,1
+9,Ripw1124,KC @ BUF,1.5,BUF,1
+9,Ripw1124,SEA @ WAS,3.5,SEA,1
+9,Ripw1124,ARI @ DAL,-2.5,DAL,1
+9,Vegas,BAL @ MIA,7.5,BAL,1
+9,Vegas,DEN @ HOU,-1.5,HOU,1
+9,Vegas,SF @ NYG,2.5,SF,1
+9,Vegas,IND @ PIT,3.5,IND,1
+9,Vegas,CAR @ GB,-12.5,GB,1
+9,Vegas,MIN @ DET,-8.5,DET,1
+9,Vegas,LAC @ TEN,10.5,LAC,1
+9,Vegas,ATL @ NE,-5.5,NE,1
+9,Vegas,CHI @ CIN,2.5,CHI,1
+9,Vegas,JAX @ LV,3.5,JAX,1
+9,Vegas,NO @ LAR,-13.5,LAR,2
+9,Vegas,KC @ BUF,1.5,KC,1
+9,Vegas,SEA @ WAS,3.5,SEA,1
+9,Vegas,ARI @ DAL,-2.5,DAL,1
+9,Willheser,BAL @ MIA,7.5,BAL,1
+9,Willheser,DEN @ HOU,-1.5,DEN,2
+9,Willheser,SF @ NYG,2.5,SF,1
+9,Willheser,IND @ PIT,3.5,IND,1
+9,Willheser,CAR @ GB,-12.5,GB,1
+9,Willheser,MIN @ DET,-8.5,DET,1
+9,Willheser,LAC @ TEN,10.5,LAC,1
+9,Willheser,ATL @ NE,-5.5,ATL,1
+9,Willheser,CHI @ CIN,2.5,CIN,1
+9,Willheser,JAX @ LV,3.5,JAX,1
+9,Willheser,NO @ LAR,-13.5,NO,1
+9,Willheser,KC @ BUF,1.5,BUF,1
+9,Willheser,SEA @ WAS,3.5,SEA,1
+9,Willheser,ARI @ DAL,-2.5,DAL,1
+9,Yianni,BAL @ MIA,7.5,BAL,1
+9,Yianni,DEN @ HOU,-1.5,DEN,2
+9,Yianni,SF @ NYG,2.5,SF,1
+9,Yianni,IND @ PIT,3.5,PIT,1
+9,Yianni,CAR @ GB,-12.5,CAR,1
+9,Yianni,MIN @ DET,-8.5,DET,1
+9,Yianni,LAC @ TEN,10.5,TEN,1
+9,Yianni,ATL @ NE,-5.5,NE,1
+9,Yianni,CHI @ CIN,2.5,CHI,1
+9,Yianni,JAX @ LV,3.5,JAX,1
+9,Yianni,NO @ LAR,-13.5,NO,1
+9,Yianni,KC @ BUF,1.5,KC,1
+9,Yianni,SEA @ WAS,3.5,SEA,1
+9,Yianni,ARI @ DAL,-2.5,DAL,1
+11,ADon,NYJ @ NE,-11.5,NE,2
+11,ADon,WAS @ MIA,-2.5,MIA,1
+11,ADon,LAC @ JAX,2.5,JAX,1
+11,ADon,TB @ BUF,-5.5,BUF,1
+11,ADon,CHI @ MIN,-2.5,CHI,1
+11,ADon,GB @ NYG,7.5,GB,1
+11,ADon,HOU @ TEN,7.5,HOU,1
+11,ADon,CAR @ ATL,-3.5,ATL,1
+11,ADon,CIN @ PIT,-5.5,PIT,1
+11,ADon,SF @ ARI,2.5,SF,1
+11,ADon,SEA @ LAR,-2.5,SEA,1
+11,ADon,KC @ DEN,3.5,KC,1
+11,ADon,BAL @ CLE,8.5,BAL,1
+11,ADon,DET @ PHI,-2.5,DET,1
+11,ADon,DAL @ LV,3.5,DAL,1
+11,b_hop,NYJ @ NE,-11.5,NE,1
+11,b_hop,WAS @ MIA,-2.5,MIA,1
+11,b_hop,LAC @ JAX,2.5,LAC,1
+11,b_hop,TB @ BUF,-5.5,TB,1
+11,b_hop,CHI @ MIN,-2.5,CHI,1
+11,b_hop,GB @ NYG,7.5,GB,1
+11,b_hop,HOU @ TEN,7.5,HOU,1
+11,b_hop,CAR @ ATL,-3.5,ATL,1
+11,b_hop,CIN @ PIT,-5.5,CIN,1
+11,b_hop,SF @ ARI,2.5,SF,1
+11,b_hop,SEA @ LAR,-2.5,LAR,1
+11,b_hop,KC @ DEN,3.5,KC,2
+11,b_hop,BAL @ CLE,8.5,CLE,1
+11,b_hop,DET @ PHI,-2.5,DET,1
+11,b_hop,DAL @ LV,3.5,DAL,1
+11,derelicious,NYJ @ NE,-11.5,NE,1
+11,derelicious,WAS @ MIA,-2.5,WAS,1
+11,derelicious,LAC @ JAX,2.5,LAC,1
+11,derelicious,TB @ BUF,-5.5,TB,2
+11,derelicious,CHI @ MIN,-2.5,CHI,1
+11,derelicious,GB @ NYG,7.5,GB,1
+11,derelicious,HOU @ TEN,7.5,HOU,1
+11,derelicious,CAR @ ATL,-3.5,CAR,1
+11,derelicious,CIN @ PIT,-5.5,PIT,1
+11,derelicious,SF @ ARI,2.5,SF,1
+11,derelicious,SEA @ LAR,-2.5,SEA,1
+11,derelicious,KC @ DEN,3.5,DEN,1
+11,derelicious,BAL @ CLE,8.5,BAL,1
+11,derelicious,DET @ PHI,-2.5,DET,1
+11,derelicious,DAL @ LV,3.5,DAL,1
+11,Exciting Whites,NYJ @ NE,-11.5,NYJ,1
+11,Exciting Whites,WAS @ MIA,-2.5,WAS,1
+11,Exciting Whites,LAC @ JAX,2.5,LAC,1
+11,Exciting Whites,TB @ BUF,-5.5,BUF,1
+11,Exciting Whites,CHI @ MIN,-2.5,MIN,1
+11,Exciting Whites,GB @ NYG,7.5,NYG,1
+11,Exciting Whites,HOU @ TEN,7.5,TEN,1
+11,Exciting Whites,CAR @ ATL,-3.5,CAR,1
+11,Exciting Whites,CIN @ PIT,-5.5,CIN,1
+11,Exciting Whites,SF @ ARI,2.5,SF,2
+11,Exciting Whites,SEA @ LAR,-2.5,SEA,1
+11,Exciting Whites,KC @ DEN,3.5,KC,1
+11,Exciting Whites,BAL @ CLE,8.5,BAL,1
+11,Exciting Whites,DET @ PHI,-2.5,DET,1
+11,Exciting Whites,DAL @ LV,3.5,DAL,1
+11,Kevin,NYJ @ NE,-11.5,NE,1
+11,Kevin,WAS @ MIA,-2.5,MIA,1
+11,Kevin,LAC @ JAX,2.5,LAC,1
+11,Kevin,TB @ BUF,-5.5,BUF,1
+11,Kevin,CHI @ MIN,-2.5,CHI,2
+11,Kevin,GB @ NYG,7.5,GB,1
+11,Kevin,HOU @ TEN,7.5,HOU,1
+11,Kevin,CAR @ ATL,-3.5,CAR,1
+11,Kevin,CIN @ PIT,-5.5,PIT,1
+11,Kevin,SF @ ARI,2.5,SF,1
+11,Kevin,SEA @ LAR,-2.5,LAR,1
+11,Kevin,KC @ DEN,3.5,DEN,1
+11,Kevin,BAL @ CLE,8.5,CLE,1
+11,Kevin,DET @ PHI,-2.5,PHI,1
+11,Kevin,DAL @ LV,3.5,DAL,1
+11,Maye Magic,NYJ @ NE,-11.5,NE,1
+11,Maye Magic,WAS @ MIA,-2.5,MIA,1
+11,Maye Magic,LAC @ JAX,2.5,JAX,1
+11,Maye Magic,TB @ BUF,-5.5,TB,1
+11,Maye Magic,CHI @ MIN,-2.5,MIN,1
+11,Maye Magic,GB @ NYG,7.5,GB,1
+11,Maye Magic,HOU @ TEN,7.5,TEN,1
+11,Maye Magic,CAR @ ATL,-3.5,ATL,1
+11,Maye Magic,CIN @ PIT,-5.5,PIT,1
+11,Maye Magic,SF @ ARI,2.5,SF,1
+11,Maye Magic,SEA @ LAR,-2.5,LAR,1
+11,Maye Magic,KC @ DEN,3.5,KC,1
+11,Maye Magic,BAL @ CLE,8.5,BAL,1
+11,Maye Magic,DET @ PHI,-2.5,DET,1
+11,Maye Magic,DAL @ LV,3.5,DAL,2
+11,MC$,NYJ @ NE,-11.5,NE,1
+11,MC$,WAS @ MIA,-2.5,MIA,1
+11,MC$,LAC @ JAX,2.5,LAC,1
+11,MC$,TB @ BUF,-5.5,BUF,1
+11,MC$,CHI @ MIN,-2.5,MIN,1
+11,MC$,GB @ NYG,7.5,NYG,1
+11,MC$,HOU @ TEN,7.5,HOU,1
+11,MC$,CAR @ ATL,-3.5,CAR,1
+11,MC$,CIN @ PIT,-5.5,CIN,1
+11,MC$,SF @ ARI,2.5,SF,1
+11,MC$,SEA @ LAR,-2.5,SEA,1
+11,MC$,KC @ DEN,3.5,DEN,2
+11,MC$,BAL @ CLE,8.5,BAL,1
+11,MC$,DET @ PHI,-2.5,PHI,1
+11,MC$,DAL @ LV,3.5,DAL,1
+11,mrmcwinnerson,WAS @ MIA,-2.5,MIA,1
+11,mrmcwinnerson,LAC @ JAX,2.5,JAX,1
+11,mrmcwinnerson,TB @ BUF,-5.5,BUF,1
+11,mrmcwinnerson,CHI @ MIN,-2.5,CHI,1
+11,mrmcwinnerson,GB @ NYG,7.5,GB,1
+11,mrmcwinnerson,HOU @ TEN,7.5,HOU,1
+11,mrmcwinnerson,CAR @ ATL,-3.5,ATL,1
+11,mrmcwinnerson,CIN @ PIT,-5.5,PIT,1
+11,mrmcwinnerson,SF @ ARI,2.5,SF,2
+11,mrmcwinnerson,SEA @ LAR,-2.5,LAR,1
+11,mrmcwinnerson,KC @ DEN,3.5,KC,1
+11,mrmcwinnerson,BAL @ CLE,8.5,BAL,1
+11,mrmcwinnerson,DET @ PHI,-2.5,PHI,1
+11,mrmcwinnerson,DAL @ LV,3.5,DAL,1
+11,P-Otys,NYJ @ NE,-11.5,NE,1
+11,P-Otys,WAS @ MIA,-2.5,MIA,1
+11,P-Otys,LAC @ JAX,2.5,JAX,1
+11,P-Otys,TB @ BUF,-5.5,TB,1
+11,P-Otys,CHI @ MIN,-2.5,MIN,1
+11,P-Otys,GB @ NYG,7.5,NYG,1
+11,P-Otys,HOU @ TEN,7.5,HOU,1
+11,P-Otys,CAR @ ATL,-3.5,CAR,1
+11,P-Otys,CIN @ PIT,-5.5,CIN,1
+11,P-Otys,SF @ ARI,2.5,SF,1
+11,P-Otys,SEA @ LAR,-2.5,SEA,1
+11,P-Otys,KC @ DEN,3.5,KC,2
+11,P-Otys,BAL @ CLE,8.5,BAL,1
+11,P-Otys,DET @ PHI,-2.5,DET,1
+11,P-Otys,DAL @ LV,3.5,LV,1
+11,Ripw1124,NYJ @ NE,-11.5,NE,1
+11,Ripw1124,WAS @ MIA,-2.5,MIA,1
+11,Ripw1124,LAC @ JAX,2.5,LAC,1
+11,Ripw1124,TB @ BUF,-5.5,BUF,1
+11,Ripw1124,CHI @ MIN,-2.5,CHI,1
+11,Ripw1124,GB @ NYG,7.5,GB,1
+11,Ripw1124,HOU @ TEN,7.5,HOU,1
+11,Ripw1124,CAR @ ATL,-3.5,CAR,1
+11,Ripw1124,CIN @ PIT,-5.5,PIT,1
+11,Ripw1124,SF @ ARI,2.5,SF,1
+11,Ripw1124,SEA @ LAR,-2.5,LAR,1
+11,Ripw1124,KC @ DEN,3.5,DEN,1
+11,Ripw1124,BAL @ CLE,8.5,BAL,2
+11,Ripw1124,DET @ PHI,-2.5,DET,1
+11,Ripw1124,DAL @ LV,3.5,DAL,1
+11,Vegas,NYJ @ NE,-11.5,NE,2
+11,Vegas,WAS @ MIA,-2.5,MIA,1
+11,Vegas,LAC @ JAX,2.5,LAC,1
+11,Vegas,TB @ BUF,-5.5,BUF,1
+11,Vegas,CHI @ MIN,-2.5,MIN,1
+11,Vegas,GB @ NYG,7.5,GB,1
+11,Vegas,HOU @ TEN,7.5,HOU,1
+11,Vegas,CAR @ ATL,-3.5,ATL,1
+11,Vegas,CIN @ PIT,-5.5,PIT,1
+11,Vegas,SF @ ARI,2.5,SF,1
+11,Vegas,SEA @ LAR,-2.5,LAR,1
+11,Vegas,KC @ DEN,3.5,KC,1
+11,Vegas,BAL @ CLE,8.5,BAL,1
+11,Vegas,DET @ PHI,-2.5,PHI,1
+11,Vegas,DAL @ LV,3.5,DAL,1
+11,Willheser,NYJ @ NE,-11.5,NE,1
+11,Willheser,WAS @ MIA,-2.5,MIA,1
+11,Willheser,LAC @ JAX,2.5,LAC,1
+11,Willheser,TB @ BUF,-5.5,TB,1
+11,Willheser,CHI @ MIN,-2.5,MIN,1
+11,Willheser,GB @ NYG,7.5,NYG,1
+11,Willheser,HOU @ TEN,7.5,TEN,1
+11,Willheser,CAR @ ATL,-3.5,CAR,1
+11,Willheser,CIN @ PIT,-5.5,PIT,1
+11,Willheser,SF @ ARI,2.5,SF,2
+11,Willheser,SEA @ LAR,-2.5,SEA,1
+11,Willheser,KC @ DEN,3.5,DEN,1
+11,Willheser,BAL @ CLE,8.5,BAL,1
+11,Willheser,DET @ PHI,-2.5,DET,1
+11,Willheser,DAL @ LV,3.5,LV,1
+11,Yianni,NYJ @ NE,-11.5,NE,1
+11,Yianni,WAS @ MIA,-2.5,MIA,1
+11,Yianni,LAC @ JAX,2.5,JAX,1
+11,Yianni,TB @ BUF,-5.5,BUF,1
+11,Yianni,CHI @ MIN,-2.5,MIN,1
+11,Yianni,GB @ NYG,7.5,GB,1
+11,Yianni,HOU @ TEN,7.5,HOU,1
+11,Yianni,CAR @ ATL,-3.5,ATL,1
+11,Yianni,CIN @ PIT,-5.5,PIT,1
+11,Yianni,SF @ ARI,2.5,SF,1
+11,Yianni,SEA @ LAR,-2.5,LAR,1
+11,Yianni,KC @ DEN,3.5,KC,1
+11,Yianni,BAL @ CLE,8.5,BAL,1
+11,Yianni,DET @ PHI,-2.5,PHI,1
+11,Yianni,DAL @ LV,3.5,DAL,2
+15,ADon,ATL @ TB,-4.5,TB,1
+15,ADon,WAS @ NYG,-2.5,NYG,1
+15,ADon,LV @ PHI,-11.5,PHI,1
+15,ADon,CLE @ CHI,-7.5,CLE,1
+15,ADon,BAL @ CIN,2.5,CIN,1
+15,ADon,ARI @ HOU,-9.5,HOU,1
+15,ADon,BUF @ NE,1.5,BUF,2
+15,ADon,NYJ @ JAX,-11.5,JAX,1
+15,ADon,LAC @ KC,-4.5,KC,1
+15,ADon,IND @ SEA,-13.5,SEA,1
+15,ADon,TEN @ SF,-12.5,TEN,1
+15,ADon,GB @ DEN,2.5,GB,1
+15,ADon,CAR @ NO,2.5,CAR,1
+15,ADon,DET @ LAR,-5.5,DET,1
+15,ADon,MIN @ DAL,-5.5,DAL,1
+15,ADon,MIA @ PIT,-3.5,PIT,1
+15,b_hop,ATL @ TB,-4.5,TB,1
+15,b_hop,WAS @ NYG,-2.5,NYG,1
+15,b_hop,LV @ PHI,-11.5,PHI,1
+15,b_hop,CLE @ CHI,-7.5,CLE,1
+15,b_hop,BAL @ CIN,2.5,CIN,1
+15,b_hop,ARI @ HOU,-9.5,HOU,1
+15,b_hop,BUF @ NE,1.5,BUF,2
+15,b_hop,NYJ @ JAX,-11.5,JAX,1
+15,b_hop,LAC @ KC,-4.5,KC,1
+15,b_hop,IND @ SEA,-13.5,IND,1
+15,b_hop,TEN @ SF,-12.5,TEN,1
+15,b_hop,GB @ DEN,2.5,DEN,1
+15,b_hop,CAR @ NO,2.5,CAR,1
+15,b_hop,DET @ LAR,-5.5,LAR,1
+15,b_hop,MIN @ DAL,-5.5,MIN,1
+15,b_hop,MIA @ PIT,-3.5,MIA,1
+15,derelicious,WAS @ NYG,-2.5,NYG,1
+15,derelicious,LV @ PHI,-11.5,PHI,1
+15,derelicious,CLE @ CHI,-7.5,CHI,1
+15,derelicious,BAL @ CIN,2.5,CIN,1
+15,derelicious,ARI @ HOU,-9.5,HOU,1
+15,derelicious,BUF @ NE,1.5,NE,2
+15,derelicious,NYJ @ JAX,-11.5,NYJ,1
+15,derelicious,LAC @ KC,-4.5,LAC,1
+15,derelicious,IND @ SEA,-13.5,IND,1
+15,derelicious,TEN @ SF,-12.5,SF,1
+15,derelicious,GB @ DEN,2.5,DEN,1
+15,derelicious,CAR @ NO,2.5,NO,1
+15,derelicious,DET @ LAR,-5.5,LAR,1
+15,derelicious,MIN @ DAL,-5.5,DAL,1
+15,derelicious,MIA @ PIT,-3.5,PIT,1
+15,Exciting Whites,ATL @ TB,-4.5,TB,2
+15,Exciting Whites,WAS @ NYG,-2.5,WAS,1
+15,Exciting Whites,LV @ PHI,-11.5,LV,1
+15,Exciting Whites,CLE @ CHI,-7.5,CHI,1
+15,Exciting Whites,BAL @ CIN,2.5,BAL,1
+15,Exciting Whites,ARI @ HOU,-9.5,HOU,1
+15,Exciting Whites,BUF @ NE,1.5,BUF,1
+15,Exciting Whites,NYJ @ JAX,-11.5,JAX,1
+15,Exciting Whites,LAC @ KC,-4.5,KC,1
+15,Exciting Whites,IND @ SEA,-13.5,SEA,1
+15,Exciting Whites,TEN @ SF,-12.5,SF,1
+15,Exciting Whites,GB @ DEN,2.5,GB,1
+15,Exciting Whites,CAR @ NO,2.5,CAR,1
+15,Exciting Whites,DET @ LAR,-5.5,DET,1
+15,Exciting Whites,MIN @ DAL,-5.5,DAL,1
+15,Exciting Whites,MIA @ PIT,-3.5,MIA,1
+15,Kevin,ATL @ TB,-4.5,TB,2
+15,Kevin,WAS @ NYG,-2.5,NYG,1
+15,Kevin,LV @ PHI,-11.5,PHI,1
+15,Kevin,CLE @ CHI,-7.5,CHI,1
+15,Kevin,BAL @ CIN,2.5,CIN,1
+15,Kevin,ARI @ HOU,-9.5,ARI,1
+15,Kevin,BUF @ NE,1.5,NE,1
+15,Kevin,NYJ @ JAX,-11.5,NYJ,1
+15,Kevin,LAC @ KC,-4.5,KC,1
+15,Kevin,IND @ SEA,-13.5,SEA,1
+15,Kevin,TEN @ SF,-12.5,TEN,1
+15,Kevin,GB @ DEN,2.5,GB,1
+15,Kevin,CAR @ NO,2.5,CAR,1
+15,Kevin,DET @ LAR,-5.5,DET,1
+15,Kevin,MIN @ DAL,-5.5,DAL,1
+15,Kevin,MIA @ PIT,-3.5,PIT,1
+15,Maye Magic,WAS @ NYG,-2.5,NYG,1
+15,Maye Magic,LV @ PHI,-11.5,LV,1
+15,Maye Magic,CLE @ CHI,-7.5,CHI,1
+15,Maye Magic,BAL @ CIN,2.5,BAL,1
+15,Maye Magic,ARI @ HOU,-9.5,ARI,1
+15,Maye Magic,BUF @ NE,1.5,BUF,1
+15,Maye Magic,NYJ @ JAX,-11.5,NYJ,1
+15,Maye Magic,LAC @ KC,-4.5,KC,1
+15,Maye Magic,IND @ SEA,-13.5,IND,1
+15,Maye Magic,TEN @ SF,-12.5,TEN,1
+15,Maye Magic,GB @ DEN,2.5,GB,1
+15,Maye Magic,CAR @ NO,2.5,CAR,1
+15,Maye Magic,DET @ LAR,-5.5,LAR,1
+15,Maye Magic,MIN @ DAL,-5.5,DAL,1
+15,Maye Magic,MIA @ PIT,-3.5,MIA,2
+15,MC$,ATL @ TB,-4.5,TB,1
+15,MC$,WAS @ NYG,-2.5,WAS,1
+15,MC$,LV @ PHI,-11.5,PHI,1
+15,MC$,CLE @ CHI,-7.5,CHI,1
+15,MC$,BAL @ CIN,2.5,BAL,1
+15,MC$,ARI @ HOU,-9.5,ARI,1
+15,MC$,BUF @ NE,1.5,NE,1
+15,MC$,NYJ @ JAX,-11.5,JAX,1
+15,MC$,LAC @ KC,-4.5,LAC,1
+15,MC$,IND @ SEA,-13.5,IND,1
+15,MC$,TEN @ SF,-12.5,SF,1
+15,MC$,GB @ DEN,2.5,DEN,1
+15,MC$,CAR @ NO,2.5,CAR,2
+15,MC$,DET @ LAR,-5.5,DET,1
+15,MC$,MIN @ DAL,-5.5,MIN,1
+15,MC$,MIA @ PIT,-3.5,PIT,1
+15,mrmcwinnerson,WAS @ NYG,-2.5,WAS,1
+15,mrmcwinnerson,LV @ PHI,-11.5,PHI,2
+15,mrmcwinnerson,CLE @ CHI,-7.5,CHI,1
+15,mrmcwinnerson,BAL @ CIN,2.5,BAL,1
+15,mrmcwinnerson,ARI @ HOU,-9.5,HOU,1
+15,mrmcwinnerson,BUF @ NE,1.5,NE,1
+15,mrmcwinnerson,NYJ @ JAX,-11.5,JAX,1
+15,mrmcwinnerson,LAC @ KC,-4.5,KC,1
+15,mrmcwinnerson,IND @ SEA,-13.5,SEA,1
+15,mrmcwinnerson,TEN @ SF,-12.5,SF,1
+15,mrmcwinnerson,GB @ DEN,2.5,GB,1
+15,mrmcwinnerson,CAR @ NO,2.5,CAR,1
+15,mrmcwinnerson,DET @ LAR,-5.5,DET,1
+15,mrmcwinnerson,MIN @ DAL,-5.5,DAL,1
+15,mrmcwinnerson,MIA @ PIT,-3.5,MIA,1
+15,P-Otys,ATL @ TB,-4.5,TB,1
+15,P-Otys,WAS @ NYG,-2.5,WAS,1
+15,P-Otys,LV @ PHI,-11.5,LV,1
+15,P-Otys,CLE @ CHI,-7.5,CLE,1
+15,P-Otys,BAL @ CIN,2.5,CIN,1
+15,P-Otys,ARI @ HOU,-9.5,ARI,1
+15,P-Otys,BUF @ NE,1.5,BUF,1
+15,P-Otys,NYJ @ JAX,-11.5,NYJ,1
+15,P-Otys,LAC @ KC,-4.5,KC,2
+15,P-Otys,IND @ SEA,-13.5,IND,1
+15,P-Otys,TEN @ SF,-12.5,TEN,1
+15,P-Otys,GB @ DEN,2.5,GB,1
+15,P-Otys,CAR @ NO,2.5,CAR,1
+15,P-Otys,DET @ LAR,-5.5,DET,1
+15,P-Otys,MIN @ DAL,-5.5,DAL,1
+15,P-Otys,MIA @ PIT,-3.5,MIA,1
+15,Vegas,ATL @ TB,-4.5,TB,1
+15,Vegas,WAS @ NYG,-2.5,NYG,1
+15,Vegas,LV @ PHI,-11.5,PHI,1
+15,Vegas,CLE @ CHI,-7.5,CHI,1
+15,Vegas,BAL @ CIN,2.5,BAL,1
+15,Vegas,ARI @ HOU,-9.5,HOU,1
+15,Vegas,BUF @ NE,1.5,BUF,1
+15,Vegas,NYJ @ JAX,-11.5,JAX,1
+15,Vegas,LAC @ KC,-4.5,KC,1
+15,Vegas,IND @ SEA,-13.5,SEA,2
+15,Vegas,TEN @ SF,-12.5,SF,1
+15,Vegas,GB @ DEN,2.5,GB,1
+15,Vegas,CAR @ NO,2.5,CAR,1
+15,Vegas,DET @ LAR,-5.5,LAR,1
+15,Vegas,MIN @ DAL,-5.5,DAL,1
+15,Vegas,MIA @ PIT,-3.5,PIT,1
+15,Willheser,ATL @ TB,-4.5,TB,1
+15,Willheser,WAS @ NYG,-2.5,WAS,1
+15,Willheser,LV @ PHI,-11.5,LV,1
+15,Willheser,CLE @ CHI,-7.5,CLE,1
+15,Willheser,BAL @ CIN,2.5,BAL,1
+15,Willheser,ARI @ HOU,-9.5,HOU,1
+15,Willheser,BUF @ NE,1.5,BUF,1
+15,Willheser,NYJ @ JAX,-11.5,JAX,1
+15,Willheser,LAC @ KC,-4.5,LAC,1
+15,Willheser,IND @ SEA,-13.5,IND,1
+15,Willheser,TEN @ SF,-12.5,SF,1
+15,Willheser,GB @ DEN,2.5,DEN,1
+15,Willheser,CAR @ NO,2.5,CAR,1
+15,Willheser,DET @ LAR,-5.5,DET,2
+15,Willheser,MIN @ DAL,-5.5,MIN,1
+15,Willheser,MIA @ PIT,-3.5,PIT,1
+15,Yianni,ATL @ TB,-4.5,TB,1
+15,Yianni,WAS @ NYG,-2.5,NYG,1
+15,Yianni,LV @ PHI,-11.5,PHI,1
+15,Yianni,CLE @ CHI,-7.5,CHI,1
+15,Yianni,BAL @ CIN,2.5,CIN,2
+15,Yianni,ARI @ HOU,-9.5,HOU,1
+15,Yianni,BUF @ NE,1.5,BUF,1
+15,Yianni,NYJ @ JAX,-11.5,JAX,1
+15,Yianni,LAC @ KC,-4.5,KC,1
+15,Yianni,IND @ SEA,-13.5,SEA,1
+15,Yianni,TEN @ SF,-12.5,SF,1
+15,Yianni,GB @ DEN,2.5,DEN,1
+15,Yianni,CAR @ NO,2.5,CAR,1
+15,Yianni,DET @ LAR,-5.5,DET,1
+15,Yianni,MIN @ DAL,-5.5,DAL,1
+15,Yianni,MIA @ PIT,-3.5,PIT,1
+17,ADon,DAL @ WAS,6.5,DAL,1
+17,ADon,DET @ MIN,6.5,MIN,1
+17,ADon,DEN @ KC,12.5,DEN,1
+17,ADon,HOU @ LAC,-1.5,HOU,1
+17,ADon,BAL @ GB,-2.5,BAL,1
+17,ADon,TB @ MIA,5.5,MIA,1
+17,ADon,NE @ NYJ,13.5,NE,1
+17,ADon,PIT @ CLE,3.5,PIT,1
+17,ADon,ARI @ CIN,-7.5,CIN,1
+17,ADon,NO @ TEN,2.5,NO,1
+17,ADon,JAX @ IND,6.5,JAX,1
+17,ADon,SEA @ CAR,7.5,CAR,1
+17,ADon,NYG @ LV,-1.5,NYG,2
+17,ADon,PHI @ BUF,-2.5,PHI,1
+17,ADon,CHI @ SF,-3.5,SF,1
+17,ADon,LAR @ ATL,8.5,LAR,1
+17,b_hop,DAL @ WAS,6.5,DAL,1
+17,b_hop,DET @ MIN,6.5,DET,2
+17,b_hop,DEN @ KC,12.5,KC,1
+17,b_hop,HOU @ LAC,-1.5,LAC,1
+17,b_hop,BAL @ GB,-2.5,GB,1
+17,b_hop,TB @ MIA,5.5,MIA,1
+17,b_hop,NE @ NYJ,13.5,NYJ,1
+17,b_hop,PIT @ CLE,3.5,CLE,1
+17,b_hop,ARI @ CIN,-7.5,CIN,1
+17,b_hop,NO @ TEN,2.5,NO,1
+17,b_hop,JAX @ IND,6.5,JAX,1
+17,b_hop,SEA @ CAR,7.5,CAR,1
+17,b_hop,NYG @ LV,-1.5,LV,1
+17,b_hop,PHI @ BUF,-2.5,PHI,1
+17,b_hop,CHI @ SF,-3.5,CHI,1
+17,b_hop,LAR @ ATL,8.5,LAR,1
+17,derelicious,DAL @ WAS,6.5,DAL,1
+17,derelicious,DET @ MIN,6.5,MIN,1
+17,derelicious,DEN @ KC,12.5,DEN,1
+17,derelicious,HOU @ LAC,-1.5,HOU,1
+17,derelicious,BAL @ GB,-2.5,BAL,1
+17,derelicious,TB @ MIA,5.5,TB,1
+17,derelicious,NE @ NYJ,13.5,NE,1
+17,derelicious,PIT @ CLE,3.5,PIT,1
+17,derelicious,ARI @ CIN,-7.5,CIN,1
+17,derelicious,NO @ TEN,2.5,TEN,1
+17,derelicious,JAX @ IND,6.5,JAX,2
+17,derelicious,SEA @ CAR,7.5,SEA,1
+17,derelicious,NYG @ LV,-1.5,NYG,1
+17,derelicious,PHI @ BUF,-2.5,PHI,1
+17,derelicious,CHI @ SF,-3.5,SF,1
+17,derelicious,LAR @ ATL,8.5,LAR,1
+17,Exciting Whites,DAL @ WAS,6.5,DAL,1
+17,Exciting Whites,DET @ MIN,6.5,MIN,1
+17,Exciting Whites,DEN @ KC,12.5,DEN,1
+17,Exciting Whites,HOU @ LAC,-1.5,HOU,1
+17,Exciting Whites,BAL @ GB,-2.5,BAL,1
+17,Exciting Whites,TB @ MIA,5.5,MIA,1
+17,Exciting Whites,NE @ NYJ,13.5,NE,1
+17,Exciting Whites,PIT @ CLE,3.5,PIT,1
+17,Exciting Whites,ARI @ CIN,-7.5,CIN,1
+17,Exciting Whites,NO @ TEN,2.5,TEN,1
+17,Exciting Whites,JAX @ IND,6.5,JAX,1
+17,Exciting Whites,SEA @ CAR,7.5,CAR,1
+17,Exciting Whites,NYG @ LV,-1.5,NYG,1
+17,Exciting Whites,PHI @ BUF,-2.5,BUF,1
+17,Exciting Whites,CHI @ SF,-3.5,SF,1
+17,Exciting Whites,LAR @ ATL,8.5,LAR,2
+17,Kevin,DAL @ WAS,6.5,DAL,1
+17,Kevin,DET @ MIN,6.5,DET,2
+17,Kevin,DEN @ KC,12.5,DEN,1
+17,Kevin,HOU @ LAC,-1.5,HOU,1
+17,Kevin,BAL @ GB,-2.5,GB,1
+17,Kevin,TB @ MIA,5.5,TB,1
+17,Kevin,NE @ NYJ,13.5,NE,1
+17,Kevin,PIT @ CLE,3.5,PIT,1
+17,Kevin,ARI @ CIN,-7.5,ARI,1
+17,Kevin,NO @ TEN,2.5,TEN,1
+17,Kevin,JAX @ IND,6.5,JAX,1
+17,Kevin,SEA @ CAR,7.5,CAR,1
+17,Kevin,NYG @ LV,-1.5,NYG,1
+17,Kevin,PHI @ BUF,-2.5,BUF,1
+17,Kevin,CHI @ SF,-3.5,CHI,1
+17,Kevin,LAR @ ATL,8.5,LAR,1
+17,Maye Magic,DAL @ WAS,6.5,DAL,1
+17,Maye Magic,DET @ MIN,6.5,DET,1
+17,Maye Magic,DEN @ KC,12.5,DEN,1
+17,Maye Magic,HOU @ LAC,-1.5,HOU,1
+17,Maye Magic,BAL @ GB,-2.5,GB,1
+17,Maye Magic,TB @ MIA,5.5,TB,1
+17,Maye Magic,NE @ NYJ,13.5,NYJ,1
+17,Maye Magic,PIT @ CLE,3.5,PIT,1
+17,Maye Magic,ARI @ CIN,-7.5,ARI,1
+17,Maye Magic,NO @ TEN,2.5,NO,1
+17,Maye Magic,JAX @ IND,6.5,JAX,1
+17,Maye Magic,SEA @ CAR,7.5,SEA,1
+17,Maye Magic,NYG @ LV,-1.5,NYG,1
+17,Maye Magic,PHI @ BUF,-2.5,BUF,1
+17,Maye Magic,CHI @ SF,-3.5,SF,1
+17,Maye Magic,LAR @ ATL,8.5,ATL,2
+17,MC$,DAL @ WAS,6.5,WAS,1
+17,MC$,DET @ MIN,6.5,MIN,1
+17,MC$,DEN @ KC,12.5,DEN,1
+17,MC$,HOU @ LAC,-1.5,LAC,1
+17,MC$,BAL @ GB,-2.5,GB,1
+17,MC$,TB @ MIA,5.5,TB,2
+17,MC$,NE @ NYJ,13.5,NE,1
+17,MC$,PIT @ CLE,3.5,CLE,1
+17,MC$,ARI @ CIN,-7.5,ARI,1
+17,MC$,NO @ TEN,2.5,TEN,1
+17,MC$,JAX @ IND,6.5,JAX,1
+17,MC$,SEA @ CAR,7.5,CAR,1
+17,MC$,NYG @ LV,-1.5,LV,1
+17,MC$,PHI @ BUF,-2.5,BUF,1
+17,MC$,CHI @ SF,-3.5,CHI,1
+17,MC$,LAR @ ATL,8.5,ATL,1
+17,mrmcwinnerson,DAL @ WAS,6.5,DAL,1
+17,mrmcwinnerson,DET @ MIN,6.5,MIN,1
+17,mrmcwinnerson,DEN @ KC,12.5,DEN,2
+17,mrmcwinnerson,HOU @ LAC,-1.5,LAC,1
+17,mrmcwinnerson,BAL @ GB,-2.5,GB,1
+17,mrmcwinnerson,TB @ MIA,5.5,TB,1
+17,mrmcwinnerson,NE @ NYJ,13.5,NE,1
+17,mrmcwinnerson,PIT @ CLE,3.5,PIT,1
+17,mrmcwinnerson,ARI @ CIN,-7.5,CIN,1
+17,mrmcwinnerson,NO @ TEN,2.5,NO,1
+17,mrmcwinnerson,JAX @ IND,6.5,JAX,1
+17,mrmcwinnerson,SEA @ CAR,7.5,SEA,1
+17,mrmcwinnerson,NYG @ LV,-1.5,LV,1
+17,mrmcwinnerson,PHI @ BUF,-2.5,PHI,1
+17,mrmcwinnerson,CHI @ SF,-3.5,CHI,1
+17,mrmcwinnerson,LAR @ ATL,8.5,LAR,1
+17,P-Otys,DAL @ WAS,6.5,DAL,1
+17,P-Otys,DET @ MIN,6.5,MIN,1
+17,P-Otys,DEN @ KC,12.5,KC,1
+17,P-Otys,HOU @ LAC,-1.5,LAC,1
+17,P-Otys,BAL @ GB,-2.5,GB,1
+17,P-Otys,TB @ MIA,5.5,TB,1
+17,P-Otys,NE @ NYJ,13.5,NYJ,1
+17,P-Otys,PIT @ CLE,3.5,PIT,1
+17,P-Otys,ARI @ CIN,-7.5,ARI,1
+17,P-Otys,NO @ TEN,2.5,TEN,1
+17,P-Otys,JAX @ IND,6.5,IND,1
+17,P-Otys,SEA @ CAR,7.5,SEA,1
+17,P-Otys,NYG @ LV,-1.5,NYG,1
+17,P-Otys,PHI @ BUF,-2.5,BUF,2
+17,P-Otys,CHI @ SF,-3.5,CHI,1
+17,P-Otys,LAR @ ATL,8.5,ATL,1
+17,Vegas,DAL @ WAS,6.5,DAL,1
+17,Vegas,DET @ MIN,6.5,DET,1
+17,Vegas,DEN @ KC,12.5,DEN,1
+17,Vegas,HOU @ LAC,-1.5,LAC,1
+17,Vegas,BAL @ GB,-2.5,GB,1
+17,Vegas,TB @ MIA,5.5,TB,1
+17,Vegas,NE @ NYJ,13.5,NE,2
+17,Vegas,PIT @ CLE,3.5,PIT,1
+17,Vegas,ARI @ CIN,-7.5,CIN,1
+17,Vegas,NO @ TEN,2.5,NO,1
+17,Vegas,JAX @ IND,6.5,JAX,1
+17,Vegas,SEA @ CAR,7.5,SEA,1
+17,Vegas,NYG @ LV,-1.5,LV,1
+17,Vegas,PHI @ BUF,-2.5,BUF,1
+17,Vegas,CHI @ SF,-3.5,SF,1
+17,Vegas,LAR @ ATL,8.5,LAR,1
+17,Willheser,DAL @ WAS,6.5,DAL,1
+17,Willheser,DET @ MIN,6.5,DET,1
+17,Willheser,DEN @ KC,12.5,DEN,1
+17,Willheser,HOU @ LAC,-1.5,LAC,1
+17,Willheser,BAL @ GB,-2.5,GB,1
+17,Willheser,TB @ MIA,5.5,TB,1
+17,Willheser,NE @ NYJ,13.5,NYJ,1
+17,Willheser,PIT @ CLE,3.5,PIT,2
+17,Willheser,ARI @ CIN,-7.5,ARI,1
+17,Willheser,NO @ TEN,2.5,NO,1
+17,Willheser,JAX @ IND,6.5,IND,1
+17,Willheser,SEA @ CAR,7.5,CAR,1
+17,Willheser,NYG @ LV,-1.5,LV,1
+17,Willheser,PHI @ BUF,-2.5,BUF,1
+17,Willheser,CHI @ SF,-3.5,SF,1
+17,Willheser,LAR @ ATL,8.5,ATL,1
+17,Yianni,DAL @ WAS,6.5,DAL,1
+17,Yianni,DET @ MIN,6.5,MIN,1
+17,Yianni,DEN @ KC,12.5,DEN,1
+17,Yianni,HOU @ LAC,-1.5,LAC,1
+17,Yianni,BAL @ GB,-2.5,GB,1
+17,Yianni,TB @ MIA,5.5,TB,1
+17,Yianni,NE @ NYJ,13.5,NE,1
+17,Yianni,PIT @ CLE,3.5,PIT,1
+17,Yianni,ARI @ CIN,-7.5,CIN,1
+17,Yianni,NO @ TEN,2.5,TEN,1
+17,Yianni,JAX @ IND,6.5,JAX,1
+17,Yianni,SEA @ CAR,7.5,CAR,1
+17,Yianni,NYG @ LV,-1.5,NYG,1
+17,Yianni,PHI @ BUF,-2.5,BUF,1
+17,Yianni,CHI @ SF,-3.5,SF,2
+17,Yianni,LAR @ ATL,8.5,ATL,1
+12,ADon,BUF @ HOU,5.5,HOU,1
+12,ADon,MIN @ GB,-6.5,GB,1
+12,ADon,IND @ KC,-3.5,KC,1
+12,ADon,NE @ CIN,7.5,NE,2
+12,ADon,PIT @ CHI,-2.5,PIT,1
+12,ADon,NYJ @ BAL,-13.5,NYJ,1
+12,ADon,NYG @ DET,-10.5,DET,1
+12,ADon,SEA @ TEN,13.5,SEA,1
+12,ADon,JAX @ ARI,2.5,JAX,1
+12,ADon,CLE @ LV,-3.5,CLE,1
+12,ADon,PHI @ DAL,3.5,PHI,1
+12,ADon,ATL @ NO,-1.5,NO,1
+12,ADon,TB @ LAR,-6.5,TB,1
+12,ADon,CAR @ SF,-6.5,SF,1
+12,b_hop,BUF @ HOU,5.5,HOU,1
+12,b_hop,MIN @ GB,-6.5,MIN,1
+12,b_hop,IND @ KC,-3.5,IND,1
+12,b_hop,NE @ CIN,7.5,NE,1
+12,b_hop,PIT @ CHI,-2.5,CHI,1
+12,b_hop,NYJ @ BAL,-13.5,BAL,1
+12,b_hop,NYG @ DET,-10.5,DET,1
+12,b_hop,SEA @ TEN,13.5,SEA,1
+12,b_hop,JAX @ ARI,2.5,ARI,1
+12,b_hop,CLE @ LV,-3.5,LV,1
+12,b_hop,PHI @ DAL,3.5,PHI,2
+12,b_hop,ATL @ NO,-1.5,NO,1
+12,b_hop,TB @ LAR,-6.5,LAR,1
+12,b_hop,CAR @ SF,-6.5,SF,1
+12,derelicious,BUF @ HOU,5.5,HOU,1
+12,derelicious,MIN @ GB,-6.5,GB,1
+12,derelicious,IND @ KC,-3.5,IND,1
+12,derelicious,NE @ CIN,7.5,NE,1
+12,derelicious,PIT @ CHI,-2.5,PIT,1
+12,derelicious,NYJ @ BAL,-13.5,BAL,1
+12,derelicious,NYG @ DET,-10.5,DET,1
+12,derelicious,SEA @ TEN,13.5,SEA,1
+12,derelicious,JAX @ ARI,2.5,JAX,1
+12,derelicious,CLE @ LV,-3.5,CLE,1
+12,derelicious,PHI @ DAL,3.5,PHI,2
+12,derelicious,ATL @ NO,-1.5,ATL,1
+12,derelicious,TB @ LAR,-6.5,TB,1
+12,derelicious,CAR @ SF,-6.5,SF,1
+12,Exciting Whites,BUF @ HOU,5.5,BUF,2
+12,Exciting Whites,MIN @ GB,-6.5,MIN,1
+12,Exciting Whites,IND @ KC,-3.5,KC,1
+12,Exciting Whites,NE @ CIN,7.5,CIN,1
+12,Exciting Whites,PIT @ CHI,-2.5,CHI,1
+12,Exciting Whites,NYJ @ BAL,-13.5,BAL,1
+12,Exciting Whites,NYG @ DET,-10.5,DET,1
+12,Exciting Whites,SEA @ TEN,13.5,SEA,1
+12,Exciting Whites,JAX @ ARI,2.5,JAX,1
+12,Exciting Whites,CLE @ LV,-3.5,LV,1
+12,Exciting Whites,PHI @ DAL,3.5,DAL,1
+12,Exciting Whites,ATL @ NO,-1.5,ATL,1
+12,Exciting Whites,TB @ LAR,-6.5,TB,1
+12,Exciting Whites,CAR @ SF,-6.5,SF,1
+12,Kevin,BUF @ HOU,5.5,HOU,1
+12,Kevin,MIN @ GB,-6.5,GB,2
+12,Kevin,IND @ KC,-3.5,KC,1
+12,Kevin,NE @ CIN,7.5,NE,1
+12,Kevin,PIT @ CHI,-2.5,CHI,1
+12,Kevin,NYJ @ BAL,-13.5,BAL,1
+12,Kevin,NYG @ DET,-10.5,DET,1
+12,Kevin,SEA @ TEN,13.5,TEN,1
+12,Kevin,JAX @ ARI,2.5,ARI,1
+12,Kevin,CLE @ LV,-3.5,CLE,1
+12,Kevin,PHI @ DAL,3.5,PHI,1
+12,Kevin,ATL @ NO,-1.5,ATL,1
+12,Kevin,TB @ LAR,-6.5,TB,1
+12,Kevin,CAR @ SF,-6.5,SF,1
+12,Maye Magic,BUF @ HOU,5.5,HOU,1
+12,Maye Magic,MIN @ GB,-6.5,GB,1
+12,Maye Magic,IND @ KC,-3.5,IND,1
+12,Maye Magic,NE @ CIN,7.5,NE,1
+12,Maye Magic,PIT @ CHI,-2.5,PIT,1
+12,Maye Magic,NYJ @ BAL,-13.5,NYJ,1
+12,Maye Magic,NYG @ DET,-10.5,NYG,1
+12,Maye Magic,SEA @ TEN,13.5,TEN,1
+12,Maye Magic,JAX @ ARI,2.5,JAX,1
+12,Maye Magic,CLE @ LV,-3.5,LV,1
+12,Maye Magic,PHI @ DAL,3.5,PHI,1
+12,Maye Magic,ATL @ NO,-1.5,ATL,1
+12,Maye Magic,TB @ LAR,-6.5,TB,1
+12,Maye Magic,CAR @ SF,-6.5,CAR,2
+12,MC$,BUF @ HOU,5.5,HOU,1
+12,MC$,MIN @ GB,-6.5,GB,1
+12,MC$,IND @ KC,-3.5,IND,2
+12,MC$,NE @ CIN,7.5,NE,1
+12,MC$,PIT @ CHI,-2.5,PIT,1
+12,MC$,NYJ @ BAL,-13.5,NYJ,1
+12,MC$,NYG @ DET,-10.5,NYG,1
+12,MC$,SEA @ TEN,13.5,SEA,1
+12,MC$,JAX @ ARI,2.5,JAX,1
+12,MC$,CLE @ LV,-3.5,LV,1
+12,MC$,PHI @ DAL,3.5,PHI,1
+12,MC$,ATL @ NO,-1.5,ATL,1
+12,MC$,TB @ LAR,-6.5,LAR,1
+12,MC$,CAR @ SF,-6.5,CAR,1
+12,mrmcwinnerson,MIN @ GB,-6.5,GB,1
+12,mrmcwinnerson,IND @ KC,-3.5,KC,1
+12,mrmcwinnerson,NE @ CIN,7.5,NE,1
+12,mrmcwinnerson,PIT @ CHI,-2.5,PIT,1
+12,mrmcwinnerson,NYJ @ BAL,-13.5,BAL,1
+12,mrmcwinnerson,NYG @ DET,-10.5,DET,2
+12,mrmcwinnerson,SEA @ TEN,13.5,SEA,1
+12,mrmcwinnerson,JAX @ ARI,2.5,JAX,1
+12,mrmcwinnerson,CLE @ LV,-3.5,CLE,1
+12,mrmcwinnerson,PHI @ DAL,3.5,PHI,1
+12,mrmcwinnerson,ATL @ NO,-1.5,ATL,1
+12,mrmcwinnerson,TB @ LAR,-6.5,LAR,1
+12,mrmcwinnerson,CAR @ SF,-6.5,SF,1
+12,P-Otys,BUF @ HOU,5.5,HOU,1
+12,P-Otys,MIN @ GB,-6.5,GB,1
+12,P-Otys,IND @ KC,-3.5,KC,2
+12,P-Otys,NE @ CIN,7.5,NE,1
+12,P-Otys,PIT @ CHI,-2.5,CHI,1
+12,P-Otys,NYJ @ BAL,-13.5,NYJ,1
+12,P-Otys,NYG @ DET,-10.5,DET,1
+12,P-Otys,SEA @ TEN,13.5,SEA,1
+12,P-Otys,JAX @ ARI,2.5,ARI,1
+12,P-Otys,CLE @ LV,-3.5,CLE,1
+12,P-Otys,PHI @ DAL,3.5,PHI,1
+12,P-Otys,ATL @ NO,-1.5,NO,1
+12,P-Otys,TB @ LAR,-6.5,TB,1
+12,P-Otys,CAR @ SF,-6.5,CAR,1
+12,Ripw1124,BUF @ HOU,5.5,HOU,1
+12,Ripw1124,MIN @ GB,-6.5,MIN,2
+12,Ripw1124,IND @ KC,-3.5,IND,1
+12,Ripw1124,NE @ CIN,7.5,CIN,1
+12,Ripw1124,PIT @ CHI,-2.5,PIT,1
+12,Ripw1124,NYJ @ BAL,-13.5,NYJ,1
+12,Ripw1124,NYG @ DET,-10.5,NYG,1
+12,Ripw1124,SEA @ TEN,13.5,TEN,1
+12,Ripw1124,JAX @ ARI,2.5,ARI,1
+12,Ripw1124,CLE @ LV,-3.5,CLE,1
+12,Ripw1124,PHI @ DAL,3.5,DAL,1
+12,Ripw1124,ATL @ NO,-1.5,ATL,1
+12,Ripw1124,TB @ LAR,-6.5,TB,1
+12,Ripw1124,CAR @ SF,-6.5,CAR,1
+12,Vegas,BUF @ HOU,5.5,BUF,1
+12,Vegas,MIN @ GB,-6.5,GB,1
+12,Vegas,IND @ KC,-3.5,KC,1
+12,Vegas,NE @ CIN,7.5,NE,1
+12,Vegas,PIT @ CHI,-2.5,CHI,1
+12,Vegas,NYJ @ BAL,-13.5,BAL,2
+12,Vegas,NYG @ DET,-10.5,DET,1
+12,Vegas,SEA @ TEN,13.5,SEA,1
+12,Vegas,JAX @ ARI,2.5,JAX,1
+12,Vegas,CLE @ LV,-3.5,LV,1
+12,Vegas,PHI @ DAL,3.5,PHI,1
+12,Vegas,ATL @ NO,-1.5,NO,1
+12,Vegas,TB @ LAR,-6.5,LAR,1
+12,Vegas,CAR @ SF,-6.5,SF,1
+12,Willheser,BUF @ HOU,5.5,BUF,2
+12,Willheser,MIN @ GB,-6.5,GB,1
+12,Willheser,IND @ KC,-3.5,IND,1
+12,Willheser,NE @ CIN,7.5,NE,1
+12,Willheser,PIT @ CHI,-2.5,PIT,1
+12,Willheser,NYJ @ BAL,-13.5,NYJ,1
+12,Willheser,NYG @ DET,-10.5,NYG,1
+12,Willheser,SEA @ TEN,13.5,SEA,1
+12,Willheser,JAX @ ARI,2.5,JAX,1
+12,Willheser,CLE @ LV,-3.5,LV,1
+12,Willheser,PHI @ DAL,3.5,PHI,1
+12,Willheser,ATL @ NO,-1.5,NO,1
+12,Willheser,TB @ LAR,-6.5,TB,1
+12,Willheser,CAR @ SF,-6.5,SF,1
+12,Yianni,BUF @ HOU,5.5,BUF,1
+12,Yianni,MIN @ GB,-6.5,GB,1
+12,Yianni,IND @ KC,-3.5,KC,1
+12,Yianni,NE @ CIN,7.5,NE,1
+12,Yianni,PIT @ CHI,-2.5,PIT,1
+12,Yianni,NYJ @ BAL,-13.5,NYJ,1
+12,Yianni,NYG @ DET,-10.5,DET,1
+12,Yianni,SEA @ TEN,13.5,SEA,1
+12,Yianni,JAX @ ARI,2.5,ARI,1
+12,Yianni,CLE @ LV,-3.5,LV,1
+12,Yianni,PHI @ DAL,3.5,PHI,2
+12,Yianni,ATL @ NO,-1.5,NO,1
+12,Yianni,TB @ LAR,-6.5,TB,1
+12,Yianni,CAR @ SF,-6.5,SF,1
+14,ADon,DAL @ DET,-3.5,DET,1
+14,ADon,PIT @ BAL,-5.5,PIT,1
+14,ADon,SEA @ ATL,7.5,SEA,2
+14,ADon,TEN @ CLE,-3.5,CLE,1
+14,ADon,MIA @ NYJ,2.5,MIA,1
+14,ADon,NO @ TB,-8.5,TB,1
+14,ADon,IND @ JAX,1.5,JAX,1
+14,ADon,WAS @ MIN,-0.5,WAS,1
+14,ADon,CIN @ BUF,-5.5,CIN,1
+14,ADon,DEN @ LV,7.5,DEN,1
+14,ADon,CHI @ GB,-6.5,CHI,1
+14,ADon,LAR @ ARI,8.5,LAR,1
+14,ADon,HOU @ KC,-3.5,KC,1
+14,ADon,PHI @ LAC,2.5,LAC,1
+14,b_hop,DAL @ DET,-3.5,DET,1
+14,b_hop,PIT @ BAL,-5.5,PIT,1
+14,b_hop,SEA @ ATL,7.5,SEA,1
+14,b_hop,TEN @ CLE,-3.5,TEN,1
+14,b_hop,MIA @ NYJ,2.5,MIA,1
+14,b_hop,NO @ TB,-8.5,TB,1
+14,b_hop,IND @ JAX,1.5,IND,1
+14,b_hop,WAS @ MIN,-0.5,WAS,2
+14,b_hop,CIN @ BUF,-5.5,BUF,1
+14,b_hop,DEN @ LV,7.5,DEN,1
+14,b_hop,CHI @ GB,-6.5,CHI,1
+14,b_hop,LAR @ ARI,8.5,LAR,1
+14,b_hop,HOU @ KC,-3.5,KC,1
+14,b_hop,PHI @ LAC,2.5,PHI,1
+14,derelicious,DAL @ DET,-3.5,DET,1
+14,derelicious,PIT @ BAL,-5.5,BAL,1
+14,derelicious,SEA @ ATL,7.5,SEA,1
+14,derelicious,TEN @ CLE,-3.5,CLE,1
+14,derelicious,MIA @ NYJ,2.5,MIA,1
+14,derelicious,NO @ TB,-8.5,TB,1
+14,derelicious,IND @ JAX,1.5,JAX,1
+14,derelicious,WAS @ MIN,-0.5,WAS,2
+14,derelicious,CIN @ BUF,-5.5,CIN,1
+14,derelicious,DEN @ LV,7.5,DEN,1
+14,derelicious,CHI @ GB,-6.5,CHI,1
+14,derelicious,LAR @ ARI,8.5,LAR,1
+14,derelicious,HOU @ KC,-3.5,HOU,1
+14,derelicious,PHI @ LAC,2.5,LAC,1
+14,Exciting Whites,DAL @ DET,-3.5,DET,1
+14,Exciting Whites,PIT @ BAL,-5.5,BAL,1
+14,Exciting Whites,SEA @ ATL,7.5,SEA,1
+14,Exciting Whites,TEN @ CLE,-3.5,TEN,1
+14,Exciting Whites,MIA @ NYJ,2.5,NYJ,1
+14,Exciting Whites,NO @ TB,-8.5,TB,1
+14,Exciting Whites,IND @ JAX,1.5,JAX,1
+14,Exciting Whites,WAS @ MIN,-0.5,WAS,1
+14,Exciting Whites,CIN @ BUF,-5.5,CIN,1
+14,Exciting Whites,DEN @ LV,7.5,DEN,1
+14,Exciting Whites,CHI @ GB,-6.5,GB,1
+14,Exciting Whites,LAR @ ARI,8.5,LAR,2
+14,Exciting Whites,HOU @ KC,-3.5,HOU,1
+14,Exciting Whites,PHI @ LAC,2.5,PHI,1
+14,Kevin,DAL @ DET,-3.5,DET,2
+14,Kevin,PIT @ BAL,-5.5,PIT,1
+14,Kevin,SEA @ ATL,7.5,SEA,1
+14,Kevin,TEN @ CLE,-3.5,CLE,1
+14,Kevin,MIA @ NYJ,2.5,NYJ,1
+14,Kevin,NO @ TB,-8.5,TB,1
+14,Kevin,IND @ JAX,1.5,JAX,1
+14,Kevin,WAS @ MIN,-0.5,WAS,1
+14,Kevin,CIN @ BUF,-5.5,CIN,1
+14,Kevin,DEN @ LV,7.5,DEN,1
+14,Kevin,CHI @ GB,-6.5,GB,1
+14,Kevin,LAR @ ARI,8.5,LAR,1
+14,Kevin,HOU @ KC,-3.5,HOU,1
+14,Kevin,PHI @ LAC,2.5,PHI,1
+14,Maye Magic,DAL @ DET,-3.5,DET,1
+14,Maye Magic,PIT @ BAL,-5.5,BAL,1
+14,Maye Magic,SEA @ ATL,7.5,SEA,1
+14,Maye Magic,TEN @ CLE,-3.5,CLE,1
+14,Maye Magic,MIA @ NYJ,2.5,MIA,1
+14,Maye Magic,NO @ TB,-8.5,TB,1
+14,Maye Magic,IND @ JAX,1.5,IND,1
+14,Maye Magic,WAS @ MIN,-0.5,MIN,1
+14,Maye Magic,CIN @ BUF,-5.5,BUF,1
+14,Maye Magic,DEN @ LV,7.5,DEN,1
+14,Maye Magic,CHI @ GB,-6.5,GB,1
+14,Maye Magic,LAR @ ARI,8.5,LAR,1
+14,Maye Magic,HOU @ KC,-3.5,KC,1
+14,Maye Magic,PHI @ LAC,2.5,LAC,2
+14,MC$,DAL @ DET,-3.5,DET,1
+14,MC$,PIT @ BAL,-5.5,PIT,2
+14,MC$,SEA @ ATL,7.5,SEA,1
+14,MC$,TEN @ CLE,-3.5,CLE,1
+14,MC$,MIA @ NYJ,2.5,MIA,1
+14,MC$,NO @ TB,-8.5,NO,1
+14,MC$,IND @ JAX,1.5,IND,1
+14,MC$,WAS @ MIN,-0.5,WAS,1
+14,MC$,CIN @ BUF,-5.5,BUF,1
+14,MC$,DEN @ LV,7.5,LV,1
+14,MC$,CHI @ GB,-6.5,CHI,1
+14,MC$,LAR @ ARI,8.5,LAR,1
+14,MC$,HOU @ KC,-3.5,HOU,1
+14,MC$,PHI @ LAC,2.5,LAC,1
+14,mrmcwinnerson,DAL @ DET,-3.5,DET,1
+14,mrmcwinnerson,PIT @ BAL,-5.5,BAL,1
+14,mrmcwinnerson,SEA @ ATL,7.5,SEA,1
+14,mrmcwinnerson,TEN @ CLE,-3.5,CLE,1
+14,mrmcwinnerson,MIA @ NYJ,2.5,NYJ,1
+14,mrmcwinnerson,NO @ TB,-8.5,TB,1
+14,mrmcwinnerson,IND @ JAX,1.5,JAX,1
+14,mrmcwinnerson,WAS @ MIN,-0.5,MIN,1
+14,mrmcwinnerson,CIN @ BUF,-5.5,BUF,1
+14,mrmcwinnerson,DEN @ LV,7.5,DEN,2
+14,mrmcwinnerson,CHI @ GB,-6.5,GB,1
+14,mrmcwinnerson,LAR @ ARI,8.5,LAR,1
+14,mrmcwinnerson,HOU @ KC,-3.5,HOU,1
+14,mrmcwinnerson,PHI @ LAC,2.5,LAC,1
+14,P-Otys,DAL @ DET,-3.5,DET,1
+14,P-Otys,PIT @ BAL,-5.5,PIT,1
+14,P-Otys,SEA @ ATL,7.5,SEA,1
+14,P-Otys,TEN @ CLE,-3.5,CLE,1
+14,P-Otys,MIA @ NYJ,2.5,NYJ,1
+14,P-Otys,NO @ TB,-8.5,TB,1
+14,P-Otys,IND @ JAX,1.5,JAX,1
+14,P-Otys,WAS @ MIN,-0.5,WAS,1
+14,P-Otys,CIN @ BUF,-5.5,CIN,1
+14,P-Otys,DEN @ LV,7.5,DEN,1
+14,P-Otys,CHI @ GB,-6.5,CHI,1
+14,P-Otys,LAR @ ARI,8.5,LAR,1
+14,P-Otys,HOU @ KC,-3.5,KC,2
+14,P-Otys,PHI @ LAC,2.5,PHI,1
+14,Vegas,DAL @ DET,-3.5,DET,1
+14,Vegas,PIT @ BAL,-5.5,BAL,1
+14,Vegas,SEA @ ATL,7.5,SEA,1
+14,Vegas,TEN @ CLE,-3.5,CLE,1
+14,Vegas,MIA @ NYJ,2.5,MIA,1
+14,Vegas,NO @ TB,-8.5,TB,2
+14,Vegas,IND @ JAX,1.5,IND,1
+14,Vegas,WAS @ MIN,-0.5,MIN,1
+14,Vegas,CIN @ BUF,-5.5,BUF,1
+14,Vegas,DEN @ LV,7.5,DEN,1
+14,Vegas,CHI @ GB,-6.5,GB,1
+14,Vegas,LAR @ ARI,8.5,LAR,1
+14,Vegas,HOU @ KC,-3.5,KC,1
+14,Vegas,PHI @ LAC,2.5,PHI,1
+14,Willheser,DAL @ DET,-3.5,DET,1
+14,Willheser,PIT @ BAL,-5.5,PIT,1
+14,Willheser,SEA @ ATL,7.5,SEA,1
+14,Willheser,TEN @ CLE,-3.5,CLE,1
+14,Willheser,MIA @ NYJ,2.5,MIA,1
+14,Willheser,NO @ TB,-8.5,NO,1
+14,Willheser,IND @ JAX,1.5,JAX,1
+14,Willheser,WAS @ MIN,-0.5,WAS,1
+14,Willheser,CIN @ BUF,-5.5,CIN,2
+14,Willheser,DEN @ LV,7.5,DEN,1
+14,Willheser,CHI @ GB,-6.5,GB,1
+14,Willheser,LAR @ ARI,8.5,ARI,1
+14,Willheser,HOU @ KC,-3.5,HOU,1
+14,Willheser,PHI @ LAC,2.5,LAC,1
+14,Yianni,DAL @ DET,-3.5,DET,1
+14,Yianni,PIT @ BAL,-5.5,BAL,1
+14,Yianni,SEA @ ATL,7.5,SEA,1
+14,Yianni,TEN @ CLE,-3.5,TEN,1
+14,Yianni,MIA @ NYJ,2.5,MIA,1
+14,Yianni,NO @ TB,-8.5,TB,1
+14,Yianni,IND @ JAX,1.5,JAX,1
+14,Yianni,WAS @ MIN,-0.5,WAS,2
+14,Yianni,CIN @ BUF,-5.5,CIN,1
+14,Yianni,DEN @ LV,7.5,DEN,1
+14,Yianni,CHI @ GB,-6.5,GB,1
+14,Yianni,LAR @ ARI,8.5,LAR,1
+14,Yianni,HOU @ KC,-3.5,KC,1
+14,Yianni,PHI @ LAC,2.5,PHI,1
+10,ADon,LV @ DEN,-8.5,DEN,2
+10,ADon,ATL @ IND,-5.5,IND,1
+10,ADon,BAL @ MIN,3.5,BAL,1
+10,ADon,NE @ TB,-2.5,TB,1
+10,ADon,JAX @ HOU,-1.5,HOU,1
+10,ADon,CLE @ NYJ,-1.5,CLE,1
+10,ADon,NO @ CAR,-5.5,CAR,1
+10,ADon,NYG @ CHI,-3.5,CHI,1
+10,ADon,BUF @ MIA,9.5,BUF,1
+10,ADon,ARI @ SEA,-6.5,SEA,1
+10,ADon,LAR @ SF,3.5,SF,1
+10,ADon,DET @ WAS,8.5,DET,1
+10,ADon,PIT @ LAC,-2.5,LAC,1
+10,ADon,PHI @ GB,-2.5,PHI,1
+10,b_hop,LV @ DEN,-8.5,DEN,1
+10,b_hop,ATL @ IND,-5.5,IND,1
+10,b_hop,BAL @ MIN,3.5,BAL,1
+10,b_hop,NE @ TB,-2.5,TB,1
+10,b_hop,JAX @ HOU,-1.5,JAX,1
+10,b_hop,CLE @ NYJ,-1.5,CLE,1
+10,b_hop,NO @ CAR,-5.5,CAR,1
+10,b_hop,NYG @ CHI,-3.5,CHI,1
+10,b_hop,BUF @ MIA,9.5,MIA,1
+10,b_hop,ARI @ SEA,-6.5,SEA,1
+10,b_hop,LAR @ SF,3.5,LAR,1
+10,b_hop,DET @ WAS,8.5,DET,1
+10,b_hop,PIT @ LAC,-2.5,LAC,1
+10,b_hop,PHI @ GB,-2.5,PHI,2
+10,derelicious,LV @ DEN,-8.5,DEN,2
+10,derelicious,ATL @ IND,-5.5,IND,1
+10,derelicious,BAL @ MIN,3.5,BAL,1
+10,derelicious,NE @ TB,-2.5,NE,1
+10,derelicious,JAX @ HOU,-1.5,JAX,1
+10,derelicious,CLE @ NYJ,-1.5,CLE,1
+10,derelicious,NO @ CAR,-5.5,CAR,1
+10,derelicious,NYG @ CHI,-3.5,CHI,1
+10,derelicious,BUF @ MIA,9.5,BUF,1
+10,derelicious,ARI @ SEA,-6.5,ARI,1
+10,derelicious,LAR @ SF,3.5,SF,1
+10,derelicious,DET @ WAS,8.5,DET,1
+10,derelicious,PIT @ LAC,-2.5,PIT,1
+10,derelicious,PHI @ GB,-2.5,GB,1
+10,Exciting Whites,LV @ DEN,-8.5,LV,1
+10,Exciting Whites,ATL @ IND,-5.5,IND,1
+10,Exciting Whites,BAL @ MIN,3.5,BAL,1
+10,Exciting Whites,NE @ TB,-2.5,TB,1
+10,Exciting Whites,JAX @ HOU,-1.5,JAX,1
+10,Exciting Whites,CLE @ NYJ,-1.5,CLE,1
+10,Exciting Whites,NO @ CAR,-5.5,CAR,1
+10,Exciting Whites,NYG @ CHI,-3.5,CHI,1
+10,Exciting Whites,BUF @ MIA,9.5,BUF,1
+10,Exciting Whites,ARI @ SEA,-6.5,SEA,2
+10,Exciting Whites,LAR @ SF,3.5,SF,1
+10,Exciting Whites,DET @ WAS,8.5,DET,1
+10,Exciting Whites,PIT @ LAC,-2.5,PIT,1
+10,Exciting Whites,PHI @ GB,-2.5,PHI,1
+10,Kevin,LV @ DEN,-8.5,DEN,1
+10,Kevin,ATL @ IND,-5.5,IND,1
+10,Kevin,BAL @ MIN,3.5,BAL,1
+10,Kevin,NE @ TB,-2.5,NE,2
+10,Kevin,JAX @ HOU,-1.5,HOU,1
+10,Kevin,CLE @ NYJ,-1.5,NYJ,1
+10,Kevin,NO @ CAR,-5.5,NO,1
+10,Kevin,NYG @ CHI,-3.5,CHI,1
+10,Kevin,BUF @ MIA,9.5,BUF,1
+10,Kevin,ARI @ SEA,-6.5,ARI,1
+10,Kevin,LAR @ SF,3.5,SF,1
+10,Kevin,DET @ WAS,8.5,DET,1
+10,Kevin,PIT @ LAC,-2.5,PIT,1
+10,Kevin,PHI @ GB,-2.5,PHI,1
+10,Maye Magic,LV @ DEN,-8.5,DEN,1
+10,Maye Magic,ATL @ IND,-5.5,IND,1
+10,Maye Magic,BAL @ MIN,3.5,BAL,1
+10,Maye Magic,NE @ TB,-2.5,TB,1
+10,Maye Magic,JAX @ HOU,-1.5,HOU,1
+10,Maye Magic,CLE @ NYJ,-1.5,CLE,1
+10,Maye Magic,NO @ CAR,-5.5,NO,1
+10,Maye Magic,NYG @ CHI,-3.5,CHI,1
+10,Maye Magic,BUF @ MIA,9.5,BUF,1
+10,Maye Magic,ARI @ SEA,-6.5,SEA,1
+10,Maye Magic,LAR @ SF,3.5,LAR,1
+10,Maye Magic,DET @ WAS,8.5,DET,1
+10,Maye Magic,PIT @ LAC,-2.5,PIT,1
+10,Maye Magic,PHI @ GB,-2.5,GB,2
+10,MC$,LV @ DEN,-8.5,DEN,1
+10,MC$,ATL @ IND,-5.5,IND,1
+10,MC$,BAL @ MIN,3.5,BAL,1
+10,MC$,NE @ TB,-2.5,NE,1
+10,MC$,JAX @ HOU,-1.5,JAX,1
+10,MC$,CLE @ NYJ,-1.5,CLE,1
+10,MC$,NO @ CAR,-5.5,CAR,1
+10,MC$,NYG @ CHI,-3.5,NYG,1
+10,MC$,BUF @ MIA,9.5,BUF,2
+10,MC$,ARI @ SEA,-6.5,SEA,1
+10,MC$,LAR @ SF,3.5,SF,1
+10,MC$,DET @ WAS,8.5,DET,1
+10,MC$,PIT @ LAC,-2.5,PIT,1
+10,MC$,PHI @ GB,-2.5,PHI,1
+10,mrmcwinnerson,LV @ DEN,-8.5,DEN,2
+10,mrmcwinnerson,ATL @ IND,-5.5,IND,1
+10,mrmcwinnerson,BAL @ MIN,3.5,BAL,1
+10,mrmcwinnerson,NE @ TB,-2.5,TB,1
+10,mrmcwinnerson,JAX @ HOU,-1.5,JAX,1
+10,mrmcwinnerson,CLE @ NYJ,-1.5,CLE,1
+10,mrmcwinnerson,NO @ CAR,-5.5,CAR,1
+10,mrmcwinnerson,NYG @ CHI,-3.5,CHI,1
+10,mrmcwinnerson,BUF @ MIA,9.5,BUF,1
+10,mrmcwinnerson,ARI @ SEA,-6.5,SEA,1
+10,mrmcwinnerson,LAR @ SF,3.5,SF,1
+10,mrmcwinnerson,DET @ WAS,8.5,DET,1
+10,mrmcwinnerson,PIT @ LAC,-2.5,LAC,1
+10,mrmcwinnerson,PHI @ GB,-2.5,PHI,1
+10,P-Otys,LV @ DEN,-8.5,LV,1
+10,P-Otys,ATL @ IND,-5.5,IND,1
+10,P-Otys,BAL @ MIN,3.5,BAL,1
+10,P-Otys,NE @ TB,-2.5,TB,2
+10,P-Otys,JAX @ HOU,-1.5,JAX,1
+10,P-Otys,CLE @ NYJ,-1.5,CLE,1
+10,P-Otys,NO @ CAR,-5.5,CAR,1
+10,P-Otys,NYG @ CHI,-3.5,NYG,1
+10,P-Otys,BUF @ MIA,9.5,BUF,1
+10,P-Otys,ARI @ SEA,-6.5,SEA,1
+10,P-Otys,LAR @ SF,3.5,LAR,1
+10,P-Otys,DET @ WAS,8.5,WAS,1
+10,P-Otys,PIT @ LAC,-2.5,PIT,1
+10,P-Otys,PHI @ GB,-2.5,GB,1
+10,Ripw1124,LV @ DEN,-8.5,LV,1
+10,Ripw1124,ATL @ IND,-5.5,IND,1
+10,Ripw1124,BAL @ MIN,3.5,BAL,1
+10,Ripw1124,NE @ TB,-2.5,TB,1
+10,Ripw1124,JAX @ HOU,-1.5,JAX,1
+10,Ripw1124,CLE @ NYJ,-1.5,NYJ,1
+10,Ripw1124,NO @ CAR,-5.5,CAR,1
+10,Ripw1124,NYG @ CHI,-3.5,CHI,1
+10,Ripw1124,BUF @ MIA,9.5,BUF,1
+10,Ripw1124,ARI @ SEA,-6.5,SEA,1
+10,Ripw1124,LAR @ SF,3.5,LAR,1
+10,Ripw1124,DET @ WAS,8.5,WAS,1
+10,Ripw1124,PIT @ LAC,-2.5,PIT,2
+10,Ripw1124,PHI @ GB,-2.5,PHI,1
+10,Vegas,LV @ DEN,-8.5,DEN,1
+10,Vegas,ATL @ IND,-5.5,IND,1
+10,Vegas,BAL @ MIN,3.5,BAL,1
+10,Vegas,NE @ TB,-2.5,TB,1
+10,Vegas,JAX @ HOU,-1.5,HOU,1
+10,Vegas,CLE @ NYJ,-1.5,NYJ,1
+10,Vegas,NO @ CAR,-5.5,CAR,1
+10,Vegas,NYG @ CHI,-3.5,CHI,1
+10,Vegas,BUF @ MIA,9.5,BUF,2
+10,Vegas,ARI @ SEA,-6.5,SEA,1
+10,Vegas,LAR @ SF,3.5,LAR,1
+10,Vegas,DET @ WAS,8.5,DET,1
+10,Vegas,PIT @ LAC,-2.5,LAC,1
+10,Vegas,PHI @ GB,-2.5,GB,1
+10,Willheser,LV @ DEN,-8.5,DEN,1
+10,Willheser,ATL @ IND,-5.5,IND,1
+10,Willheser,BAL @ MIN,3.5,MIN,1
+10,Willheser,NE @ TB,-2.5,TB,1
+10,Willheser,JAX @ HOU,-1.5,JAX,1
+10,Willheser,CLE @ NYJ,-1.5,CLE,1
+10,Willheser,NO @ CAR,-5.5,CAR,1
+10,Willheser,NYG @ CHI,-3.5,CHI,1
+10,Willheser,BUF @ MIA,9.5,BUF,1
+10,Willheser,ARI @ SEA,-6.5,SEA,1
+10,Willheser,LAR @ SF,3.5,SF,1
+10,Willheser,DET @ WAS,8.5,DET,2
+10,Willheser,PIT @ LAC,-2.5,LAC,1
+10,Willheser,PHI @ GB,-2.5,GB,1
+10,Yianni,LV @ DEN,-8.5,LV,1
+10,Yianni,ATL @ IND,-5.5,IND,1
+10,Yianni,BAL @ MIN,3.5,BAL,1
+10,Yianni,NE @ TB,-2.5,TB,1
+10,Yianni,JAX @ HOU,-1.5,JAX,1
+10,Yianni,CLE @ NYJ,-1.5,CLE,1
+10,Yianni,NO @ CAR,-5.5,CAR,1
+10,Yianni,NYG @ CHI,-3.5,CHI,1
+10,Yianni,BUF @ MIA,9.5,BUF,1
+10,Yianni,ARI @ SEA,-6.5,SEA,2
+10,Yianni,LAR @ SF,3.5,SF,1
+10,Yianni,DET @ WAS,8.5,DET,1
+10,Yianni,PIT @ LAC,-2.5,PIT,1
+10,Yianni,PHI @ GB,-2.5,GB,1
+18,ADon,CAR @ TB,-2.5,CAR,1
+18,ADon,SEA @ SF,1.5,SF,1
+18,ADon,GB @ MIN,-6.5,MIN,1
+18,ADon,TEN @ JAX,-12.5,TEN,1
+18,ADon,IND @ HOU,-10.5,HOU,1
+18,ADon,DAL @ NYG,4.5,DAL,1
+18,ADon,CLE @ CIN,-7.5,CLE,1
+18,ADon,NO @ ATL,-3.5,ATL,1
+18,ADon,MIA @ NE,-10.5,NE,1
+18,ADon,ARI @ LAR,-7.5,LAR,2
+18,ADon,DET @ CHI,-2.5,CHI,1
+18,ADon,WAS @ PHI,-7.5,PHI,1
+18,ADon,NYJ @ BUF,-7.5,BUF,1
+18,ADon,KC @ LV,5.5,LV,1
+18,ADon,LAC @ DEN,-12.5,LAC,1
+18,ADon,BAL @ PIT,3.5,BAL,1
+18,b_hop,CAR @ TB,-2.5,TB,1
+18,b_hop,SEA @ SF,1.5,SF,1
+18,b_hop,GB @ MIN,-6.5,MIN,1
+18,b_hop,TEN @ JAX,-12.5,TEN,1
+18,b_hop,IND @ HOU,-10.5,IND,1
+18,b_hop,DAL @ NYG,4.5,DAL,1
+18,b_hop,CLE @ CIN,-7.5,CLE,1
+18,b_hop,NO @ ATL,-3.5,NO,1
+18,b_hop,MIA @ NE,-10.5,NE,1
+18,b_hop,ARI @ LAR,-7.5,LAR,2
+18,b_hop,DET @ CHI,-2.5,DET,1
+18,b_hop,WAS @ PHI,-7.5,PHI,1
+18,b_hop,NYJ @ BUF,-7.5,BUF,1
+18,b_hop,KC @ LV,5.5,LV,1
+18,b_hop,LAC @ DEN,-12.5,DEN,1
+18,b_hop,BAL @ PIT,3.5,BAL,1
+18,derelicious,CAR @ TB,-2.5,TB,1
+18,derelicious,SEA @ SF,1.5,SF,2
+18,derelicious,GB @ MIN,-6.5,GB,1
+18,derelicious,TEN @ JAX,-12.5,JAX,1
+18,derelicious,IND @ HOU,-10.5,IND,1
+18,derelicious,DAL @ NYG,4.5,DAL,1
+18,derelicious,CLE @ CIN,-7.5,CLE,1
+18,derelicious,NO @ ATL,-3.5,ATL,1
+18,derelicious,MIA @ NE,-10.5,NE,1
+18,derelicious,ARI @ LAR,-7.5,LAR,1
+18,derelicious,DET @ CHI,-2.5,CHI,1
+18,derelicious,WAS @ PHI,-7.5,WAS,1
+18,derelicious,NYJ @ BUF,-7.5,BUF,1
+18,derelicious,KC @ LV,5.5,LV,1
+18,derelicious,LAC @ DEN,-12.5,LAC,1
+18,derelicious,BAL @ PIT,3.5,PIT,1
+18,Exciting Whites,CAR @ TB,-2.5,CAR,1
+18,Exciting Whites,SEA @ SF,1.5,SEA,1
+18,Exciting Whites,GB @ MIN,-6.5,GB,1
+18,Exciting Whites,TEN @ JAX,-12.5,JAX,1
+18,Exciting Whites,IND @ HOU,-10.5,HOU,1
+18,Exciting Whites,DAL @ NYG,4.5,NYG,1
+18,Exciting Whites,CLE @ CIN,-7.5,CIN,1
+18,Exciting Whites,NO @ ATL,-3.5,ATL,1
+18,Exciting Whites,MIA @ NE,-10.5,NE,1
+18,Exciting Whites,ARI @ LAR,-7.5,LAR,1
+18,Exciting Whites,DET @ CHI,-2.5,DET,1
+18,Exciting Whites,WAS @ PHI,-7.5,PHI,1
+18,Exciting Whites,NYJ @ BUF,-7.5,BUF,2
+18,Exciting Whites,KC @ LV,5.5,KC,1
+18,Exciting Whites,LAC @ DEN,-12.5,DEN,1
+18,Exciting Whites,BAL @ PIT,3.5,BAL,1
+18,Kevin,CAR @ TB,-2.5,CAR,1
+18,Kevin,SEA @ SF,1.5,SF,1
+18,Kevin,GB @ MIN,-6.5,MIN,1
+18,Kevin,TEN @ JAX,-12.5,JAX,1
+18,Kevin,IND @ HOU,-10.5,IND,1
+18,Kevin,DAL @ NYG,4.5,DAL,1
+18,Kevin,CLE @ CIN,-7.5,CLE,1
+18,Kevin,NO @ ATL,-3.5,ATL,1
+18,Kevin,MIA @ NE,-10.5,NE,1
+18,Kevin,ARI @ LAR,-7.5,ARI,1
+18,Kevin,DET @ CHI,-2.5,CHI,1
+18,Kevin,WAS @ PHI,-7.5,PHI,1
+18,Kevin,NYJ @ BUF,-7.5,BUF,1
+18,Kevin,KC @ LV,5.5,LV,1
+18,Kevin,LAC @ DEN,-12.5,DEN,1
+18,Kevin,BAL @ PIT,3.5,BAL,2
+18,Maye Magic,CAR @ TB,-2.5,CAR,1
+18,Maye Magic,SEA @ SF,1.5,SEA,1
+18,Maye Magic,GB @ MIN,-6.5,GB,1
+18,Maye Magic,TEN @ JAX,-12.5,TEN,1
+18,Maye Magic,IND @ HOU,-10.5,HOU,1
+18,Maye Magic,DAL @ NYG,4.5,DAL,1
+18,Maye Magic,CLE @ CIN,-7.5,CLE,1
+18,Maye Magic,NO @ ATL,-3.5,ATL,1
+18,Maye Magic,MIA @ NE,-10.5,MIA,1
+18,Maye Magic,ARI @ LAR,-7.5,LAR,1
+18,Maye Magic,DET @ CHI,-2.5,DET,1
+18,Maye Magic,WAS @ PHI,-7.5,PHI,1
+18,Maye Magic,NYJ @ BUF,-7.5,BUF,1
+18,Maye Magic,KC @ LV,5.5,KC,1
+18,Maye Magic,LAC @ DEN,-12.5,LAC,1
+18,Maye Magic,BAL @ PIT,3.5,PIT,2
+18,MC$,CAR @ TB,-2.5,CAR,1
+18,MC$,SEA @ SF,1.5,SF,1
+18,MC$,GB @ MIN,-6.5,MIN,1
+18,MC$,TEN @ JAX,-12.5,TEN,1
+18,MC$,IND @ HOU,-10.5,HOU,1
+18,MC$,DAL @ NYG,4.5,DAL,1
+18,MC$,CLE @ CIN,-7.5,CLE,1
+18,MC$,NO @ ATL,-3.5,ATL,1
+18,MC$,MIA @ NE,-10.5,MIA,1
+18,MC$,ARI @ LAR,-7.5,LAR,1
+18,MC$,DET @ CHI,-2.5,CHI,2
+18,MC$,WAS @ PHI,-7.5,PHI,1
+18,MC$,NYJ @ BUF,-7.5,BUF,1
+18,MC$,KC @ LV,5.5,KC,1
+18,MC$,LAC @ DEN,-12.5,LAC,1
+18,MC$,BAL @ PIT,3.5,BAL,1
+18,mrmcwinnerson,CAR @ TB,-2.5,TB,1
+18,mrmcwinnerson,SEA @ SF,1.5,SEA,1
+18,mrmcwinnerson,GB @ MIN,-6.5,MIN,1
+18,mrmcwinnerson,TEN @ JAX,-12.5,JAX,1
+18,mrmcwinnerson,IND @ HOU,-10.5,HOU,1
+18,mrmcwinnerson,DAL @ NYG,4.5,DAL,1
+18,mrmcwinnerson,CLE @ CIN,-7.5,CLE,1
+18,mrmcwinnerson,NO @ ATL,-3.5,ATL,1
+18,mrmcwinnerson,MIA @ NE,-10.5,NE,1
+18,mrmcwinnerson,ARI @ LAR,-7.5,LAR,1
+18,mrmcwinnerson,DET @ CHI,-2.5,CHI,1
+18,mrmcwinnerson,WAS @ PHI,-7.5,PHI,1
+18,mrmcwinnerson,NYJ @ BUF,-7.5,BUF,2
+18,mrmcwinnerson,KC @ LV,5.5,LV,1
+18,mrmcwinnerson,LAC @ DEN,-12.5,DEN,1
+18,mrmcwinnerson,BAL @ PIT,3.5,BAL,1
+18,P-Otys,CAR @ TB,-2.5,TB,1
+18,P-Otys,SEA @ SF,1.5,SEA,2
+18,P-Otys,GB @ MIN,-6.5,GB,1
+18,P-Otys,TEN @ JAX,-12.5,TEN,1
+18,P-Otys,IND @ HOU,-10.5,IND,1
+18,P-Otys,DAL @ NYG,4.5,NYG,1
+18,P-Otys,CLE @ CIN,-7.5,CLE,1
+18,P-Otys,NO @ ATL,-3.5,NO,1
+18,P-Otys,MIA @ NE,-10.5,MIA,1
+18,P-Otys,ARI @ LAR,-7.5,ARI,1
+18,P-Otys,DET @ CHI,-2.5,CHI,1
+18,P-Otys,WAS @ PHI,-7.5,PHI,1
+18,P-Otys,NYJ @ BUF,-7.5,BUF,1
+18,P-Otys,KC @ LV,5.5,KC,1
+18,P-Otys,LAC @ DEN,-12.5,LAC,1
+18,P-Otys,BAL @ PIT,3.5,PIT,1
+18,Ripw1124,CAR @ TB,-2.5,TB,1
+18,Ripw1124,SEA @ SF,1.5,SF,2
+18,Ripw1124,GB @ MIN,-6.5,GB,1
+18,Ripw1124,TEN @ JAX,-12.5,TEN,1
+18,Ripw1124,IND @ HOU,-10.5,HOU,1
+18,Ripw1124,DAL @ NYG,4.5,DAL,1
+18,Ripw1124,CLE @ CIN,-7.5,CIN,1
+18,Ripw1124,NO @ ATL,-3.5,ATL,1
+18,Ripw1124,MIA @ NE,-10.5,NE,1
+18,Ripw1124,ARI @ LAR,-7.5,LAR,1
+18,Ripw1124,DET @ CHI,-2.5,CHI,1
+18,Ripw1124,WAS @ PHI,-7.5,PHI,1
+18,Ripw1124,NYJ @ BUF,-7.5,BUF,1
+18,Ripw1124,KC @ LV,5.5,KC,1
+18,Ripw1124,LAC @ DEN,-12.5,LAC,1
+18,Ripw1124,BAL @ PIT,3.5,PIT,1
+18,Vegas,CAR @ TB,-2.5,TB,1
+18,Vegas,SEA @ SF,1.5,SEA,1
+18,Vegas,GB @ MIN,-6.5,MIN,1
+18,Vegas,TEN @ JAX,-12.5,JAX,2
+18,Vegas,IND @ HOU,-10.5,HOU,1
+18,Vegas,DAL @ NYG,4.5,DAL,1
+18,Vegas,CLE @ CIN,-7.5,CIN,1
+18,Vegas,NO @ ATL,-3.5,ATL,1
+18,Vegas,MIA @ NE,-10.5,NE,1
+18,Vegas,ARI @ LAR,-7.5,LAR,1
+18,Vegas,DET @ CHI,-2.5,CHI,1
+18,Vegas,WAS @ PHI,-7.5,PHI,1
+18,Vegas,NYJ @ BUF,-7.5,BUF,1
+18,Vegas,KC @ LV,5.5,KC,1
+18,Vegas,LAC @ DEN,-12.5,DEN,1
+18,Vegas,BAL @ PIT,3.5,BAL,1
+18,Willheser,CAR @ TB,-2.5,TB,1
+18,Willheser,SEA @ SF,1.5,SF,1
+18,Willheser,GB @ MIN,-6.5,GB,1
+18,Willheser,TEN @ JAX,-12.5,TEN,1
+18,Willheser,IND @ HOU,-10.5,HOU,1
+18,Willheser,DAL @ NYG,4.5,DAL,2
+18,Willheser,CLE @ CIN,-7.5,CLE,1
+18,Willheser,NO @ ATL,-3.5,ATL,1
+18,Willheser,MIA @ NE,-10.5,NE,1
+18,Willheser,ARI @ LAR,-7.5,LAR,1
+18,Willheser,DET @ CHI,-2.5,CHI,1
+18,Willheser,WAS @ PHI,-7.5,WAS,1
+18,Willheser,NYJ @ BUF,-7.5,NYJ,1
+18,Willheser,KC @ LV,5.5,KC,1
+18,Willheser,LAC @ DEN,-12.5,DEN,1
+18,Willheser,BAL @ PIT,3.5,PIT,1
+18,Yianni,CAR @ TB,-2.5,TB,1
+18,Yianni,SEA @ SF,1.5,SF,1
+18,Yianni,GB @ MIN,-6.5,GB,1
+18,Yianni,TEN @ JAX,-12.5,JAX,1
+18,Yianni,IND @ HOU,-10.5,HOU,1
+18,Yianni,DAL @ NYG,4.5,DAL,1
+18,Yianni,CLE @ CIN,-7.5,CIN,1
+18,Yianni,NO @ ATL,-3.5,NO,1
+18,Yianni,MIA @ NE,-10.5,NE,2
+18,Yianni,ARI @ LAR,-7.5,ARI,1
+18,Yianni,DET @ CHI,-2.5,CHI,1
+18,Yianni,WAS @ PHI,-7.5,WAS,1
+18,Yianni,NYJ @ BUF,-7.5,BUF,1
+18,Yianni,KC @ LV,5.5,KC,1
+18,Yianni,LAC @ DEN,-12.5,LAC,1
+18,Yianni,BAL @ PIT,3.5,PIT,1
+16,ADon,LAR @ SEA,0.5,SEA,2
+16,ADon,PHI @ WAS,6.5,PHI,1
+16,ADon,GB @ CHI,1.5,GB,1
+16,ADon,BUF @ CLE,10.5,BUF,1
+16,ADon,LAC @ DAL,-1.5,DAL,1
+16,ADon,NYJ @ NO,-4.5,NO,1
+16,ADon,TB @ CAR,2.5,TB,1
+16,ADon,MIN @ NYG,2.5,NYG,1
+16,ADon,KC @ TEN,3.5,KC,1
+16,ADon,CIN @ MIA,1.5,CIN,1
+16,ADon,JAX @ DEN,-2.5,JAX,1
+16,ADon,ATL @ ARI,2.5,ATL,1
+16,ADon,LV @ HOU,-14.5,HOU,1
+16,ADon,PIT @ DET,-6.5,PIT,1
+16,ADon,NE @ BAL,-2.5,NE,1
+16,ADon,SF @ IND,5.5,SF,1
+16,b_hop,LAR @ SEA,0.5,LAR,1
+16,b_hop,PHI @ WAS,6.5,PHI,1
+16,b_hop,GB @ CHI,1.5,GB,2
+16,b_hop,BUF @ CLE,10.5,BUF,1
+16,b_hop,LAC @ DAL,-1.5,LAC,1
+16,b_hop,NYJ @ NO,-4.5,NO,1
+16,b_hop,TB @ CAR,2.5,TB,1
+16,b_hop,MIN @ NYG,2.5,MIN,1
+16,b_hop,KC @ TEN,3.5,TEN,1
+16,b_hop,CIN @ MIA,1.5,CIN,1
+16,b_hop,JAX @ DEN,-2.5,DEN,1
+16,b_hop,ATL @ ARI,2.5,ATL,1
+16,b_hop,LV @ HOU,-14.5,HOU,1
+16,b_hop,PIT @ DET,-6.5,DET,1
+16,b_hop,NE @ BAL,-2.5,NE,1
+16,b_hop,SF @ IND,5.5,SF,1
+16,derelicious,LAR @ SEA,0.5,SEA,1
+16,derelicious,PHI @ WAS,6.5,PHI,1
+16,derelicious,GB @ CHI,1.5,CHI,1
+16,derelicious,BUF @ CLE,10.5,BUF,2
+16,derelicious,LAC @ DAL,-1.5,LAC,1
+16,derelicious,NYJ @ NO,-4.5,NO,1
+16,derelicious,TB @ CAR,2.5,TB,1
+16,derelicious,MIN @ NYG,2.5,MIN,1
+16,derelicious,KC @ TEN,3.5,KC,1
+16,derelicious,CIN @ MIA,1.5,CIN,1
+16,derelicious,JAX @ DEN,-2.5,JAX,1
+16,derelicious,ATL @ ARI,2.5,ATL,1
+16,derelicious,LV @ HOU,-14.5,HOU,1
+16,derelicious,PIT @ DET,-6.5,DET,1
+16,derelicious,NE @ BAL,-2.5,NE,1
+16,derelicious,SF @ IND,5.5,IND,1
+16,Exciting Whites,LAR @ SEA,0.5,SEA,1
+16,Exciting Whites,PHI @ WAS,6.5,PHI,1
+16,Exciting Whites,GB @ CHI,1.5,GB,1
+16,Exciting Whites,BUF @ CLE,10.5,BUF,1
+16,Exciting Whites,LAC @ DAL,-1.5,DAL,1
+16,Exciting Whites,NYJ @ NO,-4.5,NO,1
+16,Exciting Whites,TB @ CAR,2.5,CAR,1
+16,Exciting Whites,MIN @ NYG,2.5,MIN,1
+16,Exciting Whites,KC @ TEN,3.5,KC,1
+16,Exciting Whites,CIN @ MIA,1.5,CIN,2
+16,Exciting Whites,JAX @ DEN,-2.5,DEN,1
+16,Exciting Whites,ATL @ ARI,2.5,ATL,1
+16,Exciting Whites,LV @ HOU,-14.5,LV,1
+16,Exciting Whites,PIT @ DET,-6.5,DET,1
+16,Exciting Whites,NE @ BAL,-2.5,NE,1
+16,Exciting Whites,SF @ IND,5.5,SF,1
+16,Kevin,LAR @ SEA,0.5,LAR,1
+16,Kevin,PHI @ WAS,6.5,PHI,1
+16,Kevin,GB @ CHI,1.5,CHI,1
+16,Kevin,BUF @ CLE,10.5,BUF,1
+16,Kevin,LAC @ DAL,-1.5,LAC,1
+16,Kevin,NYJ @ NO,-4.5,NO,1
+16,Kevin,TB @ CAR,2.5,TB,1
+16,Kevin,MIN @ NYG,2.5,NYG,1
+16,Kevin,KC @ TEN,3.5,TEN,1
+16,Kevin,CIN @ MIA,1.5,CIN,1
+16,Kevin,JAX @ DEN,-2.5,DEN,1
+16,Kevin,ATL @ ARI,2.5,ARI,1
+16,Kevin,LV @ HOU,-14.5,HOU,1
+16,Kevin,PIT @ DET,-6.5,DET,1
+16,Kevin,NE @ BAL,-2.5,NE,2
+16,Kevin,SF @ IND,5.5,IND,1
+16,Maye Magic,LAR @ SEA,0.5,SEA,1
+16,Maye Magic,PHI @ WAS,6.5,PHI,1
+16,Maye Magic,GB @ CHI,1.5,GB,1
+16,Maye Magic,BUF @ CLE,10.5,BUF,1
+16,Maye Magic,LAC @ DAL,-1.5,LAC,1
+16,Maye Magic,NYJ @ NO,-4.5,NO,1
+16,Maye Magic,TB @ CAR,2.5,CAR,1
+16,Maye Magic,MIN @ NYG,2.5,MIN,1
+16,Maye Magic,KC @ TEN,3.5,KC,1
+16,Maye Magic,CIN @ MIA,1.5,CIN,1
+16,Maye Magic,JAX @ DEN,-2.5,DEN,1
+16,Maye Magic,ATL @ ARI,2.5,ATL,1
+16,Maye Magic,LV @ HOU,-14.5,LV,1
+16,Maye Magic,PIT @ DET,-6.5,PIT,1
+16,Maye Magic,NE @ BAL,-2.5,NE,2
+16,Maye Magic,SF @ IND,5.5,SF,1
+16,MC$,LAR @ SEA,0.5,LAR,1
+16,MC$,PHI @ WAS,6.5,PHI,1
+16,MC$,GB @ CHI,1.5,CHI,1
+16,MC$,BUF @ CLE,10.5,BUF,1
+16,MC$,LAC @ DAL,-1.5,LAC,1
+16,MC$,NYJ @ NO,-4.5,NO,1
+16,MC$,TB @ CAR,2.5,CAR,1
+16,MC$,MIN @ NYG,2.5,MIN,1
+16,MC$,KC @ TEN,3.5,KC,1
+16,MC$,CIN @ MIA,1.5,MIA,1
+16,MC$,JAX @ DEN,-2.5,DEN,2
+16,MC$,ATL @ ARI,2.5,ATL,1
+16,MC$,LV @ HOU,-14.5,LV,1
+16,MC$,PIT @ DET,-6.5,PIT,1
+16,MC$,NE @ BAL,-2.5,NE,1
+16,MC$,SF @ IND,5.5,SF,1
+16,mrmcwinnerson,LAR @ SEA,0.5,SEA,1
+16,mrmcwinnerson,PHI @ WAS,6.5,PHI,1
+16,mrmcwinnerson,GB @ CHI,1.5,CHI,1
+16,mrmcwinnerson,BUF @ CLE,10.5,BUF,1
+16,mrmcwinnerson,LAC @ DAL,-1.5,DAL,1
+16,mrmcwinnerson,NYJ @ NO,-4.5,NO,1
+16,mrmcwinnerson,TB @ CAR,2.5,TB,1
+16,mrmcwinnerson,MIN @ NYG,2.5,MIN,1
+16,mrmcwinnerson,KC @ TEN,3.5,TEN,1
+16,mrmcwinnerson,CIN @ MIA,1.5,MIA,1
+16,mrmcwinnerson,JAX @ DEN,-2.5,DEN,1
+16,mrmcwinnerson,ATL @ ARI,2.5,ATL,1
+16,mrmcwinnerson,LV @ HOU,-14.5,HOU,2
+16,mrmcwinnerson,PIT @ DET,-6.5,DET,1
+16,mrmcwinnerson,NE @ BAL,-2.5,BAL,1
+16,mrmcwinnerson,SF @ IND,5.5,SF,1
+16,P-Otys,LAR @ SEA,0.5,SEA,1
+16,P-Otys,PHI @ WAS,6.5,WAS,1
+16,P-Otys,GB @ CHI,1.5,CHI,1
+16,P-Otys,BUF @ CLE,10.5,CLE,1
+16,P-Otys,LAC @ DAL,-1.5,LAC,1
+16,P-Otys,NYJ @ NO,-4.5,NYJ,1
+16,P-Otys,TB @ CAR,2.5,CAR,1
+16,P-Otys,MIN @ NYG,2.5,NYG,1
+16,P-Otys,KC @ TEN,3.5,KC,2
+16,P-Otys,CIN @ MIA,1.5,MIA,1
+16,P-Otys,JAX @ DEN,-2.5,JAX,1
+16,P-Otys,ATL @ ARI,2.5,ATL,1
+16,P-Otys,LV @ HOU,-14.5,LV,1
+16,P-Otys,PIT @ DET,-6.5,PIT,1
+16,P-Otys,NE @ BAL,-2.5,NE,1
+16,P-Otys,SF @ IND,5.5,IND,1
+16,Ripw1124,LAR @ SEA,0.5,LAR,1
+16,Ripw1124,PHI @ WAS,6.5,PHI,1
+16,Ripw1124,GB @ CHI,1.5,CHI,1
+16,Ripw1124,BUF @ CLE,10.5,BUF,2
+16,Ripw1124,LAC @ DAL,-1.5,LAC,1
+16,Ripw1124,NYJ @ NO,-4.5,NO,1
+16,Ripw1124,TB @ CAR,2.5,TB,1
+16,Ripw1124,MIN @ NYG,2.5,MIN,1
+16,Ripw1124,KC @ TEN,3.5,KC,1
+16,Ripw1124,CIN @ MIA,1.5,MIA,1
+16,Ripw1124,JAX @ DEN,-2.5,DEN,1
+16,Ripw1124,ATL @ ARI,2.5,ATL,1
+16,Ripw1124,LV @ HOU,-14.5,LV,1
+16,Ripw1124,PIT @ DET,-6.5,PIT,1
+16,Ripw1124,NE @ BAL,-2.5,NE,1
+16,Ripw1124,SF @ IND,5.5,SF,1
+16,Vegas,LAR @ SEA,0.5,LAR,1
+16,Vegas,PHI @ WAS,6.5,PHI,1
+16,Vegas,GB @ CHI,1.5,GB,1
+16,Vegas,BUF @ CLE,10.5,BUF,1
+16,Vegas,LAC @ DAL,-1.5,DAL,1
+16,Vegas,NYJ @ NO,-4.5,NO,1
+16,Vegas,TB @ CAR,2.5,TB,1
+16,Vegas,MIN @ NYG,2.5,MIN,1
+16,Vegas,KC @ TEN,3.5,KC,1
+16,Vegas,CIN @ MIA,1.5,CIN,1
+16,Vegas,JAX @ DEN,-2.5,DEN,1
+16,Vegas,ATL @ ARI,2.5,ATL,1
+16,Vegas,LV @ HOU,-14.5,HOU,2
+16,Vegas,PIT @ DET,-6.5,DET,1
+16,Vegas,NE @ BAL,-2.5,BAL,1
+16,Vegas,SF @ IND,5.5,SF,1
+16,Willheser,LAR @ SEA,0.5,SEA,1
+16,Willheser,PHI @ WAS,6.5,PHI,1
+16,Willheser,GB @ CHI,1.5,GB,1
+16,Willheser,BUF @ CLE,10.5,BUF,1
+16,Willheser,LAC @ DAL,-1.5,LAC,1
+16,Willheser,NYJ @ NO,-4.5,NO,1
+16,Willheser,TB @ CAR,2.5,CAR,1
+16,Willheser,MIN @ NYG,2.5,MIN,1
+16,Willheser,KC @ TEN,3.5,KC,1
+16,Willheser,CIN @ MIA,1.5,CIN,1
+16,Willheser,JAX @ DEN,-2.5,DEN,1
+16,Willheser,ATL @ ARI,2.5,ATL,1
+16,Willheser,LV @ HOU,-14.5,LV,1
+16,Willheser,PIT @ DET,-6.5,DET,1
+16,Willheser,NE @ BAL,-2.5,NE,2
+16,Willheser,SF @ IND,5.5,SF,1
+16,Yianni,LAR @ SEA,0.5,SEA,2
+16,Yianni,PHI @ WAS,6.5,PHI,1
+16,Yianni,GB @ CHI,1.5,GB,1
+16,Yianni,BUF @ CLE,10.5,BUF,1
+16,Yianni,LAC @ DAL,-1.5,LAC,1
+16,Yianni,NYJ @ NO,-4.5,NO,1
+16,Yianni,TB @ CAR,2.5,TB,1
+16,Yianni,MIN @ NYG,2.5,MIN,1
+16,Yianni,KC @ TEN,3.5,KC,1
+16,Yianni,CIN @ MIA,1.5,CIN,1
+16,Yianni,JAX @ DEN,-2.5,JAX,1
+16,Yianni,ATL @ ARI,2.5,ATL,1
+16,Yianni,LV @ HOU,-14.5,LV,1
+16,Yianni,PIT @ DET,-6.5,DET,1
+16,Yianni,NE @ BAL,-2.5,NE,1
+16,Yianni,SF @ IND,5.5,SF,1
+1,ADon,DAL @ PHI,-7.5,PHI,1
+1,ADon,KC @ LAC,3.5,LAC,1
+1,ADon,TB @ ATL,2.5,TB,1
+1,ADon,PIT @ NYJ,2.5,NYJ,1
+1,ADon,MIA @ IND,-0.5,IND,1
+1,ADon,CAR @ JAX,-3.5,JAX,1
+1,ADon,NYG @ WAS,-6.5,NYG,1
+1,ADon,ARI @ NO,6.5,ARI,1
+1,ADon,CIN @ CLE,5.5,CIN,1
+1,ADon,LV @ NE,-2.5,NE,1
+1,ADon,SF @ SEA,2.5,SF,1
+1,ADon,TEN @ DEN,-7.5,DEN,2
+1,ADon,DET @ GB,-2.5,DET,1
+1,ADon,HOU @ LAR,-2.5,LAR,1
+1,ADon,BAL @ BUF,-0.5,BAL,1
+1,ADon,MIN @ CHI,1.5,MIN,1
+1,b_hop,DAL @ PHI,-7.5,PHI,1
+1,b_hop,KC @ LAC,3.5,LAC,1
+1,b_hop,TB @ ATL,2.5,TB,1
+1,b_hop,PIT @ NYJ,2.5,PIT,1
+1,b_hop,MIA @ IND,-0.5,IND,1
+1,b_hop,CAR @ JAX,-3.5,JAX,1
+1,b_hop,NYG @ WAS,-6.5,NYG,1
+1,b_hop,ARI @ NO,6.5,ARI,1
+1,b_hop,CIN @ CLE,5.5,CIN,2
+1,b_hop,LV @ NE,-2.5,NE,1
+1,b_hop,SF @ SEA,2.5,SEA,1
+1,b_hop,TEN @ DEN,-7.5,DEN,1
+1,b_hop,DET @ GB,-2.5,DET,1
+1,b_hop,HOU @ LAR,-2.5,LAR,1
+1,b_hop,BAL @ BUF,-0.5,BAL,1
+1,b_hop,MIN @ CHI,1.5,MIN,1
+1,derelicious,DAL @ PHI,-7.5,DAL,1
+1,derelicious,KC @ LAC,3.5,LAC,1
+1,derelicious,TB @ ATL,2.5,TB,2
+1,derelicious,PIT @ NYJ,2.5,NYJ,1
+1,derelicious,MIA @ IND,-0.5,IND,1
+1,derelicious,CAR @ JAX,-3.5,JAX,1
+1,derelicious,NYG @ WAS,-6.5,WAS,1
+1,derelicious,ARI @ NO,6.5,ARI,1
+1,derelicious,CIN @ CLE,5.5,CIN,1
+1,derelicious,LV @ NE,-2.5,NE,1
+1,derelicious,SF @ SEA,2.5,SF,1
+1,derelicious,TEN @ DEN,-7.5,DEN,1
+1,derelicious,DET @ GB,-2.5,DET,1
+1,derelicious,HOU @ LAR,-2.5,HOU,1
+1,derelicious,BAL @ BUF,-0.5,BUF,1
+1,derelicious,MIN @ CHI,1.5,CHI,1
+1,Exciting Whites,DAL @ PHI,-7.5,PHI,1
+1,Exciting Whites,KC @ LAC,3.5,KC,1
+1,Exciting Whites,TB @ ATL,2.5,TB,1
+1,Exciting Whites,PIT @ NYJ,2.5,NYJ,1
+1,Exciting Whites,MIA @ IND,-0.5,MIA,1
+1,Exciting Whites,CAR @ JAX,-3.5,JAX,1
+1,Exciting Whites,NYG @ WAS,-6.5,NYG,1
+1,Exciting Whites,ARI @ NO,6.5,ARI,1
+1,Exciting Whites,CIN @ CLE,5.5,CLE,1
+1,Exciting Whites,LV @ NE,-2.5,LV,1
+1,Exciting Whites,SF @ SEA,2.5,SF,1
+1,Exciting Whites,TEN @ DEN,-7.5,DEN,1
+1,Exciting Whites,DET @ GB,-2.5,DET,2
+1,Exciting Whites,HOU @ LAR,-2.5,LAR,1
+1,Exciting Whites,BAL @ BUF,-0.5,BUF,1
+1,Exciting Whites,MIN @ CHI,1.5,CHI,1
+1,Kevin,DAL @ PHI,-7.5,PHI,1
+1,Kevin,KC @ LAC,3.5,LAC,1
+1,Kevin,TB @ ATL,2.5,ATL,1
+1,Kevin,PIT @ NYJ,2.5,PIT,1
+1,Kevin,MIA @ IND,-0.5,MIA,1
+1,Kevin,CAR @ JAX,-3.5,JAX,1
+1,Kevin,NYG @ WAS,-6.5,WAS,1
+1,Kevin,ARI @ NO,6.5,ARI,1
+1,Kevin,CIN @ CLE,5.5,CIN,1
+1,Kevin,LV @ NE,-2.5,LV,1
+1,Kevin,SF @ SEA,2.5,SF,1
+1,Kevin,TEN @ DEN,-7.5,DEN,1
+1,Kevin,DET @ GB,-2.5,DET,1
+1,Kevin,HOU @ LAR,-2.5,LAR,1
+1,Kevin,BAL @ BUF,-0.5,BAL,2
+1,Kevin,MIN @ CHI,1.5,CHI,1
+1,Maye Magic,DAL @ PHI,-7.5,PHI,1
+1,Maye Magic,KC @ LAC,3.5,LAC,1
+1,Maye Magic,TB @ ATL,2.5,ATL,1
+1,Maye Magic,PIT @ NYJ,2.5,PIT,1
+1,Maye Magic,MIA @ IND,-0.5,IND,1
+1,Maye Magic,CAR @ JAX,-3.5,JAX,1
+1,Maye Magic,NYG @ WAS,-6.5,NYG,1
+1,Maye Magic,ARI @ NO,6.5,ARI,1
+1,Maye Magic,CIN @ CLE,5.5,CIN,1
+1,Maye Magic,LV @ NE,-2.5,NE,1
+1,Maye Magic,SF @ SEA,2.5,SEA,1
+1,Maye Magic,TEN @ DEN,-7.5,TEN,1
+1,Maye Magic,DET @ GB,-2.5,DET,1
+1,Maye Magic,HOU @ LAR,-2.5,HOU,1
+1,Maye Magic,BAL @ BUF,-0.5,BUF,1
+1,Maye Magic,MIN @ CHI,1.5,MIN,2
+1,MC$,DAL @ PHI,-7.5,PHI,2
+1,MC$,KC @ LAC,3.5,KC,1
+1,MC$,TB @ ATL,2.5,ATL,1
+1,MC$,PIT @ NYJ,2.5,PIT,1
+1,MC$,MIA @ IND,-0.5,IND,1
+1,MC$,CAR @ JAX,-3.5,JAX,1
+1,MC$,NYG @ WAS,-6.5,WAS,1
+1,MC$,ARI @ NO,6.5,NO,1
+1,MC$,CIN @ CLE,5.5,CLE,1
+1,MC$,LV @ NE,-2.5,LV,1
+1,MC$,SF @ SEA,2.5,SF,1
+1,MC$,TEN @ DEN,-7.5,DEN,1
+1,MC$,DET @ GB,-2.5,DET,1
+1,MC$,HOU @ LAR,-2.5,LAR,1
+1,MC$,BAL @ BUF,-0.5,BUF,1
+1,MC$,MIN @ CHI,1.5,MIN,1
+1,mrmcwinnerson,DAL @ PHI,-7.5,PHI,2
+1,mrmcwinnerson,KC @ LAC,3.5,KC,1
+1,mrmcwinnerson,TB @ ATL,2.5,TB,1
+1,mrmcwinnerson,PIT @ NYJ,2.5,PIT,1
+1,mrmcwinnerson,MIA @ IND,-0.5,MIA,1
+1,mrmcwinnerson,CAR @ JAX,-3.5,JAX,1
+1,mrmcwinnerson,NYG @ WAS,-6.5,WAS,1
+1,mrmcwinnerson,ARI @ NO,6.5,ARI,1
+1,mrmcwinnerson,CIN @ CLE,5.5,CIN,1
+1,mrmcwinnerson,LV @ NE,-2.5,NE,1
+1,mrmcwinnerson,SF @ SEA,2.5,SF,1
+1,mrmcwinnerson,TEN @ DEN,-7.5,DEN,1
+1,mrmcwinnerson,DET @ GB,-2.5,DET,1
+1,mrmcwinnerson,HOU @ LAR,-2.5,LAR,1
+1,mrmcwinnerson,BAL @ BUF,-0.5,BUF,1
+1,mrmcwinnerson,MIN @ CHI,1.5,MIN,1
+1,P-Otys,DAL @ PHI,-7.5,PHI,1
+1,P-Otys,KC @ LAC,3.5,KC,2
+1,P-Otys,TB @ ATL,2.5,TB,1
+1,P-Otys,PIT @ NYJ,2.5,NYJ,1
+1,P-Otys,MIA @ IND,-0.5,IND,1
+1,P-Otys,CAR @ JAX,-3.5,JAX,1
+1,P-Otys,NYG @ WAS,-6.5,NYG,1
+1,P-Otys,ARI @ NO,6.5,ARI,1
+1,P-Otys,CIN @ CLE,5.5,CIN,1
+1,P-Otys,LV @ NE,-2.5,LV,1
+1,P-Otys,SF @ SEA,2.5,SEA,1
+1,P-Otys,TEN @ DEN,-7.5,DEN,1
+1,P-Otys,DET @ GB,-2.5,DET,1
+1,P-Otys,HOU @ LAR,-2.5,LAR,1
+1,P-Otys,BAL @ BUF,-0.5,BAL,1
+1,P-Otys,MIN @ CHI,1.5,MIN,1
+1,Ripw1124,DAL @ PHI,-7.5,PHI,2
+1,Ripw1124,KC @ LAC,3.5,LAC,1
+1,Ripw1124,TB @ ATL,2.5,TB,1
+1,Ripw1124,PIT @ NYJ,2.5,PIT,1
+1,Ripw1124,MIA @ IND,-0.5,MIA,1
+1,Ripw1124,CAR @ JAX,-3.5,JAX,1
+1,Ripw1124,NYG @ WAS,-6.5,WAS,1
+1,Ripw1124,ARI @ NO,6.5,ARI,1
+1,Ripw1124,CIN @ CLE,5.5,CLE,1
+1,Ripw1124,LV @ NE,-2.5,NE,1
+1,Ripw1124,SF @ SEA,2.5,SF,1
+1,Ripw1124,TEN @ DEN,-7.5,DEN,1
+1,Ripw1124,DET @ GB,-2.5,DET,1
+1,Ripw1124,HOU @ LAR,-2.5,LAR,1
+1,Ripw1124,BAL @ BUF,-0.5,BAL,1
+1,Ripw1124,MIN @ CHI,1.5,CHI,1
+1,Vegas,DAL @ PHI,-7.5,PHI,2
+1,Vegas,KC @ LAC,3.5,KC,1
+1,Vegas,TB @ ATL,2.5,TB,1
+1,Vegas,PIT @ NYJ,2.5,PIT,1
+1,Vegas,MIA @ IND,-0.5,IND,1
+1,Vegas,CAR @ JAX,-3.5,JAX,1
+1,Vegas,NYG @ WAS,-6.5,WAS,1
+1,Vegas,ARI @ NO,6.5,ARI,1
+1,Vegas,CIN @ CLE,5.5,CIN,1
+1,Vegas,LV @ NE,-2.5,NE,1
+1,Vegas,SF @ SEA,2.5,SF,1
+1,Vegas,TEN @ DEN,-7.5,DEN,1
+1,Vegas,DET @ GB,-2.5,GB,1
+1,Vegas,HOU @ LAR,-2.5,LAR,1
+1,Vegas,BAL @ BUF,-0.5,BUF,1
+1,Vegas,MIN @ CHI,1.5,MIN,1
+1,Willheser,DAL @ PHI,-7.5,PHI,1
+1,Willheser,KC @ LAC,3.5,LAC,1
+1,Willheser,TB @ ATL,2.5,TB,1
+1,Willheser,PIT @ NYJ,2.5,PIT,1
+1,Willheser,MIA @ IND,-0.5,MIA,1
+1,Willheser,CAR @ JAX,-3.5,JAX,1
+1,Willheser,NYG @ WAS,-6.5,WAS,1
+1,Willheser,ARI @ NO,6.5,ARI,2
+1,Willheser,CIN @ CLE,5.5,CIN,1
+1,Willheser,LV @ NE,-2.5,LV,1
+1,Willheser,SF @ SEA,2.5,SEA,1
+1,Willheser,TEN @ DEN,-7.5,DEN,1
+1,Willheser,DET @ GB,-2.5,GB,1
+1,Willheser,HOU @ LAR,-2.5,LAR,1
+1,Willheser,BAL @ BUF,-0.5,BUF,1
+1,Willheser,MIN @ CHI,1.5,MIN,1
+1,Yianni,DAL @ PHI,-7.5,PHI,1
+1,Yianni,KC @ LAC,3.5,LAC,1
+1,Yianni,TB @ ATL,2.5,TB,1
+1,Yianni,PIT @ NYJ,2.5,PIT,1
+1,Yianni,MIA @ IND,-0.5,MIA,1
+1,Yianni,CAR @ JAX,-3.5,CAR,1
+1,Yianni,NYG @ WAS,-6.5,WAS,1
+1,Yianni,ARI @ NO,6.5,NO,1
+1,Yianni,CIN @ CLE,5.5,CIN,2
+1,Yianni,LV @ NE,-2.5,LV,1
+1,Yianni,SF @ SEA,2.5,SEA,1
+1,Yianni,TEN @ DEN,-7.5,DEN,1
+1,Yianni,DET @ GB,-2.5,DET,1
+1,Yianni,HOU @ LAR,-2.5,LAR,1
+1,Yianni,BAL @ BUF,-0.5,BUF,1
+1,Yianni,MIN @ CHI,1.5,MIN,1
