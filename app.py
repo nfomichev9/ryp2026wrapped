@@ -581,6 +581,10 @@ with tab3:
         "Pick your name, generate a game, and see if the ML model can predict your pick."
     )
 
+    if "predictor_total" not in st.session_state:
+        st.session_state.predictor_total = 0
+        st.session_state.predictor_correct = 0
+
     # ── Controls row (above the split) ────────────────────────────────────
     ctrl1, ctrl2 = st.columns([1, 1])
     with ctrl1:
@@ -601,41 +605,63 @@ with tab3:
             spread_val = round(random.choice(np.arange(-10, 10.5, 0.5)), 1)
             week_val = random.randint(1, 18)
             is_indoor = random.random() < 0.3
-            temp_val = 72 if is_indoor else random.randint(20, 95)
             wind_val = 0 if is_indoor else random.randint(0, 25)
             rain = not is_indoor and random.random() < 0.15
             cross = conf_map.get(home, "NFC") != conf_map.get(away, "NFC")
 
             st.session_state.scenario = {
                 "home": home, "away": away, "spread": spread_val, "week": week_val,
-                "indoor": is_indoor, "temp": temp_val, "wind": wind_val,
+                "indoor": is_indoor, "wind": wind_val,
                 "rain_snow": rain, "cross_conf": cross,
             }
             st.session_state.pop("user_pick", None)
 
         if "scenario" in st.session_state:
-            st.divider()
             s = st.session_state.scenario
+
+            # compute model confidence up front
+            model = models[selected_player]
+            prob_home = predict_pick(
+                model, feature_names,
+                home_team=s["home"], away_team=s["away"], spread=s["spread"],
+                week=s["week"], indoor=s["indoor"], temp=65,
+                wind=s["wind"], rain_snow=s["rain_snow"], cross_conf=s["cross_conf"],
+            )
+            prob_away = 1 - prob_home
+            model_pick = s["home"] if prob_home >= 0.5 else s["away"]
+            model_conf = max(prob_home, prob_away)
+
+            st.divider()
 
             # ── Two-panel layout with divider ─────────────────────────
             left_col, divider_col, right_col = st.columns([10, 1, 10])
 
             with left_col:
                 spread_display = f"{s['home']} {s['spread']:+.1f}" if s["spread"] < 0 else f"{s['away']} {-s['spread']:+.1f}"
-                weather_str = "Indoor" if s["indoor"] else f"{s['temp']}\u00b0F, {s['wind']} mph wind" + (", rain/snow" if s["rain_snow"] else "")
+                weather_str = "Indoor" if s["indoor"] else f"{s['wind']} mph wind" + (", rain/snow" if s["rain_snow"] else "")
                 conf_str = "Cross-conference" if s["cross_conf"] else "Same conference"
 
                 st.markdown(f"### Week {s['week']}: {s['away']} @ {s['home']}")
+                st.caption(f"Model confidence for this game: **{model_conf:.0%}**")
                 st.markdown(f"**Spread:** {spread_display}")
                 st.markdown(f"**Weather:** {weather_str} | {conf_str}")
 
                 pick_l, pick_r = st.columns(2)
+                picked = None
                 with pick_l:
                     if st.button(f"Pick {s['away']} (Away)", use_container_width=True, type="secondary"):
-                        st.session_state.user_pick = s["away"]
+                        picked = s["away"]
                 with pick_r:
                     if st.button(f"Pick {s['home']} (Home)", use_container_width=True, type="secondary"):
-                        st.session_state.user_pick = s["home"]
+                        picked = s["home"]
+
+                if picked is not None:
+                    st.session_state.predictor_total += 1
+                    if picked == model_pick:
+                        st.session_state.predictor_correct += 1
+                    # generate new game and rerun
+                    st.session_state.pop("scenario", None)
+                    st.rerun()
 
             with divider_col:
                 st.markdown(
@@ -644,99 +670,89 @@ with tab3:
                 )
 
             with right_col:
-                if "user_pick" in st.session_state:
-                    user_pick = st.session_state.user_pick
-                    model = models[selected_player]
-                    prob_home = predict_pick(
-                        model, feature_names,
-                        home_team=s["home"], away_team=s["away"], spread=s["spread"],
-                        week=s["week"], indoor=s["indoor"], temp=s["temp"],
-                        wind=s["wind"], rain_snow=s["rain_snow"], cross_conf=s["cross_conf"],
-                    )
-                    prob_away = 1 - prob_home
-                    model_pick = s["home"] if prob_home >= 0.5 else s["away"]
-                    model_conf = max(prob_home, prob_away)
+                total = st.session_state.predictor_total
+                correct = st.session_state.predictor_correct
+                if total > 0:
+                    pct = f" ({correct/total:.0%})"
+                    st.success(f"Model score: {correct}/{total} correct{pct}")
 
-                    st.markdown(f"**You picked:** {user_pick}")
-                    st.markdown(f"**Model predicted:** {model_pick} ({model_conf:.0%} confidence)")
+                st.markdown("### Make your pick")
+                st.markdown("Pick a team on the left to see if the model predicted your choice.")
 
-                    fig_prob = go.Figure(go.Bar(
-                        x=[prob_away, prob_home],
-                        y=[s["away"], s["home"]],
-                        orientation="h",
-                        marker_color=["#EF553B", "#636EFA"],
-                        text=[f"{prob_away:.0%}", f"{prob_home:.0%}"],
-                        textposition="auto",
-                    ))
-                    fig_prob.update_layout(
-                        xaxis_title="Probability", yaxis_title="",
-                        height=180, margin=dict(t=10, b=20),
-                    )
-                    st.plotly_chart(fig_prob, use_container_width=True)
+                fig_prob = go.Figure(go.Bar(
+                    x=[prob_away, prob_home],
+                    y=["Away", "Home"],
+                    orientation="h",
+                    marker_color=["#EF553B", "#636EFA"],
+                    text=[f"{prob_away:.0%}", f"{prob_home:.0%}"],
+                    textposition="auto",
+                ))
+                fig_prob.update_layout(
+                    xaxis_title="Probability", yaxis_title="",
+                    height=180, margin=dict(t=10, b=20),
+                )
+                st.plotly_chart(fig_prob, use_container_width=True)
 
-                    # ── Why the model thinks this ─────────────────────
-                    st.markdown("**Why the model thinks this:**")
-                    feat_row = {name: 0 for name in feature_names}
-                    feat_row["spread"] = s["spread"]
-                    feat_row["spread_abs"] = abs(s["spread"])
-                    feat_row["week"] = s["week"]
-                    feat_row[f"home_{s['home']}"] = 1
-                    feat_row[f"away_{s['away']}"] = 1
-                    feat_row["cross_conference"] = int(s["cross_conf"])
-                    feat_row["indoor"] = int(s["indoor"])
-                    feat_row["temp"] = s["temp"]
-                    feat_row["wind"] = s["wind"]
-                    feat_row["rain_snow"] = int(s["rain_snow"])
+                # ── Why the model thinks this ─────────────────────
+                st.markdown("**Why the model thinks this:**")
+                feat_row = {name: 0 for name in feature_names}
+                feat_row["spread"] = s["spread"]
+                feat_row["spread_abs"] = abs(s["spread"])
+                feat_row["week"] = s["week"]
+                feat_row[f"home_{s['home']}"] = 1
+                feat_row[f"away_{s['away']}"] = 1
+                feat_row["cross_conference"] = int(s["cross_conf"])
+                feat_row["indoor"] = int(s["indoor"])
+                feat_row["temp"] = 65
+                feat_row["wind"] = s["wind"]
+                feat_row["rain_snow"] = int(s["rain_snow"])
 
-                    # get PAA for this player's team preferences
-                    player_paa = c["paa"]
-                    player_paa_row = {}
-                    if selected_player in player_paa.index:
-                        player_paa_row = player_paa.loc[selected_player].to_dict()
+                # get PAA for this player's team preferences
+                player_paa = c["paa"]
+                player_paa_row = {}
+                if selected_player in player_paa.index:
+                    player_paa_row = player_paa.loc[selected_player].to_dict()
 
-                    coefs = model.coef_[0]
-                    contributions = []
-                    for i, fname in enumerate(feature_names):
-                        val = feat_row[fname]
-                        contrib = coefs[i] * val
-                        if abs(contrib) > 0.01:
-                            if fname.startswith("home_"):
-                                team_id = fname[5:]
-                                paa_val = player_paa_row.get(team_id, 0)
-                                paa_note = f" (PAA: {paa_val:+.1f})" if abs(paa_val) >= 1 else ""
-                                label = f"{team_id} at home{paa_note}"
-                            elif fname.startswith("away_"):
-                                team_id = fname[5:]
-                                paa_val = player_paa_row.get(team_id, 0)
-                                paa_note = f" (PAA: {paa_val:+.1f})" if abs(paa_val) >= 1 else ""
-                                label = f"{team_id} on the road{paa_note}"
-                            elif fname == "spread":
-                                label = f"Spread ({val:+.1f})"
-                            elif fname == "spread_abs":
-                                label = f"Spread size ({val:.1f} pts)"
-                            elif fname == "temp":
-                                label = f"Temperature ({int(val)}\u00b0F)"
-                            elif fname == "wind":
-                                label = f"Wind ({int(val)} mph)"
-                            elif fname == "indoor":
-                                label = "Indoor game" if val else "Outdoor game"
-                            elif fname == "rain_snow":
-                                label = "Rain/snow" if val else "Clear weather"
-                            elif fname == "cross_conference":
-                                label = "Cross-conference" if val else "Same conference"
-                            elif fname == "week":
-                                label = f"Week {int(val)}"
-                            else:
-                                label = fname
-                            contributions.append((label, contrib))
+                coefs = model.coef_[0]
+                contributions = []
+                for i, fname in enumerate(feature_names):
+                    val = feat_row[fname]
+                    contrib = coefs[i] * val
+                    if abs(contrib) > 0.01:
+                        if fname.startswith("home_"):
+                            team_id = fname[5:]
+                            paa_val = player_paa_row.get(team_id, 0)
+                            paa_note = f" (PAA: {paa_val:+.1f})" if abs(paa_val) >= 1 else ""
+                            label = f"{team_id} at home{paa_note}"
+                        elif fname.startswith("away_"):
+                            team_id = fname[5:]
+                            paa_val = player_paa_row.get(team_id, 0)
+                            paa_note = f" (PAA: {paa_val:+.1f})" if abs(paa_val) >= 1 else ""
+                            label = f"{team_id} on the road{paa_note}"
+                        elif fname == "spread":
+                            label = f"Spread ({val:+.1f})"
+                        elif fname == "spread_abs":
+                            label = f"Spread size ({val:.1f} pts)"
+                        elif fname == "temp":
+                            continue
+                        elif fname == "wind":
+                            label = f"Wind ({int(val)} mph)"
+                        elif fname == "indoor":
+                            label = "Indoor game" if val else "Outdoor game"
+                        elif fname == "rain_snow":
+                            label = "Rain/snow" if val else "Clear weather"
+                        elif fname == "cross_conference":
+                            label = "Cross-conference" if val else "Same conference"
+                        elif fname == "week":
+                            label = f"Week {int(val)}"
+                        else:
+                            label = fname
+                        contributions.append((label, contrib))
 
-                    contributions.sort(key=lambda x: abs(x[1]), reverse=True)
-                    top_factors = contributions[:4]
-                    reasons = []
-                    for label, contrib in top_factors:
-                        direction = "toward home" if contrib > 0 else "toward away"
-                        reasons.append(f"- {label} pushes {direction}")
-                    st.markdown("\n".join(reasons))
-                else:
-                    st.markdown("### Make your pick")
-                    st.markdown("Pick a team on the left to see the model's prediction.")
+                contributions.sort(key=lambda x: abs(x[1]), reverse=True)
+                top_factors = contributions[:4]
+                reasons = []
+                for label, contrib in top_factors:
+                    direction = "toward home" if contrib > 0 else "toward away"
+                    reasons.append(f"- {label} pushes {direction}")
+                st.markdown("\n".join(reasons))
