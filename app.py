@@ -58,7 +58,7 @@ with tab0:
             " **Exciting Whites** and **Yianni** are heading into the final game tied at **174 points**. "
             "This is the first time the season has come down to the final game since our "
             "2022-23 season. Hope you boys pick different teams!\n\n"
-            "Either way, we crown a new league winner: standout rookie **Exciting Whites** or **Yianni**.\n\n"
+            "In 4 previous years, we had 2 champs (Kevin x2, Maye Magic x2) but today we crown a new league winner: standout rookie **Exciting Whites** or **Yianni**.\n\n"
             "The race was tight all season — **5 different leaders** across 18 weeks and "
             "**10 different managers** posted the highest weekly score at some point.\n\n"
             "Lots of shoutouts to **Exciting Whites** this season — one-hit wonder with "
